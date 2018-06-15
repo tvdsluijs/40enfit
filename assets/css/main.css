@@ -1479,3 +1479,51 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+/*Voor review deel*/
+.review-box{
+  width: 270px;
+  float:right;
+  padding: 0px 10px 10px 20px;
+  margin: 5px 10px 15px 0px;
+}
+
+.chart-bar {
+  margin: 15px 0;
+}
+
+.review-box-title {
+  font-size: 25px;
+  text-align: justify;
+  width: 100%;
+}
+
+.chart-bar .chart-bar-bg, .chart-bar .chart-bar-percent {
+  height: 10px;
+}
+
+.chart-bar .chart-bar-bg {
+  background-color: #eee;
+}
+
+.chart-bar .chart-bar-value {
+  float: right;
+}
+
+.chart-bar .chart-bar-title, .chart-bar .chart-bar-value {
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.chart-bar .chart-bar-percent {
+  background-color: #333;
+}
+
+.fa {
+  font-size: 25px;
+}
+
+.checked {
+  color: orange;
+}

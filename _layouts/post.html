@@ -3,22 +3,30 @@ layout: main
 ---
 <article class="article-page">
   <div class="page-content">
-    {% if page.img %}
+    {%- if page.img %}
     <div class="page-cover-image">
       <figure>
-        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-        {% if page.fig-caption %}
+        {%- if page.img contains 'https' %}
+          <img class="page-image" src="{{page.img}}" alt="{{page.title}}">
+        {%- else %}
+          <img class="page-image" src="{{ '/images/' | prepend: site.baseurl | append : page.img}}" alt="{{page.title}}">
+        {%- endif %}
+        {%- if page.fig-caption %}
           <figcaption>{{page.fig-caption}}</figcaption>
-        {% endif %}
+        {%- endif %}
       </figure>
     </div> <!-- End Page Cover Image -->
-    {% else %}
-    {% endif %}
+    {%- endif %}
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
-        <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}</span></div>
       </header>
+
+      {% if page.vw_review_average_score%}
+      {% include review.html %}
+      {% endif %}
+
       {{content | markdownify}}
       <div class="page-footer">
         <div class="page-share">
@@ -27,9 +35,9 @@ layout: main
           <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
         </div>
         <div class="page-tag">
-          {% for tag in page.tags %}
+          {%- for tag in page.tags %}
             <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
-          {% endfor %}
+          {%- endfor %}
         </div>
       </div>
       {% include disqus.html %}
