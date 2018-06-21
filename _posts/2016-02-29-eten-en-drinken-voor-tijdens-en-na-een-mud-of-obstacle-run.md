@@ -2,7 +2,7 @@
 id: 1147
 title: Eten en drinken voor tijdens en na een mud of obstacle run
 date: 2016-02-29T21:37:01+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /eten-en-drinken-voor-tijdens-en-na-een-mud-of-obstacle-run/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5603057937"
-img: https://40enfit.resultants-e.nl/2015/10/IMG_1672.jpg
+image: https://40enfit.resultants-e.nl/2015/10/IMG_1672.jpg
 categories:
   - Food
   - 'Tips &amp; Tricks'

@@ -2,7 +2,7 @@
 id: 635
 title: Review Promixx Vortex Mixer
 date: 2015-08-31T06:51:49+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-promixx-vortex-mixer/
@@ -46,7 +46,7 @@ vw_review_summary:
 
 dsq_thread_id:
   - "5637576430"
-img: https://40enfit.resultants-e.nl/2015/08/promixx.png
+image: https://40enfit.resultants-e.nl/2015/08/promixx.png
 categories:
   - Reviews
 format: video

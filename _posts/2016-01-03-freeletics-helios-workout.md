@@ -2,7 +2,7 @@
 id: 1051
 title: Freeletics Helios Workout
 date: 2016-01-03T06:56:46+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-helios-workout/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5765681349"
-img: https://40enfit.resultants-e.nl/2016/01/freeletics_1.jpg
+image: https://40enfit.resultants-e.nl/2016/01/freeletics_1.jpg
 categories:
   - Training
 tags:

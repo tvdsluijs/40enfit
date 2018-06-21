@@ -2,7 +2,7 @@
 id: 231
 title: Afvallen lukt al aardig met 9 kilo
 date: 2015-06-09T16:52:48+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /afvallen-lukt-al-aardig-met-9-kilo/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5706862957"
-img: https://40enfit.resultants-e.nl/2015/06/77-kilo-40-en-fit.png
+image: https://40enfit.resultants-e.nl/2015/06/77-kilo-40-en-fit.png
 categories:
   - Lifestyle
 tags:

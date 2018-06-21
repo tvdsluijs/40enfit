@@ -2,7 +2,7 @@
 id: 412
 title: Waarom eet ik altijd die hele zak chips leeg?
 date: 2015-08-04T06:00:43+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /waarom-eet-ik-altijd-die-hele-zak-chips-leeg/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "6048889426"
-img: https://40enfit.resultants-e.nl/2015/08/B248A563-1F48-4251-810E-AF0F81C84CFE.jpg
+image: https://40enfit.resultants-e.nl/2015/08/B248A563-1F48-4251-810E-AF0F81C84CFE.jpg
 categories:
   - Food
 tags:

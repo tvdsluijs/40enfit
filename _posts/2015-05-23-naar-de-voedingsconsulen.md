@@ -2,7 +2,7 @@
 id: 12
 title: Naar de voedingsconsulent
 date: 2015-05-23T13:30:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /naar-de-voedingsconsulen/
@@ -15,7 +15,7 @@ permalink: /naar-de-voedingsconsulen/
 
 dsq_thread_id:
   - "5740410433"
-img: https://40enfit.resultants-e.nl/2015/05/8077920518_6d999ebe68_c.jpg
+image: https://40enfit.resultants-e.nl/2015/05/8077920518_6d999ebe68_c.jpg
 categories:
   - Food
   - Lifestyle

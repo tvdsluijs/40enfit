@@ -2,7 +2,7 @@
 id: 5
 title: Nieuw logo, 2,5 maand en 50 berichten verder
 date: 2015-05-30T06:00:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /nieuw-logo-25-maand-en-50-berichten/
@@ -15,7 +15,7 @@ permalink: /nieuw-logo-25-maand-en-50-berichten/
 
 dsq_thread_id:
   - "6310869072"
-img: https://40enfit.resultants-e.nl/2015/05/2.jpg
+image: https://40enfit.resultants-e.nl/2015/05/2.jpg
 categories:
   - General
 tags:

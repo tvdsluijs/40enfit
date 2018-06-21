@@ -2,7 +2,7 @@
 id: 237
 title: Voedingsconsulent weet raad bij behoud en opbouw spiermassa
 date: 2015-06-13T09:23:27+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /voedingsconsulent-weet-raad-bij-behoud-en-opbouw-spiermassa/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5602650190"
-img: https://40enfit.resultants-e.nl/2015/06/FullSizeRender.jpg
+image: https://40enfit.resultants-e.nl/2015/06/FullSizeRender.jpg
 categories:
   - Food
   - Lifestyle

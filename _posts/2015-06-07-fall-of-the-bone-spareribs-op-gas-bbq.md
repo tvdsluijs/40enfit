@@ -2,7 +2,7 @@
 id: 202
 title: Fall of the Bone Spareribs op Gas BBQ
 date: 2015-06-07T14:01:35+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /fall-of-the-bone-spareribs-op-gas-bbq/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5602650356"
-img: https://40enfit.resultants-e.nl/2015/06/fall_of_the_bone.jpg
+image: https://40enfit.resultants-e.nl/2015/06/fall_of_the_bone.jpg
 categories:
   - Food
 tags:

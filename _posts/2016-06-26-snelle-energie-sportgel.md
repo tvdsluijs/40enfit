@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5606500283"
-img: https://40enfit.resultants-e.nl/2016/06/ultragelsgroups.png
+image: https://40enfit.resultants-e.nl/2016/06/ultragelsgroups.png
 categories:
   - Food
 tags:

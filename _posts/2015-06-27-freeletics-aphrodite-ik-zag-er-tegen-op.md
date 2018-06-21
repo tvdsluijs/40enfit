@@ -2,7 +2,7 @@
 id: 321
 title: Freeletics Aphrodite, ik zag er tegen op!
 date: 2015-06-27T11:07:33+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-aphrodite-ik-zag-er-tegen-op/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5607277098"
-img: https://40enfit.resultants-e.nl/2015/06/freeletics-excuse_7.jpg
+image: https://40enfit.resultants-e.nl/2015/06/freeletics-excuse_7.jpg
 categories:
   - Training
 tags:

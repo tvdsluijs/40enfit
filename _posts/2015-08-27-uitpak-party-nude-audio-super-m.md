@@ -2,7 +2,7 @@
 id: 603
 title: Uitpak party Nude Audio Super M
 date: 2015-08-27T22:10:37+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /uitpak-party-nude-audio-super-m/
@@ -15,7 +15,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5919905788"
-img: https://40enfit.resultants-e.nl/2015/08/IMG_1012.jpg
+image: https://40enfit.resultants-e.nl/2015/08/IMG_1012.jpg
 categories:
   - Gear
 tags:

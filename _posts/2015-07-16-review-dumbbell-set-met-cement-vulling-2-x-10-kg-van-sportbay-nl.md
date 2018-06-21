@@ -2,7 +2,7 @@
 id: 365
 title: 'Review: Dumbbell Set met cement vulling 2 x 10 kg van Sportbay.nl'
 date: 2015-07-16T06:23:47+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-dumbbell-set-met-cement-vulling-2-x-10-kg-van-sportbay-nl/
@@ -41,7 +41,7 @@ vw_review_summary:
 
 dsq_thread_id:
   - "5654412129"
-img: https://40enfit.resultants-e.nl/2015/07/Dumbbell_Set_met_cement_vulling_2_x_10_kg.jpg
+image: https://40enfit.resultants-e.nl/2015/07/Dumbbell_Set_met_cement_vulling_2_x_10_kg.jpg
 categories:
   - Gear
   - Reviews

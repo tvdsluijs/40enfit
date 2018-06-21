@@ -2,7 +2,7 @@
 id: 989
 title: Wat trek je aan voor een winter Obstacle run
 date: 2015-12-01T05:05:31+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /wat-trek-je-aan-voor-een-winter-obstacle-run/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5603057024"
-img: https://40enfit.resultants-e.nl/2015/10/IMG_1688.jpg
+image: https://40enfit.resultants-e.nl/2015/10/IMG_1688.jpg
 categories:
   - Gear
   - Lifestyle

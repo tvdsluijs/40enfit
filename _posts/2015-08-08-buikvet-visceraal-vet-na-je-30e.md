@@ -2,7 +2,7 @@
 id: 463
 title: Buikvet visceraal vet na je 30e
 date: 2015-08-08T20:24:22+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /buikvet-visceraal-vet-na-je-30e/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5628442047"
-img: https://40enfit.resultants-e.nl/2015/08/Theo_van_der_sluijs_40_en_fit_3.jpg
+image: https://40enfit.resultants-e.nl/2015/08/Theo_van_der_sluijs_40_en_fit_3.jpg
 categories:
   - Lifestyle
   - Training

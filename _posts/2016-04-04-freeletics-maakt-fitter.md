@@ -2,7 +2,7 @@
 id: 1215
 title: Freeletics maakt je fitter
 date: 2016-04-04T07:00:48+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-maakt-fitter/
@@ -14,7 +14,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5605134638"
-img: https://40enfit.resultants-e.nl/2016/04/DSC00199.jpg
+image: https://40enfit.resultants-e.nl/2016/04/DSC00199.jpg
 categories:
   - Lifestyle
   - Training

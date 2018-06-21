@@ -2,7 +2,7 @@
 id: 712
 title: Strong Viking Run Spaarnwoude
 date: 2015-09-17T19:12:24+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /strong-viking-run-spaarnwoude/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5688724786"
-img: https://40enfit.resultants-e.nl/2015/09/Strong-Viking-Logo-e1442509846568.jpg
+image: https://40enfit.resultants-e.nl/2015/09/Strong-Viking-Logo-e1442509846568.jpg
 categories:
   - Events
   - Lifestyle

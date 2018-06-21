@@ -2,7 +2,7 @@
 id: 838
 title: Scheerplein.nl doos uitpakparty
 date: 2015-10-22T20:49:41+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /scheerplein-nl-doos-uitpakparty/
@@ -15,7 +15,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5922288460"
-img: https://40enfit.resultants-e.nl/2015/10/IMG_1606.jpg
+image: https://40enfit.resultants-e.nl/2015/10/IMG_1606.jpg
 categories:
   - Lifestyle
   - Reviews

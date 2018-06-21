@@ -2,7 +2,7 @@
 id: 319
 title: Freeletics mijn eerste workout, ik bedoel test
 date: 2015-06-24T07:01:02+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-mijn-eerste-test/

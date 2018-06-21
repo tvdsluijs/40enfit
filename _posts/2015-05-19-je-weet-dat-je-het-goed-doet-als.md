@@ -2,7 +2,7 @@
 id: 13
 title: 'Je weet dat je het goed doet als&#8230;.'
 date: 2015-05-19T20:33:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /je-weet-dat-je-het-goed-doet-als/
@@ -16,7 +16,7 @@ permalink: /je-weet-dat-je-het-goed-doet-als/
 
 dsq_thread_id:
   - "5848610856"
-img: https://40enfit.resultants-e.nl/2015/05/7350782488_33de247dd5_c.jpg
+image: https://40enfit.resultants-e.nl/2015/05/7350782488_33de247dd5_c.jpg
 categories:
   - Lifestyle
 tags:

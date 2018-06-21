@@ -2,9 +2,9 @@
 id: 3046
 title: Wat is Soigneren en waarom ik een gedragsboek mis
 date: 2016-08-22T09:06:34+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
-
+featured: true
 permalink: /wat-is-soigneren/
 
 
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5604483315"
-img: https://40enfit.resultants-e.nl/2016/08/Courier_547.jpg
+image: https://40enfit.resultants-e.nl/2016/08/Courier_547.jpg
 categories:
   - Bikes
   - Lifestyle
@@ -29,8 +29,6 @@ En dan heb ik het niet over, netjes voorrang verlenen, wat de meeste wielrenners
 _Let op: Dit artikel is puur ter vermaak, ik wil niemand kwetsen of op zijn of haar nummer zetten. Voel je je aangesproken, misschien moet je dan eens denken…misschien moet ik me eens niet zo arrogant opstellen als ik op mijn fiets zit._
   
 <!--more-->
-
-
   
 Ik soigneer, wij soigneren een term uit de fietswereld en dan met name uit het wielrennen. Ik heb er niets mee omdat ik vind dat de meeste wielrenners nogal arrogant zijn.
 

@@ -2,7 +2,7 @@
 id: 4
 title: Top 5 nadelen afvallen
 date: 2015-05-30T09:48:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /top-5-nadelen-afvallen/
@@ -20,7 +20,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "6121091120"
-img: https://40enfit.resultants-e.nl/2015/05/5385516173_60291b327d_z.jpg
+image: https://40enfit.resultants-e.nl/2015/05/5385516173_60291b327d_z.jpg
 categories:
   - Lifestyle
 tags:

@@ -2,7 +2,7 @@
 id: 325
 title: Afvallen doel gehaald, deel 1
 date: 2015-06-27T20:03:39+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /afvallen-doel-gehaald-deel-1/
@@ -15,7 +15,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5607279719"
-img: https://40enfit.resultants-e.nl/2015/06/IMG_5853.jpg
+image: https://40enfit.resultants-e.nl/2015/06/IMG_5853.jpg
 categories:
   - Lifestyle
 format: video

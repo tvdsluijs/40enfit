@@ -2,7 +2,7 @@
 id: 43
 title: Is MyMuesli een goed Cruesli / Muesli alternatief?
 date: 2015-04-12T19:45:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /is-mymuesli-een-goed-cruesli-muesli/
@@ -15,7 +15,7 @@ permalink: /is-mymuesli-een-goed-cruesli-muesli/
 
 dsq_thread_id:
   - "5623634460"
-img: https://40enfit.resultants-e.nl/2015/04/16499348864_251e22f107_c.jpg
+image: https://40enfit.resultants-e.nl/2015/04/16499348864_251e22f107_c.jpg
 categories:
   - Food
 tags:

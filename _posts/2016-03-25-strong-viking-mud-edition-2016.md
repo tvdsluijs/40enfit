@@ -2,7 +2,7 @@
 id: 1168
 title: Strong Viking Mud Edition 2016
 date: 2016-03-25T14:38:21+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /strong-viking-mud-edition-2016/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5603648354"
-img: https://40enfit.resultants-e.nl/2016/03/125310_carrytotaalzo_su16_img_4355-e1458913085826.jpg
+image: https://40enfit.resultants-e.nl/2016/03/125310_carrytotaalzo_su16_img_4355-e1458913085826.jpg
 categories:
   - Events
 tags:

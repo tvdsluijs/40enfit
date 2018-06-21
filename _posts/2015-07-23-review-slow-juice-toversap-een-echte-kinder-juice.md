@@ -2,7 +2,7 @@
 id: 398
 title: 'Review: Slow Juice Toversap een echte kinder juice'
 date: 2015-07-23T20:03:32+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-slow-juice-toversap-een-echte-kinder-juice/
@@ -32,7 +32,7 @@ vw_review_summary:
   - Voor kinderen een prima sapje. Lekker zoet en super gezond. Zo krijg je de vitamientjes wel naar binnen bij de kids. Voor een kinderdrankje wat aan de prijs.
 dsq_thread_id:
   - "5607457563"
-img: https://40enfit.resultants-e.nl/2015/07/IMG_6067.jpg
+image: https://40enfit.resultants-e.nl/2015/07/IMG_6067.jpg
 categories:
   - Food
   - Reviews

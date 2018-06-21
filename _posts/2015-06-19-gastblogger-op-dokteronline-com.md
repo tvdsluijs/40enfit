@@ -2,7 +2,7 @@
 id: 287
 title: Gastblogger op Dokteronline.com
 date: 2015-06-19T19:11:58+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /gastblogger-op-dokteronline-com/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5605771547"
-img: https://40enfit.resultants-e.nl/2015/06/Screen-Shot-2015-06-19-at-20.50.37.png
+image: https://40enfit.resultants-e.nl/2015/06/Screen-Shot-2015-06-19-at-20.50.37.png
 categories:
   - Lifestyle
 ---

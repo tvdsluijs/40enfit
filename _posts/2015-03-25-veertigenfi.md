@@ -2,11 +2,11 @@
 id: 55
 title: Veertig en Fit
 date: 2015-03-25T18:17:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /veertigenfi/
-img: https://40enfit.resultants-e.nl/2015/03/3688993279_1b21d5b940_o.jpg
+image: https://40enfit.resultants-e.nl/2015/03/3688993279_1b21d5b940_o.jpg
 categories:
   - Lifestyle
 tags:

@@ -2,7 +2,7 @@
 id: 44
 title: 'Buikspier &#038; Cardio Mix om snel vet te verbranden'
 date: 2015-04-12T18:57:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /buikspier-cardio-mix-om-snel-vet-te/
@@ -16,7 +16,7 @@ permalink: /buikspier-cardio-mix-om-snel-vet-te/
 
 dsq_thread_id:
   - "5615651290"
-img: https://40enfit.resultants-e.nl/2015/04/3292145208_6663594d2e_b.jpg
+image: https://40enfit.resultants-e.nl/2015/04/3292145208_6663594d2e_b.jpg
 categories:
   - Training
 tags:

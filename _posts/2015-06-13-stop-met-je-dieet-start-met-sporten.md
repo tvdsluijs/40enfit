@@ -2,7 +2,7 @@
 id: 241
 title: Stop met je Dieet, start met sporten!
 date: 2015-06-13T21:57:47+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /stop-met-je-dieet-start-met-sporten/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5607870925"
-img: https://40enfit.resultants-e.nl/2015/06/FotorCreated.jpg
+image: https://40enfit.resultants-e.nl/2015/06/FotorCreated.jpg
 categories:
   - Food
   - Lifestyle

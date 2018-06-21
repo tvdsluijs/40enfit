@@ -2,7 +2,7 @@
 id: 38
 title: Heftige Bootcamp
 date: 2015-04-16T11:41:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /heftige-bootcamp/
@@ -16,7 +16,7 @@ permalink: /heftige-bootcamp/
 
 dsq_thread_id:
   - "5698302438"
-img: https://40enfit.resultants-e.nl/2015/04/16546033543_91f479837f_m.jpg
+image: https://40enfit.resultants-e.nl/2015/04/16546033543_91f479837f_m.jpg
 categories:
   - Training
 tags:

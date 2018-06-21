@@ -2,7 +2,7 @@
 id: 1220
 title: Freeletics Hell week, 7 dagen die je leven veranderen
 date: 2016-04-10T08:33:16+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-hell-week-7-dagen-die-je-leven-veranderen/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5609026701"
-img: https://40enfit.resultants-e.nl/2016/04/Hellweek.png
+image: https://40enfit.resultants-e.nl/2016/04/Hellweek.png
 categories:
   - Lifestyle
   - Training

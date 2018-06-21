@@ -2,7 +2,7 @@
 id: 11
 title: Mijn huidige sportgear
 date: 2015-05-23T14:13:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /mijn-huidige-sportgear/
@@ -16,7 +16,7 @@ permalink: /mijn-huidige-sportgear/
 
 dsq_thread_id:
   - "6260051632"
-img: https://40enfit.resultants-e.nl/2015/05/Kettlebell_12_kg.jpg
+image: https://40enfit.resultants-e.nl/2015/05/Kettlebell_12_kg.jpg
 categories:
   - Gear
 ---

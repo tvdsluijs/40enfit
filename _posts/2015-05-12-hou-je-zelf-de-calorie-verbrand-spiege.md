@@ -2,7 +2,7 @@
 id: 24
 title: Hou je zelf de calorie verbrand spiegel voor!
 date: 2015-05-12T19:52:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /hou-je-zelf-de-calorie-verbrand-spiege/
@@ -16,7 +16,7 @@ permalink: /hou-je-zelf-de-calorie-verbrand-spiege/
 
 dsq_thread_id:
   - "5695512606"
-img: https://40enfit.resultants-e.nl/2015/05/17478220495_2b988d3b93_c.jpg
+image: https://40enfit.resultants-e.nl/2015/05/17478220495_2b988d3b93_c.jpg
 categories:
   - Lifestyle
 tags:

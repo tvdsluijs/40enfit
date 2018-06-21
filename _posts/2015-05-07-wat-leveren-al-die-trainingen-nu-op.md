@@ -2,7 +2,7 @@
 id: 27
 title: Wat leveren al die trainingen nu op?
 date: 2015-05-07T19:44:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /wat-leveren-al-die-trainingen-nu-op/
@@ -16,7 +16,7 @@ permalink: /wat-leveren-al-die-trainingen-nu-op/
 
 dsq_thread_id:
   - "5784683558"
-img: https://40enfit.resultants-e.nl/2015/05/4222532649_69f9853104_b-1.jpg
+image: https://40enfit.resultants-e.nl/2015/05/4222532649_69f9853104_b-1.jpg
 categories:
   - Lifestyle
 tags:

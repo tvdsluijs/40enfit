@@ -2,7 +2,7 @@
 id: 2920
 title: Quaker ontbijt, de beste start van de dag
 date: 2016-07-02T13:32:23+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /quaker-ontbijt-beste-start-dag/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5610488181"
-img: https://40enfit.resultants-e.nl/2016/07/DSC00446-e1467456652173.jpg
+image: https://40enfit.resultants-e.nl/2016/07/DSC00446-e1467456652173.jpg
 categories:
   - Food
   - Lifestyle

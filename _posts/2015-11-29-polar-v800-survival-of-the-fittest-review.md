@@ -2,7 +2,7 @@
 id: 970
 title: Polar V800 Survival of the Fittest Review
 date: 2015-11-29T07:58:32+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /polar-v800-survival-of-the-fittest-review/
@@ -25,7 +25,7 @@ vw_review_summary:
   - Survival of the Fittest is Vet! Als je de kans hebt (en het geld) zou ik het zeker een keer doen. De obstakels zagen er in de "folder" wel wat gaver uit dan dat ze waren en die 10km was niet echt 10km
 dsq_thread_id:
   - "5667153676"
-img: https://40enfit.resultants-e.nl/2015/11/Screen-Shot-2015-11-22-at-22.23.12.png
+image: https://40enfit.resultants-e.nl/2015/11/Screen-Shot-2015-11-22-at-22.23.12.png
 categories:
   - Events
   - Lifestyle

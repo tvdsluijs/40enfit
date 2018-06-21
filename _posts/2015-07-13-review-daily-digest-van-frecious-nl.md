@@ -2,7 +2,7 @@
 id: 353
 title: 'Review: Daily Digest van frecious.nl'
 date: 2015-07-13T19:51:13+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-daily-digest-van-frecious-nl/
@@ -32,7 +32,7 @@ vw_review_summary:
   - Ik heb de Daily Digest opgedronken (met wat tegen zin), maar ik zou het niet kopen. En alhoewel Frecious zegt ze een spijsverterings-boostende blend voor je hebben gemaakt en dat je darmen er gezond van worden, waren mijn darmen het er daar niet echt mee eens.
 dsq_thread_id:
   - "5607454138"
-img: https://40enfit.resultants-e.nl/2015/07/frecious-slow-juice.jpg
+image: https://40enfit.resultants-e.nl/2015/07/frecious-slow-juice.jpg
 categories:
   - Food
   - Reviews

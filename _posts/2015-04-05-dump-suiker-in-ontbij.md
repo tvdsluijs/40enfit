@@ -2,7 +2,7 @@
 id: 46
 title: Dump suiker in ontbijt
 date: 2015-04-05T16:35:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /dump-suiker-in-ontbij/
@@ -15,7 +15,7 @@ permalink: /dump-suiker-in-ontbij/
 
 dsq_thread_id:
   - "5730088826"
-img: https://40enfit.resultants-e.nl/2015/04/132244825_dbf0e21d9f_o.jpg
+image: https://40enfit.resultants-e.nl/2015/04/132244825_dbf0e21d9f_o.jpg
 categories:
   - Food
 tags:

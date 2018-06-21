@@ -2,7 +2,7 @@
 id: 2897
 title: Zijn Decathlon Sport Gels goed
 date: 2016-07-01T08:55:44+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /decathlon-sport-gels-goed/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5602697915"
-img: https://40enfit.resultants-e.nl/2016/06/ultragelsgroups.png
+image: https://40enfit.resultants-e.nl/2016/06/ultragelsgroups.png
 categories:
   - Food
 tags:

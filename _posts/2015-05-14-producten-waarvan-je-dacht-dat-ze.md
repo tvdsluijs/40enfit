@@ -2,7 +2,7 @@
 id: 21
 title: Producten waarvan je dacht dat ze gezond waren
 date: 2015-05-14T11:09:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /producten-waarvan-je-dacht-dat-ze/
@@ -15,7 +15,7 @@ permalink: /producten-waarvan-je-dacht-dat-ze/
 
 dsq_thread_id:
   - "5762831097"
-img: https://40enfit.resultants-e.nl/2015/05/17383363778_42b13ef378_c.jpg
+image: https://40enfit.resultants-e.nl/2015/05/17383363778_42b13ef378_c.jpg
 categories:
   - Food
 tags:

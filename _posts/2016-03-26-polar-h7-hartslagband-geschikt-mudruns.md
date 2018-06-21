@@ -2,7 +2,7 @@
 id: 1182
 title: Polar H7 hartslagband niet geschikt voor mudruns
 date: 2016-03-26T07:41:39+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /polar-h7-hartslagband-geschikt-mudruns/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5604980364"
-img: https://40enfit.resultants-e.nl/2016/03/polar-h7-obstacle.jpg
+image: https://40enfit.resultants-e.nl/2016/03/polar-h7-obstacle.jpg
 categories:
   - Gear
 tags:

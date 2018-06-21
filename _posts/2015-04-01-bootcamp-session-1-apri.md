@@ -2,7 +2,7 @@
 id: 49
 title: Bootcamp session 1 april
 date: 2015-04-01T16:22:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /bootcamp-session-1-apri/

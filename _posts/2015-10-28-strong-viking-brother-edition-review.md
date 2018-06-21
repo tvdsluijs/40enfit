@@ -2,7 +2,7 @@
 id: 846
 title: Strong Viking Brother Edition Review
 date: 2015-10-28T23:40:40+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /strong-viking-brother-edition-review/
@@ -35,7 +35,7 @@ vw_post_format_video_oembed:
   - https://youtu.be/deUwO_iBCX8
 dsq_thread_id:
   - "5664056056"
-img: https://40enfit.resultants-e.nl/2015/10/12183744_913278478760879_56312488215390456_o1.jpg
+image: https://40enfit.resultants-e.nl/2015/10/12183744_913278478760879_56312488215390456_o1.jpg
 categories:
   - Events
   - Reviews

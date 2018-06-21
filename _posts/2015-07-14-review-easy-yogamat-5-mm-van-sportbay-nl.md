@@ -2,7 +2,7 @@
 id: 361
 title: 'Review: EASY Yogamat 5 mm van Sportbay.nl'
 date: 2015-07-14T18:57:42+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-easy-yogamat-5-mm-van-sportbay-nl/
@@ -46,7 +46,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5603517049"
-img: https://40enfit.resultants-e.nl/2015/07/Yogamat_easy.jpg
+image: https://40enfit.resultants-e.nl/2015/07/Yogamat_easy.jpg
 categories:
   - Reviews
   - Training

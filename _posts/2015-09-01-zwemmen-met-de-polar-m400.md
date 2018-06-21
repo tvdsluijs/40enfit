@@ -2,7 +2,7 @@
 id: 645
 title: Zwemmen met de Polar M400
 date: 2015-09-01T22:31:51+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /zwemmen-met-de-polar-m400/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5602650388"
-img: https://40enfit.resultants-e.nl/2015/09/IMG_0646.jpg
+image: https://40enfit.resultants-e.nl/2015/09/IMG_0646.jpg
 categories:
   - Gear
   - Lifestyle

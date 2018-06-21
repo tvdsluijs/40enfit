@@ -2,7 +2,7 @@
 id: 3059
 title: Probar en Pulsin energie en proteïne voor de bewuste sporter
 date: 2016-09-22T20:22:57+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /probar-en-pulsin-energie-en-proteine-bewuste-sporter/
@@ -36,7 +36,7 @@ vw_review_summary:
   - Probar en Pulsin repen niet alleen lekker, maar ook zeer verantwoorde sport repen. De smaak van de repen is goed, maar ik vind niet iedere reep even lekker. De verpakking is van plastic, dus iets minder voor het milieu.
 dsq_thread_id:
   - "5626859732"
-img: https://40enfit.resultants-e.nl/2016/09/dpc-1.jpg
+image: https://40enfit.resultants-e.nl/2016/09/dpc-1.jpg
 categories:
   - Food
   - Reviews

@@ -2,7 +2,7 @@
 id: 704
 title: Identificatie polsband voor iedere buitensporter
 date: 2015-09-22T06:34:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /identificatie-polsband-voor-iedere-buitensporter/
@@ -14,7 +14,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5659576941"
-img: https://40enfit.resultants-e.nl/2015/09/IMG_1257-e1442764207880.jpg
+image: https://40enfit.resultants-e.nl/2015/09/IMG_1257-e1442764207880.jpg
 categories:
   - Gear
   - Training

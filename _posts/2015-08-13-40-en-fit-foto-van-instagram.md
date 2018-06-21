@@ -2,7 +2,7 @@
 id: 522
 title: 40 en fit foto van Instagram
 date: 2015-08-13T13:13:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /40-en-fit-foto-van-instagram/

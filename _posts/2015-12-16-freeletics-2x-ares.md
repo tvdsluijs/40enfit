@@ -2,7 +2,7 @@
 id: 1014
 title: Freeletics 2x Ares
 date: 2015-12-16T06:36:38+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-2x-ares/
@@ -15,7 +15,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5719290611"
-img: https://40enfit.resultants-e.nl/2015/12/14393406826_8c9cfce8eb_o.jpg
+image: https://40enfit.resultants-e.nl/2015/12/14393406826_8c9cfce8eb_o.jpg
 categories:
   - Training
 tags:

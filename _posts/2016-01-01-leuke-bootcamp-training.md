@@ -2,7 +2,7 @@
 id: 1027
 title: Leuke bootcamp training
 date: 2016-01-01T21:38:18+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /leuke-bootcamp-training/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5607775178"
-img: https://40enfit.resultants-e.nl/2015/04/4834404563_b622efdbd6_b.jpg
+image: https://40enfit.resultants-e.nl/2015/04/4834404563_b622efdbd6_b.jpg
 categories:
   - Training
 tags:

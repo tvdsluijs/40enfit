@@ -2,7 +2,7 @@
 id: 944
 title: Strong Viking run en runs in 2016
 date: 2015-11-08T20:38:04+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /strong-viking-run-en-runs-in-2016/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5654706573"
-img: https://40enfit.resultants-e.nl/2015/10/IMG_1664.jpg
+image: https://40enfit.resultants-e.nl/2015/10/IMG_1664.jpg
 categories:
   - Events
   - Training

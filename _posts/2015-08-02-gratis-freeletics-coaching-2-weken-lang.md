@@ -2,7 +2,7 @@
 id: 422
 title: Gratis freeletics coaching! 2 weken lang!
 date: 2015-08-02T20:46:56+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /gratis-freeletics-coaching-2-weken-lang/
@@ -14,7 +14,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5603524758"
-img: https://40enfit.resultants-e.nl/2015/08/gratis_freeletic.jpg
+image: https://40enfit.resultants-e.nl/2015/08/gratis_freeletic.jpg
 categories:
   - Training
 tags:

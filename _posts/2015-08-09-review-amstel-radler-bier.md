@@ -2,7 +2,7 @@
 id: 468
 title: Review Amstel Radler bier
 date: 2015-08-09T21:50:43+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-amstel-radler-bier/
@@ -25,7 +25,7 @@ vw_review_summary:
   - Amstel Radler bier het bier wat ook niet bier drinkers over de streep moet trekken om bier te gaan drinken. Dus heb ik het geprobeerd en het was verrassend!
 dsq_thread_id:
   - "5800908665"
-img: https://40enfit.resultants-e.nl/2015/08/IMG_0168.jpg
+image: https://40enfit.resultants-e.nl/2015/08/IMG_0168.jpg
 categories:
   - Food
   - Lifestyle

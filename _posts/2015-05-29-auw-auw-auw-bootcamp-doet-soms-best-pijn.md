@@ -2,7 +2,7 @@
 id: 6
 title: Au au au, bootcamp doet soms best pijn!
 date: 2015-05-29T20:48:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /auw-auw-auw-bootcamp-doet-soms-best-pijn/
@@ -18,7 +18,7 @@ permalink: /auw-auw-auw-bootcamp-doet-soms-best-pijn/
 vw_enable_review:
   - "0"
 
-img: https://40enfit.resultants-e.nl/2015/05/11357545_1458237837802245_880533422_n.jpg
+image: https://40enfit.resultants-e.nl/2015/05/11357545_1458237837802245_880533422_n.jpg
 categories:
   - Training
 tags:

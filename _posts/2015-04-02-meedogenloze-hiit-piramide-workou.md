@@ -2,7 +2,7 @@
 id: 48
 title: Meedogenloze HIIT Piramide Workout
 date: 2015-04-02T16:24:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /meedogenloze-hiit-piramide-workou/
@@ -16,7 +16,7 @@ permalink: /meedogenloze-hiit-piramide-workou/
 
 dsq_thread_id:
   - "5943669632"
-img: https://40enfit.resultants-e.nl/2015/04/6999103007_3a94470e24_b.jpg
+image: https://40enfit.resultants-e.nl/2015/04/6999103007_3a94470e24_b.jpg
 categories:
   - Training
 tags:

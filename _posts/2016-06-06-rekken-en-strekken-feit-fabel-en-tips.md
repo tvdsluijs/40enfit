@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5607874775"
-img: https://40enfit.resultants-e.nl/2016/06/10980920183_535733169d_h.jpg
+image: https://40enfit.resultants-e.nl/2016/06/10980920183_535733169d_h.jpg
 categories:
   - Training
 tags:

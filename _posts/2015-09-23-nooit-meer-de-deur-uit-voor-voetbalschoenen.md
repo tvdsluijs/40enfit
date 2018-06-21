@@ -2,7 +2,7 @@
 id: 764
 title: Nooit meer de deur uit voor voetbalschoenen
 date: 2015-09-23T12:55:14+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /nooit-meer-de-deur-uit-voor-voetbalschoenen/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5691694861"
-img: https://40enfit.resultants-e.nl/2015/09/IMG_1337.jpg
+image: https://40enfit.resultants-e.nl/2015/09/IMG_1337.jpg
 categories:
   - Gear
   - Lifestyle

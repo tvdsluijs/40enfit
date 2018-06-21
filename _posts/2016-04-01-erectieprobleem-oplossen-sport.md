@@ -2,7 +2,7 @@
 id: 2836
 title: Erectieprobleem oplossen met sport
 date: 2016-04-01T23:08:43+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /erectieprobleem-oplossen-sport/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5628430890"
-img: https://40enfit.resultants-e.nl/2016/05/pexels-photo-29353.jpg
+image: https://40enfit.resultants-e.nl/2016/05/pexels-photo-29353.jpg
 categories:
   - Lifestyle
 tags:

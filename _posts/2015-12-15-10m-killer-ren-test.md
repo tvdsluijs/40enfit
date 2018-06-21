@@ -2,7 +2,7 @@
 id: 1011
 title: 10M killer hardloop test
 date: 2015-12-15T21:35:31+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /10m-killer-ren-test/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5660883221"
-img: https://40enfit.resultants-e.nl/2015/12/15496039145_774bd69599_k.jpg
+image: https://40enfit.resultants-e.nl/2015/12/15496039145_774bd69599_k.jpg
 categories:
   - Training
 tags:

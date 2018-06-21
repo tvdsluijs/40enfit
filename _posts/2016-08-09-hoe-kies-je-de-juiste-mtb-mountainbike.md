@@ -2,9 +2,9 @@
 id: 2940
 title: Hoe kies je de juiste MTB, Mountainbike
 date: 2016-08-09T14:36:41+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
-
+featured: true
 permalink: /hoe-kies-je-de-juiste-mtb-mountainbike/
 
 
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5602650277"
-img: https://40enfit.resultants-e.nl/2016/08/16079893400_0b75c5451d_k-e1470745991180.jpg
+image: https://40enfit.resultants-e.nl/2016/08/16079893400_0b75c5451d_k-e1470745991180.jpg
 categories:
   - Bikes
 tags:

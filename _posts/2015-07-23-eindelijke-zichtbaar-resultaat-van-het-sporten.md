@@ -2,7 +2,7 @@
 id: 388
 title: Eindelijke zichtbaar resultaat van het sporten
 date: 2015-07-23T19:37:56+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /eindelijke-zichtbaar-resultaat-van-het-sporten/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5640319084"
-img: https://40enfit.resultants-e.nl/2015/07/11148857_732605780182061_77084587933289275_o.jpg
+image: https://40enfit.resultants-e.nl/2015/07/11148857_732605780182061_77084587933289275_o.jpg
 categories:
   - Training
 ---

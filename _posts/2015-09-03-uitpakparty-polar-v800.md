@@ -2,7 +2,7 @@
 id: 653
 title: Uitpakparty Polar v800
 date: 2015-09-03T21:31:27+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /uitpakparty-polar-v800/
@@ -15,7 +15,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5604903604"
-img: https://40enfit.resultants-e.nl/2015/09/1441308368_thumb.jpeg
+image: https://40enfit.resultants-e.nl/2015/09/1441308368_thumb.jpeg
 categories:
   - Gear
   - Reviews

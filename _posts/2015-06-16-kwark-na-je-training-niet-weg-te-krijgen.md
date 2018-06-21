@@ -2,7 +2,7 @@
 id: 276
 title: Kwark na je training, niet weg te krijgen
 date: 2015-06-16T16:46:48+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /kwark-na-je-training-niet-weg-te-krijgen/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5652996439"
-img: https://40enfit.resultants-e.nl/2015/06/1125px-Skimmed_milk_quark_on_spoon.jpg
+image: https://40enfit.resultants-e.nl/2015/06/1125px-Skimmed_milk_quark_on_spoon.jpg
 categories:
   - General
 tags:

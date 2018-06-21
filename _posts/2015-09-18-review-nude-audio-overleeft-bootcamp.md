@@ -2,7 +2,7 @@
 id: 715
 title: 'Review: Nude Audio overleeft Bootcamp'
 date: 2015-09-18T07:30:50+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-nude-audio-overleeft-bootcamp/
@@ -41,7 +41,7 @@ vw_review_summary:
 
 dsq_thread_id:
   - "5707081844"
-img: https://40enfit.resultants-e.nl/2015/09/IMG_1230.jpg
+image: https://40enfit.resultants-e.nl/2015/09/IMG_1230.jpg
 categories:
   - Gear
   - Reviews

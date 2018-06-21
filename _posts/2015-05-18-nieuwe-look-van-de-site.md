@@ -2,7 +2,7 @@
 id: 17
 title: Nieuwe Look van de site
 date: 2015-05-18T19:41:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /nieuwe-look-van-de-site/

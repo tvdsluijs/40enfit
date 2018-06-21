@@ -2,7 +2,7 @@
 id: 1138
 title: Silvana Support kussen voor spieropbouw
 date: 2016-03-05T08:20:38+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /goed-kussen-een-must-voor-je-spieropbouw/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5602650229"
-img: https://40enfit.resultants-e.nl/2016/02/IMG_3267-1.jpg
+image: https://40enfit.resultants-e.nl/2016/02/IMG_3267-1.jpg
 categories:
   - Gear
   - Lifestyle

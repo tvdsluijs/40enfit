@@ -2,7 +2,7 @@
 id: 279
 title: Een nieuwe dag een nieuw fit doel
 date: 2015-06-18T19:25:40+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /een-nieuwe-dag-een-nieuw-fit-doel/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5665359051"
-img: https://40enfit.resultants-e.nl/2015/06/IMG_5675.jpg
+image: https://40enfit.resultants-e.nl/2015/06/IMG_5675.jpg
 categories:
   - Lifestyle
 ---

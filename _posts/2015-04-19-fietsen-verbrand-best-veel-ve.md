@@ -2,7 +2,7 @@
 id: 37
 title: Fietsen verbrand best veel vet
 date: 2015-04-19T20:11:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /fietsen-verbrand-best-veel-ve/
@@ -16,7 +16,7 @@ permalink: /fietsen-verbrand-best-veel-ve/
 
 dsq_thread_id:
   - "5615648978"
-img: https://40enfit.resultants-e.nl/2015/04/17027996878_f37685f884_c.jpg
+image: https://40enfit.resultants-e.nl/2015/04/17027996878_f37685f884_c.jpg
 categories:
   - Lifestyle
   - Training

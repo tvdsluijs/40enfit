@@ -2,7 +2,7 @@
 id: 1157
 title: Doubdle mee naar de Mud Masters
 date: 2016-03-06T21:53:02+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /doubdle-mee-naar-mud-masters/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5647078699"
-img: https://40enfit.resultants-e.nl/2016/03/IMG_2728.jpg
+image: https://40enfit.resultants-e.nl/2016/03/IMG_2728.jpg
 categories:
   - Food
   - Lifestyle

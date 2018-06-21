@@ -2,7 +2,7 @@
 id: 1151
 title: Mijn eerste Mud Master Fail!
 date: 2016-03-06T21:16:09+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /eerste-mud-master-fail/
@@ -15,7 +15,7 @@ vw_post_format_video_oembed:
   - https://youtu.be/5u3sabzHDMM
 dsq_thread_id:
   - "5602912642"
-img: https://40enfit.resultants-e.nl/2016/03/Ag0UULxnv9UXKFUJHy1lAuyfYvR2AUR3bOTi4MBDt1oW.jpg
+image: https://40enfit.resultants-e.nl/2016/03/Ag0UULxnv9UXKFUJHy1lAuyfYvR2AUR3bOTi4MBDt1oW.jpg
 categories:
   - Events
 tags:

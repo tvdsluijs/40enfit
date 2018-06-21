@@ -2,7 +2,7 @@
 id: 313
 title: Freeletics, ik dacht fit te zijn
 date: 2015-06-23T19:58:14+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-ik-dacht-fit-te-zijn/
@@ -14,7 +14,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5603480745"
-img: https://40enfit.resultants-e.nl/2015/06/10996513_1036655839681583_5355717540131087324_o.jpg
+image: https://40enfit.resultants-e.nl/2015/06/10996513_1036655839681583_5355717540131087324_o.jpg
 categories:
   - Training
 tags:

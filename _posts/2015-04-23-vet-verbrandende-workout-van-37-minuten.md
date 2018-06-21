@@ -2,7 +2,7 @@
 id: 32
 title: Vet verbrandende workout van 37 minuten
 date: 2015-04-23T19:50:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /vet-verbrandende-workout-van-37-minuten/

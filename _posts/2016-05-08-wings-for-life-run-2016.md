@@ -2,7 +2,7 @@
 id: 2811
 title: Wings for life Run 2016
 date: 2016-05-08T21:35:08+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /wings-for-life-run-2016/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5638051888"
-img: https://40enfit.resultants-e.nl/2016/05/13177966_1075819942461784_6625707861772491946_n.jpg
+image: https://40enfit.resultants-e.nl/2016/05/13177966_1075819942461784_6625707861772491946_n.jpg
 categories:
   - Events
 tags:

@@ -2,7 +2,7 @@
 id: 1286
 title: Freeletics hellweek is voorbij
 date: 2016-04-21T07:15:08+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-hellweek-is-voorbij/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5615924303"
-img: https://40enfit.resultants-e.nl/2016/04/Theo-van-der-Sluijs-freeletics-bw.jpg
+image: https://40enfit.resultants-e.nl/2016/04/Theo-van-der-Sluijs-freeletics-bw.jpg
 categories:
   - Lifestyle
   - Training

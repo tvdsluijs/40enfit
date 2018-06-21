@@ -2,7 +2,7 @@
 id: 29
 title: De Wetenschappelijke 7 minuten workout
 date: 2015-04-27T12:01:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /de-wetenschappelijke-7-minuten-workou/
@@ -16,7 +16,7 @@ permalink: /de-wetenschappelijke-7-minuten-workou/
 
 dsq_thread_id:
   - "5604565892"
-img: https://40enfit.resultants-e.nl/2015/04/8729967107_8b059bfdca_z.jpg
+image: https://40enfit.resultants-e.nl/2015/04/8729967107_8b059bfdca_z.jpg
 categories:
   - Training
 tags:

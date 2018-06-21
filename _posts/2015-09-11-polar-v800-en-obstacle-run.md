@@ -2,7 +2,7 @@
 id: 680
 title: Polar v800 en obstacle run
 date: 2015-09-11T20:10:11+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /polar-v800-en-obstacle-run/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5604897004"
-img: https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40.png
+image: https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40.png
 categories:
   - Events
   - Gear

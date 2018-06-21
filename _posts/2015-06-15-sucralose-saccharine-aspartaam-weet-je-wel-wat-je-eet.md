@@ -2,7 +2,7 @@
 id: 264
 title: Sucralose, Saccharine, Aspartaam, weet je wel wat je eet?
 date: 2015-06-15T19:47:28+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /sucralose-saccharine-aspartaam-weet-je-wel-wat-je-eet/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5638404258"
-img: https://40enfit.resultants-e.nl/2015/06/IMG_5663-e1434293716958.jpg
+image: https://40enfit.resultants-e.nl/2015/06/IMG_5663-e1434293716958.jpg
 categories:
   - Food
   - Lifestyle

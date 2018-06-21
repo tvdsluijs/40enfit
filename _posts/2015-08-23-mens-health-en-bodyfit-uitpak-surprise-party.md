@@ -2,7 +2,7 @@
 id: 590
 title: 'Men&#8217;s Health en Body&#038;Fit Uitpak Surprise Party'
 date: 2015-08-23T11:57:33+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /mens-health-en-bodyfit-uitpak-surprise-party/
@@ -14,7 +14,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5665294385"
-img: https://40enfit.resultants-e.nl/2015/08/IMG_0834.jpg
+image: https://40enfit.resultants-e.nl/2015/08/IMG_0834.jpg
 categories:
   - Lifestyle
   - Reviews

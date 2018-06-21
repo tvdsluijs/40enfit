@@ -2,7 +2,7 @@
 id: 247
 title: Insanity fit test week 3
 date: 2015-06-14T09:28:39+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /insanity-fit-test-week-3/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5602650288"
-img: https://40enfit.resultants-e.nl/2015/06/Screen-Shot-2015-06-14-at-11.15.05.png
+image: https://40enfit.resultants-e.nl/2015/06/Screen-Shot-2015-06-14-at-11.15.05.png
 categories:
   - Training
 tags:

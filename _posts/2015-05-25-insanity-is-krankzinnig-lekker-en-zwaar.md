@@ -2,7 +2,7 @@
 id: 9
 title: 'Insanity is krankzinnig&#8230;. lekker! en Zwaar!'
 date: 2015-05-25T19:02:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /insanity-is-krankzinnig-lekker-en-zwaar/
@@ -20,7 +20,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5928708424"
-img: https://40enfit.resultants-e.nl/2015/05/Insanity.jpg
+image: https://40enfit.resultants-e.nl/2015/05/Insanity.jpg
 categories:
   - Training
 tags:

@@ -2,7 +2,7 @@
 id: 51
 title: 5 Dagen training om vet te verbranden en spieren op te bouwen
 date: 2015-03-29T16:09:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /5-dagen-training-om-vet-te-verbranden/
@@ -16,7 +16,7 @@ permalink: /5-dagen-training-om-vet-te-verbranden/
 
 dsq_thread_id:
   - "5626704530"
-img: https://40enfit.resultants-e.nl/2015/03/5951413028_f481f00f7d_z.jpg
+image: https://40enfit.resultants-e.nl/2015/03/5951413028_f481f00f7d_z.jpg
 categories:
   - Training
 tags:

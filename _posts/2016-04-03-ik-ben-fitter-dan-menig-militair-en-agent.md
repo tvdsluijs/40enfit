@@ -2,7 +2,7 @@
 id: 1207
 title: Ik ben fitter dan menig Militair en Agent
 date: 2016-04-03T07:54:29+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /ik-ben-fitter-dan-menig-militair-en-agent/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5604604196"
-img: https://40enfit.resultants-e.nl/2016/04/Politie_DenHaagFM-e1459662831348.jpg
+image: https://40enfit.resultants-e.nl/2016/04/Politie_DenHaagFM-e1459662831348.jpg
 categories:
   - General
   - Lifestyle

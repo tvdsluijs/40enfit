@@ -2,7 +2,7 @@
 id: 581
 title: 'Uitpakparty: Promixx sportbeker'
 date: 2015-08-22T00:12:23+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /uitpakparty-promixx-sportbeker/
@@ -35,7 +35,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5665318051"
-img: https://40enfit.resultants-e.nl/2015/08/Promixx6.jpg
+image: https://40enfit.resultants-e.nl/2015/08/Promixx6.jpg
 categories:
   - Gear
   - Reviews

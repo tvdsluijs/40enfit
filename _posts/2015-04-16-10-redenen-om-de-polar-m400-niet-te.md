@@ -2,7 +2,7 @@
 id: 39
 title: 10 redenen om de Polar M400 niet te kopen
 date: 2015-04-16T05:52:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /10-redenen-om-de-polar-m400-niet-te/
@@ -20,7 +20,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5602650269"
-img: https://40enfit.resultants-e.nl/2015/04/16380296890_7bb3a7c98d_c.jpg
+image: https://40enfit.resultants-e.nl/2015/04/16380296890_7bb3a7c98d_c.jpg
 categories:
   - Reviews
 tags:

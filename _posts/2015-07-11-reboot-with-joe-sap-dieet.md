@@ -2,7 +2,7 @@
 id: 345
 title: Reboot with Joe, sap dieet
 date: 2015-07-11T21:04:11+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /reboot-with-joe-sap-dieet/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5603495519"
-img: https://40enfit.resultants-e.nl/2015/07/fatsicknearlydead.jpg
+image: https://40enfit.resultants-e.nl/2015/07/fatsicknearlydead.jpg
 categories:
   - Food
   - Lifestyle

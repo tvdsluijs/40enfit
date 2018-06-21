@@ -2,7 +2,7 @@
 id: 52
 title: Mijn eerste Hiit
 date: 2015-03-28T21:19:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /mijn-eerste-hii/
@@ -14,7 +14,7 @@ permalink: /mijn-eerste-hii/
 
 
 
-img: https://40enfit.resultants-e.nl/2015/03/346990046_de4bbeca6b_b.jpg
+image: https://40enfit.resultants-e.nl/2015/03/346990046_de4bbeca6b_b.jpg
 categories:
   - Lifestyle
 tags:

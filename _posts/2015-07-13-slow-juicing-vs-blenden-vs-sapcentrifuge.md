@@ -2,7 +2,7 @@
 id: 349
 title: Slow juicing vs blenden vs sapcentrifuge
 date: 2015-07-13T18:03:47+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /slow-juicing-vs-blenden-vs-sapcentrifuge/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5613120810"
-img: https://40enfit.resultants-e.nl/2015/07/slow-juicer.jpg
+image: https://40enfit.resultants-e.nl/2015/07/slow-juicer.jpg
 categories:
   - Food
   - Lifestyle

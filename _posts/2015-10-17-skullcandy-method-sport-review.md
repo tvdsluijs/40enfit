@@ -2,7 +2,7 @@
 id: 828
 title: Skullcandy Method Sport uitpakparty
 date: 2015-10-17T23:28:54+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /skullcandy-method-sport-review/
@@ -16,7 +16,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5623123067"
-img: https://40enfit.resultants-e.nl/2015/10/IMG_1525.jpg
+image: https://40enfit.resultants-e.nl/2015/10/IMG_1525.jpg
 categories:
   - Lifestyle
   - Reviews

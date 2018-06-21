@@ -2,7 +2,7 @@
 id: 28
 title: 45 Min HIIT Cardio en buikspieren Workout
 date: 2015-05-01T08:59:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /45-min-hiit-cardio-en-buikspieren/
@@ -16,7 +16,7 @@ permalink: /45-min-hiit-cardio-en-buikspieren/
 
 dsq_thread_id:
   - "5705787251"
-img: https://40enfit.resultants-e.nl/2015/05/picjumbo.com_HNCK5063.jpg
+image: https://40enfit.resultants-e.nl/2015/05/picjumbo.com_HNCK5063.jpg
 categories:
   - Training
 tags:

@@ -2,7 +2,7 @@
 id: 401
 title: 'Review: slow juice Hot Summer echt pittig!'
 date: 2015-07-24T07:00:39+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-slow-juice-hot-summer-echt-pittig/
@@ -33,7 +33,7 @@ vw_review_summary:
   - Deze Hot Summer is echt pittig te noemen. Het is een lekker gezond drankje met een dus... pppp-pittige nasmaak! Lekkerrrr!
 dsq_thread_id:
   - "5607458392"
-img: https://40enfit.resultants-e.nl/2015/07/IMG_6075.jpg
+image: https://40enfit.resultants-e.nl/2015/07/IMG_6075.jpg
 categories:
   - Food
   - Reviews

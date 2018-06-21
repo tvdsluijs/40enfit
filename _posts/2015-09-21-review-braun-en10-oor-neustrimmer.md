@@ -2,7 +2,7 @@
 id: 723
 title: 'Review: Braun EN10 Oor &#038; Neustrimmer'
 date: 2015-09-21T20:47:08+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-braun-en10-oor-neustrimmer/
@@ -41,7 +41,7 @@ vw_review_summary:
   - Tja, met dop er op lijkt hij op een vrouwelijk speeltje. Scheren doet hij, maar verwacht geen wonderen.
 dsq_thread_id:
   - "5635421470"
-img: https://40enfit.resultants-e.nl/2015/09/braun_oren_neus.jpg
+image: https://40enfit.resultants-e.nl/2015/09/braun_oren_neus.jpg
 categories:
   - General
 ---

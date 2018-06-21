@@ -2,7 +2,7 @@
 id: 3041
 title: Oplossing koppel probleem Polar M400 V800 en H7
 date: 2016-08-20T14:27:19+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /oplossing-koppel-probleem-polar-m400-v800-en-h7/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5602653180"
-img: https://40enfit.resultants-e.nl/2016/03/polar-h7-obstacle.jpg
+image: https://40enfit.resultants-e.nl/2016/03/polar-h7-obstacle.jpg
 categories:
   - 'Tips &amp; Tricks'
 tags:

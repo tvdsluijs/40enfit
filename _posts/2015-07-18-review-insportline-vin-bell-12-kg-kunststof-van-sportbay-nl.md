@@ -2,7 +2,7 @@
 id: 368
 title: 'Review: inSPORTline Vin-Bell 12 kg Kunststof van Sportbay.nl'
 date: 2015-07-18T19:38:14+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-insportline-vin-bell-12-kg-kunststof-van-sportbay-nl/
@@ -39,7 +39,7 @@ factory_shortcodes_assets:
 
 dsq_thread_id:
   - "5638489230"
-img: https://40enfit.resultants-e.nl/2015/05/Kettlebell_12_kg.jpg
+image: https://40enfit.resultants-e.nl/2015/05/Kettlebell_12_kg.jpg
 categories:
   - Gear
   - Reviews

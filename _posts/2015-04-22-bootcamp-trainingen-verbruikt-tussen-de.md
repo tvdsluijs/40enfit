@@ -2,7 +2,7 @@
 id: 33
 title: Bootcamp trainingen verbruikt tussen de 700 en 800 Kcal
 date: 2015-04-22T20:09:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /bootcamp-trainingen-verbruikt-tussen-de/
@@ -16,7 +16,7 @@ permalink: /bootcamp-trainingen-verbruikt-tussen-de/
 
 dsq_thread_id:
   - "5719918621"
-img: https://40enfit.resultants-e.nl/2015/04/Screen-Shot-2015-04-22-at-21.38.48.png
+image: https://40enfit.resultants-e.nl/2015/04/Screen-Shot-2015-04-22-at-21.38.48.png
 categories:
   - Training
 tags:

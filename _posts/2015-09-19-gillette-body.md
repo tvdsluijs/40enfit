@@ -2,7 +2,7 @@
 id: 719
 title: 'Review: Gillette Body'
 date: 2015-09-19T07:00:46+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /gillette-body/
@@ -34,7 +34,7 @@ vw_review_summary:
 
 dsq_thread_id:
   - "5643998367"
-img: https://40enfit.resultants-e.nl/2015/09/gillette_body.jpg
+image: https://40enfit.resultants-e.nl/2015/09/gillette_body.jpg
 categories:
   - Lifestyle
   - Reviews

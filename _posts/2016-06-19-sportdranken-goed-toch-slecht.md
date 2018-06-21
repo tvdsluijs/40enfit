@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5602650337"
-img: https://40enfit.resultants-e.nl/2016/06/27207827115_470f4d8a7b_k-e1465752660183.jpg
+image: https://40enfit.resultants-e.nl/2016/06/27207827115_470f4d8a7b_k-e1465752660183.jpg
 categories:
   - Food
   - Training

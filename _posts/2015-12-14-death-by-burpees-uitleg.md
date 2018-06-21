@@ -2,7 +2,7 @@
 id: 1003
 title: Death By Burpees, 30 dagen Burpees uitleg
 date: 2015-12-14T06:00:39+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /death-by-burpees-uitleg/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5604732810"
-img: https://40enfit.resultants-e.nl/2015/12/burpees-e1449954904456.jpg
+image: https://40enfit.resultants-e.nl/2015/12/burpees-e1449954904456.jpg
 categories:
   - Training
 tags:

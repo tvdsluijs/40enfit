@@ -2,7 +2,7 @@
 id: 1034
 title: Goede voornemens 2016 volhouden
 date: 2016-01-02T09:32:37+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /goede-voornemens-2016-volhouden/
@@ -16,7 +16,7 @@ factory_shortcodes_assets:
 
 dsq_thread_id:
   - "5626706249"
-img: https://40enfit.resultants-e.nl/2016/01/freeletics.jpg
+image: https://40enfit.resultants-e.nl/2016/01/freeletics.jpg
 categories:
   - Lifestyle
   - Training

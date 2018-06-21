@@ -2,7 +2,7 @@
 id: 218
 title: Insanity week 3
 date: 2015-06-08T19:24:47+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /insanity-week-3/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5608158557"
-img: https://40enfit.resultants-e.nl/2015/06/insanity_workout_program.jpg
+image: https://40enfit.resultants-e.nl/2015/06/insanity_workout_program.jpg
 categories:
   - Training
 tags:

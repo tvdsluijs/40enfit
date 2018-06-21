@@ -2,7 +2,7 @@
 id: 30
 title: 'Uitdagende 20 minuten durende Rug- en (schuine) Buikspieren workout'
 date: 2015-04-26T11:54:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /uitdagende-20-minuten-durende-rug-en/
@@ -16,7 +16,7 @@ permalink: /uitdagende-20-minuten-durende-rug-en/
 
 dsq_thread_id:
   - "5763494587"
-img: https://40enfit.resultants-e.nl/2015/04/10388671833_7398f449b4_c.jpg
+image: https://40enfit.resultants-e.nl/2015/04/10388671833_7398f449b4_c.jpg
 categories:
   - Training
 tags:

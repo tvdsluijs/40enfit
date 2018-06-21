@@ -2,7 +2,7 @@
 id: 15
 title: Insanity workout echt krankzinnig
 date: 2015-05-19T05:21:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /insanity-workout-echt-krankzinnig/
@@ -20,7 +20,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5800196558"
-img: https://40enfit.resultants-e.nl/2015/05/Insanity-Workout.jpg
+image: https://40enfit.resultants-e.nl/2015/05/Insanity-Workout.jpg
 categories:
   - Training
 tags:

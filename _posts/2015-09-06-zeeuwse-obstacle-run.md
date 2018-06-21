@@ -2,7 +2,7 @@
 id: 794
 title: Zeeuwse Obstacle Run
 date: 2015-09-06T22:34:19+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /zeeuwse-obstacle-run/
@@ -32,7 +32,7 @@ vw_review_summary:
   - Met 2 verschillende lengtes en 2 kids runs en achterliggende stichting Jaydan gedachte is dit een meer dan prima run! Je wordt wel echt heel erg smerig.
 dsq_thread_id:
   - "5605497050"
-img: https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-18.jpg
+image: https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-18.jpg
 categories:
   - Events
   - Lifestyle

@@ -2,7 +2,7 @@
 id: 23
 title: Medisana bs430 connect weegschaal review
 date: 2015-05-12T20:41:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /medisana-bs430-connect-weegschaal-review/
@@ -16,7 +16,7 @@ permalink: /medisana-bs430-connect-weegschaal-review/
 
 dsq_thread_id:
   - "5602650173"
-img: https://40enfit.resultants-e.nl/2015/05/17383197010_d61653c7e5_c.jpg
+image: https://40enfit.resultants-e.nl/2015/05/17383197010_d61653c7e5_c.jpg
 categories:
   - Reviews
 tags:

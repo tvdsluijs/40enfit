@@ -2,7 +2,7 @@
 id: 483
 title: Review MyMuesli Yoghurt drink
 date: 2015-08-14T09:17:19+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-mymuesli-yoghurt-drink/
@@ -33,7 +33,7 @@ vw_review_summary:
   - Lekkere Yoghurt drink om als ontbijt even snel weg te tikken. De prijs is niet al te hoog. Alleen hoe krijg je die laatste granen uit het flesje?
 dsq_thread_id:
   - "5711481572"
-img: https://40enfit.resultants-e.nl/2015/08/IMG_00551.jpg
+image: https://40enfit.resultants-e.nl/2015/08/IMG_00551.jpg
 categories:
   - Food
   - Reviews

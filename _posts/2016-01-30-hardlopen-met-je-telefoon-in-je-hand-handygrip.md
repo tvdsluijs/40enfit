@@ -2,7 +2,7 @@
 id: 1100
 title: Hardlopen met je telefoon in je hand, Handygrip
 date: 2016-01-30T01:39:33+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /hardlopen-met-je-telefoon-in-je-hand-handygrip/
@@ -44,7 +44,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5610860406"
-img: https://40enfit.resultants-e.nl/2016/01/DSCN1244-e1454232858422.jpg
+image: https://40enfit.resultants-e.nl/2016/01/DSCN1244-e1454232858422.jpg
 categories:
   - Gear
   - Reviews

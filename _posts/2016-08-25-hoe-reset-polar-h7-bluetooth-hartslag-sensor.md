@@ -2,7 +2,7 @@
 id: 3051
 title: Hoe reset je de Polar H7 Bluetooth hartslag sensor
 date: 2016-08-25T09:44:17+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /hoe-reset-polar-h7-bluetooth-hartslag-sensor/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5602661937"
-img: https://40enfit.resultants-e.nl/2016/01/polar-h7-sensor.jpg
+image: https://40enfit.resultants-e.nl/2016/01/polar-h7-sensor.jpg
 categories:
   - 'Tips &amp; Tricks'
 tags:

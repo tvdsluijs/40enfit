@@ -2,7 +2,7 @@
 id: 1261
 title: Freeletics hell week dag 4
 date: 2016-04-17T07:45:53+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-hell-week-dag-4/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5649830017"
-img: https://40enfit.resultants-e.nl/2016/04/Theo-van-der-Sluijs-Freeletics-Hellweek-dag-4.jpg
+image: https://40enfit.resultants-e.nl/2016/04/Theo-van-der-Sluijs-Freeletics-Hellweek-dag-4.jpg
 categories:
   - Training
 tags:

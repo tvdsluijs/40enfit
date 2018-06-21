@@ -2,7 +2,7 @@
 id: 1118
 title: Checklist voor een obstacle run of mud run
 date: 2016-02-21T16:29:21+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /checklist-voor-een-obstacle-run-of-mud-run/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5617690635"
-img: https://40enfit.resultants-e.nl/2015/11/Screen-Shot-2015-11-22-at-22.21.37.png
+image: https://40enfit.resultants-e.nl/2015/11/Screen-Shot-2015-11-22-at-22.21.37.png
 categories:
   - Events
   - Gear

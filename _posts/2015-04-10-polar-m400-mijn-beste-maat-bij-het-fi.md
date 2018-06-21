@@ -2,7 +2,7 @@
 id: 45
 title: Polar M400 mijn beste maat bij het Fit worden
 date: 2015-04-10T14:27:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /polar-m400-mijn-beste-maat-bij-het-fi/
@@ -16,7 +16,7 @@ permalink: /polar-m400-mijn-beste-maat-bij-het-fi/
 
 dsq_thread_id:
   - "5605567401"
-img: https://40enfit.resultants-e.nl/2015/04/17119686752_a3d2a237db_c1.jpg
+image: https://40enfit.resultants-e.nl/2015/04/17119686752_a3d2a237db_c1.jpg
 categories:
   - Gear
 tags:

@@ -2,7 +2,7 @@
 id: 629
 title: Waarom is de Dad Bod zo in?
 date: 2015-08-30T09:34:18+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /waarom-is-de-dad-bod-zo-in/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5610193957"
-img: https://40enfit.resultants-e.nl/2015/08/IMG_0325.jpg
+image: https://40enfit.resultants-e.nl/2015/08/IMG_0325.jpg
 categories:
   - Lifestyle
 tags:

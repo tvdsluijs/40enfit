@@ -2,7 +2,7 @@
 id: 866
 title: Gillette Fusion ProGlide FlexBall review
 date: 2015-10-30T20:39:24+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /gillette-fusion-proglide-flexball-review/
@@ -15,7 +15,7 @@ vw_post_format_video_oembed:
   - https://youtu.be/7er8byZZKfk
 dsq_thread_id:
   - "5609678303"
-img: https://40enfit.resultants-e.nl/2015/10/21755239943_216b0a0862_k-e1446189051390.jpg
+image: https://40enfit.resultants-e.nl/2015/10/21755239943_216b0a0862_k-e1446189051390.jpg
 categories:
   - General
   - Reviews

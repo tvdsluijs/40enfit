@@ -2,7 +2,7 @@
 id: 296
 title: Insanity moe, hallo Fitnessblender
 date: 2015-06-20T12:19:54+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /insanity-moe-hallo-fitnessblender/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5705625753"
-img: https://40enfit.resultants-e.nl/2015/06/o_lower_body_strenght_w_kandd.jpg
+image: https://40enfit.resultants-e.nl/2015/06/o_lower_body_strenght_w_kandd.jpg
 categories:
   - Training
 ---

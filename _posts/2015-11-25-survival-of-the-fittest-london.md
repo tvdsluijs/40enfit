@@ -2,7 +2,7 @@
 id: 958
 title: Survival of the Fittest London
 date: 2015-11-25T07:22:15+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /survival-of-the-fittest-london/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 itrr_another_apply:
   - 'no'
-img: https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o.jpg
+image: https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o.jpg
 categories:
   - Reviews
   - Training

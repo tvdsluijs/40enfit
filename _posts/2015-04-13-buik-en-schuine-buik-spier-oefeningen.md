@@ -2,7 +2,7 @@
 id: 42
 title: Buik en Schuine Buik spier oefeningen
 date: 2015-04-13T18:42:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /buik-en-schuine-buik-spier-oefeningen/
@@ -16,7 +16,7 @@ permalink: /buik-en-schuine-buik-spier-oefeningen/
 
 dsq_thread_id:
   - "5634500711"
-img: https://40enfit.resultants-e.nl/2015/04/83276705_1306e07c26_o.jpg
+image: https://40enfit.resultants-e.nl/2015/04/83276705_1306e07c26_o.jpg
 categories:
   - Training
 tags:

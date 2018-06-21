@@ -2,7 +2,7 @@
 id: 3028
 title: Vita Coco Kokosnoot Water gezonde dorstlesser
 date: 2016-08-19T21:49:03+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /vita-coco-kokosnoot-water/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5603212256"
-img: https://40enfit.resultants-e.nl/2016/08/dpc-4.jpg
+image: https://40enfit.resultants-e.nl/2016/08/dpc-4.jpg
 categories:
   - Food
   - Lifestyle

@@ -2,7 +2,7 @@
 id: 728
 title: Kledinglijn 40enfit live
 date: 2015-09-20T17:26:16+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /kledinglijn-40enfit-live/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5673815279"
-img: https://40enfit.resultants-e.nl/2015/09/IMG_12681.jpg
+image: https://40enfit.resultants-e.nl/2015/09/IMG_12681.jpg
 categories:
   - Gear
   - Lifestyle

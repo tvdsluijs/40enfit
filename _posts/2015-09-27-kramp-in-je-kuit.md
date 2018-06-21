@@ -2,7 +2,7 @@
 id: 776
 title: Kramp in je kuit
 date: 2015-09-27T11:49:02+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /kramp-in-je-kuit/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5620671561"
-img: https://40enfit.resultants-e.nl/2015/09/kuitkramp-pijn.jpg
+image: https://40enfit.resultants-e.nl/2015/09/kuitkramp-pijn.jpg
 categories:
   - 'Tips &amp; Tricks'
   - Training

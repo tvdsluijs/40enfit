@@ -2,7 +2,7 @@
 id: 41
 title: Vetverbranding HIIT Workout
 date: 2015-04-14T19:31:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /vetverbranding-hiit-workou/
@@ -16,7 +16,7 @@ permalink: /vetverbranding-hiit-workou/
 
 dsq_thread_id:
   - "5612918250"
-img: https://40enfit.resultants-e.nl/2015/04/I-May-Not-Be-There-Yet-But-I-Am-Closer-Than-I-Was-Yesterday.jpg
+image: https://40enfit.resultants-e.nl/2015/04/I-May-Not-Be-There-Yet-But-I-Am-Closer-Than-I-Was-Yesterday.jpg
 categories:
   - Training
 tags:

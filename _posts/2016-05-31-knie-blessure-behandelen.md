@@ -2,7 +2,7 @@
 id: 2887
 title: Knie blessure behandelen
 date: 2016-05-31T22:02:57+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /knie-blessure-behandelen/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5602650458"
-img: https://40enfit.resultants-e.nl/2016/05/IMG_3695-e1465815711663.jpg
+image: https://40enfit.resultants-e.nl/2016/05/IMG_3695-e1465815711663.jpg
 categories:
   - Lifestyle
   - Training

@@ -2,7 +2,7 @@
 id: 780
 title: ICEtags schoen identificatie review
 date: 2015-09-29T19:53:40+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /icetags-schoen-identificatie-review/
@@ -15,7 +15,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5607161375"
-img: https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw.jpg
+image: https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw.jpg
 categories:
   - Reviews
   - Training

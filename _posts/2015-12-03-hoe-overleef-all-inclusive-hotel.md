@@ -2,7 +2,7 @@
 id: 511
 title: Hoe overleef ik een All-inclusive hotel?
 date: 2015-12-03T08:05:21+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /hoe-overleef-all-inclusive-hotel/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5674762729"
-img: https://40enfit.resultants-e.nl/2015/08/all-inclusie-hotel.jpg
+image: https://40enfit.resultants-e.nl/2015/08/all-inclusie-hotel.jpg
 categories:
   - Lifestyle
 ---

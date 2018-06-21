@@ -2,7 +2,7 @@
 id: 1125
 title: Verschil tussen een Sprawl en Burpee
 date: 2016-02-23T07:49:59+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /verschil-tussen-een-sprawl-en-burpee/
@@ -14,7 +14,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5621162945"
-img: https://40enfit.resultants-e.nl/2015/12/burpees-e1449954904456.jpg
+image: https://40enfit.resultants-e.nl/2015/12/burpees-e1449954904456.jpg
 categories:
   - Training
 tags:

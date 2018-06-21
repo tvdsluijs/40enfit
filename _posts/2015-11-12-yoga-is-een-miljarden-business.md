@@ -2,7 +2,7 @@
 id: 950
 title: Yoga is een miljarden business
 date: 2015-11-12T20:39:29+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /yoga-is-een-miljarden-business/
@@ -11,7 +11,7 @@ permalink: /yoga-is-een-miljarden-business/
 vw_enable_review:
   - "0"
 
-img: https://40enfit.resultants-e.nl/2015/11/Yoga-infographic-1.png
+image: https://40enfit.resultants-e.nl/2015/11/Yoga-infographic-1.png
 categories:
   - Lifestyle
 tags:

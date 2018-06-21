@@ -2,7 +2,7 @@
 id: 504
 title: Zware Freeletics week
 date: 2015-08-18T20:20:51+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /zware-freeletics-week/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5689658229"
-img: https://40enfit.resultants-e.nl/2015/08/2015-02-28-00.01.21.jpg
+image: https://40enfit.resultants-e.nl/2015/08/2015-02-28-00.01.21.jpg
 categories:
   - Training
 tags:

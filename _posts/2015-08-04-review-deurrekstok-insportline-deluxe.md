@@ -2,7 +2,7 @@
 id: 441
 title: Review Deurrekstok Insportline Deluxe
 date: 2015-08-04T20:35:47+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-deurrekstok-insportline-deluxe/
@@ -45,7 +45,7 @@ vw_review_summary:
 
 dsq_thread_id:
   - "5603599644"
-img: https://40enfit.resultants-e.nl/2015/08/IMG_0077.jpg
+image: https://40enfit.resultants-e.nl/2015/08/IMG_0077.jpg
 categories:
   - Reviews
 tags:

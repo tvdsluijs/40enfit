@@ -2,7 +2,7 @@
 id: 252
 title: Waarom ik fitter wilde worden
 date: 2015-06-15T06:53:03+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /waarom-ik-fitter-wilde-worden/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5610190302"
-img: https://40enfit.resultants-e.nl/2015/06/ezgif.com-optimize-1.gif
+image: https://40enfit.resultants-e.nl/2015/06/ezgif.com-optimize-1.gif
 categories:
   - Lifestyle
 tags:

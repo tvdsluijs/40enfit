@@ -2,7 +2,7 @@
 id: 357
 title: 'Review: Sweet Grass van frecious.nl'
 date: 2015-07-15T20:05:34+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-sweet-grass-van-frecious-nl/
@@ -32,7 +32,7 @@ vw_review_summary:
   - Mijn smaak pupillen vroegen zich af of ik lang in de wei had gestaan. Iedere slok proefde namelijk als het gras dat uit de 5e maag van een koe kwam.
 dsq_thread_id:
   - "5607456262"
-img: https://40enfit.resultants-e.nl/2015/07/SweetGrass.jpg
+image: https://40enfit.resultants-e.nl/2015/07/SweetGrass.jpg
 categories:
   - Food
   - Reviews

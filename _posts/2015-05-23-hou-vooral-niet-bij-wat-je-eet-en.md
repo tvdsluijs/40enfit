@@ -2,7 +2,7 @@
 id: 10
 title: Hou vooral niet bij wat je eet en drinkt, dat gaat vanzelf!
 date: 2015-05-23T17:00:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /hou-vooral-niet-bij-wat-je-eet-en/
@@ -15,7 +15,7 @@ permalink: /hou-vooral-niet-bij-wat-je-eet-en/
 
 dsq_thread_id:
   - "5895724378"
-img: https://40enfit.resultants-e.nl/2015/05/8151407179_768490807a_c.jpg
+image: https://40enfit.resultants-e.nl/2015/05/8151407179_768490807a_c.jpg
 categories:
   - Food
   - Lifestyle

@@ -2,7 +2,7 @@
 id: 1019
 title: Doubdle eindelijk een echt gezonde frisdrank
 date: 2015-12-20T17:08:02+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /doubdle-eindelijk-een-echt-gezonde-frisdrank/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5605911201"
-img: https://40enfit.resultants-e.nl/2015/12/IMG_2218.jpg
+image: https://40enfit.resultants-e.nl/2015/12/IMG_2218.jpg
 categories:
   - Food
   - Reviews

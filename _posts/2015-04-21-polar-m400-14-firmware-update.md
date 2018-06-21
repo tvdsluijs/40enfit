@@ -2,7 +2,7 @@
 id: 35
 title: Polar M400 1.4 firmware update
 date: 2015-04-21T16:30:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /polar-m400-14-firmware-update/
@@ -16,7 +16,7 @@ permalink: /polar-m400-14-firmware-update/
 
 dsq_thread_id:
   - "5603056583"
-img: https://40enfit.resultants-e.nl/2015/04/17119686752_a3d2a237db_c.jpg
+image: https://40enfit.resultants-e.nl/2015/04/17119686752_a3d2a237db_c.jpg
 categories:
   - Gear
 tags:

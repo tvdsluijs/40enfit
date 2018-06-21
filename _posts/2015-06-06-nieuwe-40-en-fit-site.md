@@ -2,7 +2,7 @@
 id: 199
 title: Nieuwe 40 en fit site
 date: 2015-06-06T21:31:10+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /nieuwe-40-en-fit-site/
@@ -10,7 +10,7 @@ permalink: /nieuwe-40-en-fit-site/
 
 vw_enable_review:
   - "0"
-img: https://40enfit.resultants-e.nl/2015/06/Screen-Shot-2015-06-06-at-22.21.48.png
+image: https://40enfit.resultants-e.nl/2015/06/Screen-Shot-2015-06-06-at-22.21.48.png
 categories:
   - General
 tags:

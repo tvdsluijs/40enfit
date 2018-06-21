@@ -2,7 +2,7 @@
 id: 291
 title: Suiker wel of niet slecht voor gezondheid?
 date: 2015-06-19T19:23:45+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /suiker-wel-of-niet-slecht-voor-gezondheid/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5684088493"
-img: https://40enfit.resultants-e.nl/2015/06/suiker_is_gif.jpg
+image: https://40enfit.resultants-e.nl/2015/06/suiker_is_gif.jpg
 categories:
   - Food
 ---

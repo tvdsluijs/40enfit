@@ -2,7 +2,7 @@
 id: 331
 title: Minder tijd voor series kijken, des te meer ik train
 date: 2015-06-28T14:14:52+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /minder-tijd-voor-series-kijken-des-te-meer-ik-train/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5607280742"
-img: https://40enfit.resultants-e.nl/2015/06/5024431256_facb210de4_b.jpg
+image: https://40enfit.resultants-e.nl/2015/06/5024431256_facb210de4_b.jpg
 categories:
   - General
   - Lifestyle

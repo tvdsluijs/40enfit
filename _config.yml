@@ -1,37 +1,44 @@
-title: 40 en fit, Training , Livestyle, Food, Gear, Reviews en Events
-description: > # this means to ignore newlines until "baseurl:"
-  Plots was ik 40 jaar en was ik half zo fit als ik wilde zijn. Dat moest veranderen. Mijn blog gaat over mijn 40+ leven en vooral hoe ik fit probeer te blijven
-permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+# Site
+title: "40enfit.nl"
+description: "Plots was ik 40 jaar en was ik half zo fit als ik wilde zijn. Dat moest veranderen. Mijn blog gaat over mijn 40+ leven en vooral hoe ik fit probeer te blijven en hoe je het leven leuk kan houden zonder al te veel diëten."
+meta_description: "Training , Livestyle, Food, Gear, Reviews en Events"
+logo: 'assets/images/40_en_fit_logo_rechthoek_500x165.png'
+favicon: 'assets/images/favicon/favicon-16x16.png'
+baseurl: /mediumish-theme-jekyll
+google_analytics: 'UA-1497722-30'
+disqus: '40enfit'
+mailchimp-list: #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-excerpt_separator: < !--more -->
+# Authors
+authors:
+  tvds:
+    name: Theo van der Sluijs
+    display_name: Theo
+    gravatar: b40d3b7da056fcc44bf7792e4ed4bda3
+    email: theo@vandersluijs.nl
+    web: https://www.vandersluijs.nl
+    twitter: https://twitter.com/tvdsluijs
+    description: "Als een developer, manager, (agile) coach en als groot liefhebber van het bourgondische probeer ik ook nog eens gezond te leven."
 
-# Author Settings
-author: Theo van der Sluijs # add your name
-author-img: https://nl.gravatar.com/userimage/4342738/55dc66ed50cf30a99a5c12767dae233a.jpg?size=400 # add your photo
-about-author: Als een developer, manager, (agile) coach en als liefhebber van het bourgondische probeer ik ook nog eens gezond te leven. # add description
-social-twitter: tvdsluijs
-#social-facebook: # add your Facebook handle
-social-github: tvdsluijs # add your Github handle
-social-linkedin: tvandersluijs
-social-email: tvdsluijs@gmail.com
-
-# Disqus
-discus-identifier: 40enfit # add your discus identifier
-
-# Tracker
-google_analytics: UA-1497722-30 # Google Analytics
-
-# Build Settings
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
+# Plugins
+plugins: 
   - jekyll-paginate
-  - jemoji
+  - jekyll-archives
 
-paginate: 8
-paginate_path: "/page/:num"
+encoding: utf-8
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge

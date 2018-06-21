@@ -2,7 +2,7 @@
 id: 1122
 title: Rotterdam Urban Bootcamp
 date: 2016-02-22T07:43:22+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /rotterdam-urban-bootcamp/

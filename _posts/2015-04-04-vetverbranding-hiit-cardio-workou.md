@@ -2,7 +2,7 @@
 id: 47
 title: Vetverbranding HIIT Cardio Workout
 date: 2015-04-04T16:29:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /vetverbranding-hiit-cardio-workou/
@@ -16,7 +16,7 @@ permalink: /vetverbranding-hiit-cardio-workou/
 
 dsq_thread_id:
   - "5612912631"
-img: https://40enfit.resultants-e.nl/2015/04/4834404563_b622efdbd6_b.jpg
+image: https://40enfit.resultants-e.nl/2015/04/4834404563_b622efdbd6_b.jpg
 categories:
   - Training
 tags:

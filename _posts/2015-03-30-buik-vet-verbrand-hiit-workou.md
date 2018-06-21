@@ -2,7 +2,7 @@
 id: 50
 title: Buik vet verbrand hiit workout!
 date: 2015-03-30T16:18:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /buik-vet-verbrand-hiit-workou/
@@ -16,7 +16,7 @@ permalink: /buik-vet-verbrand-hiit-workou/
 
 dsq_thread_id:
   - "5603797329"
-img: https://40enfit.resultants-e.nl/2015/03/5892363715_54c48be63a_b.jpg
+image: https://40enfit.resultants-e.nl/2015/03/5892363715_54c48be63a_b.jpg
 categories:
   - Training
 tags:

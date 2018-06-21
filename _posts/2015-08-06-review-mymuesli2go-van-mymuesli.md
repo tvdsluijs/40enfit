@@ -2,7 +2,7 @@
 id: 455
 title: Review MyMuesli2Go van MyMuesli
 date: 2015-08-06T20:01:42+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /review-mymuesli2go-van-mymuesli/
@@ -36,7 +36,7 @@ vw_review_summary:
   - Als je van gemak houdt is deze MyMuesli2Go echt iets voor jou. De smaak is ok, de hoeveelheid is erg ruim en het is zo klaar. De prijs is relatief hoog per stuk.
 dsq_thread_id:
   - "5602888428"
-img: https://40enfit.resultants-e.nl/2015/08/IMG_0066.jpg
+image: https://40enfit.resultants-e.nl/2015/08/IMG_0066.jpg
 categories:
   - Food
   - Reviews

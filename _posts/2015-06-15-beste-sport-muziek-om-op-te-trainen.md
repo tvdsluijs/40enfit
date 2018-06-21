@@ -2,7 +2,7 @@
 id: 270
 title: Beste sport muziek om op te trainen.
 date: 2015-06-15T19:34:53+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /beste-sport-muziek-om-op-te-trainen/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5602650374"
-img: https://40enfit.resultants-e.nl/2015/06/9190520847_1a5a7b296d_c.jpg
+image: https://40enfit.resultants-e.nl/2015/06/9190520847_1a5a7b296d_c.jpg
 categories:
   - Gear
   - Lifestyle

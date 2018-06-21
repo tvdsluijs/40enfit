@@ -2,7 +2,7 @@
 id: 1000
 title: 'Mud Masters Obstacle Run: A True Underdog Story'
 date: 2015-12-13T06:03:35+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /mud-masters-obstacle-run-a-true-underdog-story/

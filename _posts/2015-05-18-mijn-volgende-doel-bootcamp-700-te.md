@@ -2,7 +2,7 @@
 id: 16
 title: Mijn volgende doel, Bootcamp 700 te vlissingen
 date: 2015-05-18T19:55:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /mijn-volgende-doel-bootcamp-700-te/
@@ -19,7 +19,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5654372750"
-img: https://40enfit.resultants-e.nl/2015/05/5944900100_bda0d31864_b.jpg
+image: https://40enfit.resultants-e.nl/2015/05/5944900100_bda0d31864_b.jpg
 categories:
   - Events
 tags:

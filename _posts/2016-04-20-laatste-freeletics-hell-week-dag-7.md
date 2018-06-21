@@ -2,7 +2,7 @@
 id: 1283
 title: Laatste Freeletics hell week, dag 7
 date: 2016-04-20T07:42:34+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /laatste-freeletics-hell-week-dag-7/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5672793480"
-img: https://40enfit.resultants-e.nl/2016/04/B612_20160416_140224.jpg
+image: https://40enfit.resultants-e.nl/2016/04/B612_20160416_140224.jpg
 categories:
   - Training
 tags:

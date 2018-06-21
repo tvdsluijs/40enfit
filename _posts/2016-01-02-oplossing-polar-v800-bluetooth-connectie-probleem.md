@@ -2,7 +2,7 @@
 id: 1045
 title: Oplossing Polar v800 bluetooth connectie probleem
 date: 2016-01-02T19:34:44+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /oplossing-polar-v800-bluetooth-connectie-probleem/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5602650428"
-img: https://40enfit.resultants-e.nl/2016/01/Bluetooth-polar-connection-error.png
+image: https://40enfit.resultants-e.nl/2016/01/Bluetooth-polar-connection-error.png
 categories:
   - Gear
   - Lifestyle

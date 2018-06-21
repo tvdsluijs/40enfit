@@ -2,7 +2,7 @@
 id: 375
 title: 'Workout: Bring Sally Up'
 date: 2015-07-15T19:48:52+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /workout-bring-sally-up/
@@ -14,7 +14,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5602831866"
-img: https://40enfit.resultants-e.nl/2015/07/Bring-Sally-Up-Push-Ups.jpg
+image: https://40enfit.resultants-e.nl/2015/07/Bring-Sally-Up-Push-Ups.jpg
 categories:
   - Training
 format: video

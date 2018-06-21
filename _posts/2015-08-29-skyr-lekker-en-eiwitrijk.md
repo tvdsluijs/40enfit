@@ -2,7 +2,7 @@
 id: 616
 title: Skyr lekker en eiwitrijk
 date: 2015-08-29T22:27:44+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /skyr-lekker-en-eiwitrijk/
@@ -33,7 +33,7 @@ vw_review_summary:
   - Arla Skyr naturel is de winnaar van de eiwitten snack! Het is niet alleen lekker maar ook nog een verantwoord sport tussendoortje! Suikers hadden nog wel iets minder gemogen!
 dsq_thread_id:
   - "5603232609"
-img: https://40enfit.resultants-e.nl/2015/08/IMG_0867.jpg
+image: https://40enfit.resultants-e.nl/2015/08/IMG_0867.jpg
 categories:
   - Food
   - Reviews

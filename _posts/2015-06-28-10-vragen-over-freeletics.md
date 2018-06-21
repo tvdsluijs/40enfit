@@ -2,7 +2,7 @@
 id: 336
 title: 10 vragen over Freeletics
 date: 2015-06-28T19:39:04+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /10-vragen-over-freeletics/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5602940203"
-img: https://40enfit.resultants-e.nl/2015/06/freeletics-excuse_1.jpg
+image: https://40enfit.resultants-e.nl/2015/06/freeletics-excuse_1.jpg
 categories:
   - Lifestyle
   - Training

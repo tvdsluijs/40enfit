@@ -2,7 +2,7 @@
 id: 1113
 title: Freeletics na een Blessure
 date: 2016-02-20T23:32:54+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-na-een-blessure/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5603500234"
-img: https://40enfit.resultants-e.nl/2016/02/Dont-quit-freeletics.jpg
+image: https://40enfit.resultants-e.nl/2016/02/Dont-quit-freeletics.jpg
 categories:
   - 'Tips &amp; Tricks'
   - Training

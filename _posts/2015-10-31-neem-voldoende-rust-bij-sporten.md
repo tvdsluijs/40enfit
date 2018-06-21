@@ -2,7 +2,7 @@
 id: 872
 title: Neem voldoende rust bij sporten
 date: 2015-10-31T16:25:57+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /neem-voldoende-rust-bij-sporten/
@@ -12,7 +12,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5711115870"
-img: https://40enfit.resultants-e.nl/2015/10/IMG_1747-e1446303451833.jpg
+image: https://40enfit.resultants-e.nl/2015/10/IMG_1747-e1446303451833.jpg
 categories:
   - 'Tips &amp; Tricks'
   - Training

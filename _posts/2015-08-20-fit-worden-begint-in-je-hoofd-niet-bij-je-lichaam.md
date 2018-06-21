@@ -2,7 +2,7 @@
 id: 518
 title: Fit worden begint in je hoofd niet bij je lichaam
 date: 2015-08-20T11:35:49+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /fit-worden-begint-in-je-hoofd-niet-bij-je-lichaam/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5684018729"
-img: https://40enfit.resultants-e.nl/2015/08/fit-worden-in-je-hoofd.jpg
+image: https://40enfit.resultants-e.nl/2015/08/fit-worden-in-je-hoofd.jpg
 categories:
   - Lifestyle
 tags:

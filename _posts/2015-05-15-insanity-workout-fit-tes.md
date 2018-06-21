@@ -2,7 +2,7 @@
 id: 19
 title: Insanity Workout fit-test
 date: 2015-05-15T20:56:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /insanity-workout-fit-tes/
@@ -20,7 +20,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5605831952"
-img: https://40enfit.resultants-e.nl/2015/05/12744790785_4d3d63b7e4_b.jpg
+image: https://40enfit.resultants-e.nl/2015/05/12744790785_4d3d63b7e4_b.jpg
 categories:
   - Training
 tags:

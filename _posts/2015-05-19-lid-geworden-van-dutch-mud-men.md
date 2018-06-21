@@ -2,7 +2,7 @@
 id: 14
 title: Lid geworden van Dutch Mud Men
 date: 2015-05-19T19:59:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /lid-geworden-van-dutch-mud-men/
@@ -16,7 +16,7 @@ permalink: /lid-geworden-van-dutch-mud-men/
 
 dsq_thread_id:
   - "5750358695"
-img: https://40enfit.resultants-e.nl/2015/05/17249691983_9934f9b08c_c.jpg
+image: https://40enfit.resultants-e.nl/2015/05/17249691983_9934f9b08c_c.jpg
 categories:
   - Lifestyle
 tags:

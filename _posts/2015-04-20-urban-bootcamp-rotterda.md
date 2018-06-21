@@ -2,7 +2,7 @@
 id: 36
 title: Urban Bootcamp Rotterdam
 date: 2015-04-20T19:17:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /urban-bootcamp-rotterda/
@@ -19,7 +19,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5673002562"
-img: https://40enfit.resultants-e.nl/2015/04/11103236_887853544604842_3460124008952494664_o.jpg
+image: https://40enfit.resultants-e.nl/2015/04/11103236_887853544604842_3460124008952494664_o.jpg
 categories:
   - Events
 tags:

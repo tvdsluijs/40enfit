@@ -2,7 +2,7 @@
 id: 299
 title: Zonder motivatie ga je het niet redden!
 date: 2015-06-21T17:46:50+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /zonder-motivatie-ga-je-het-niet-redden/

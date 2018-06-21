@@ -2,7 +2,7 @@
 id: 2875
 title: Strong Viking Hills Edition 2016
 date: 2016-05-24T20:59:59+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /strong-viking-hills-edition-2016/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5610121410"
-img: https://40enfit.resultants-e.nl/2016/06/133928_carrytotaal_sg16_dsc_3341-1-e1465760495693.jpg
+image: https://40enfit.resultants-e.nl/2016/06/133928_carrytotaal_sg16_dsc_3341-1-e1465760495693.jpg
 categories:
   - Events
 tags:

@@ -2,7 +2,7 @@
 id: 18
 title: Stel goede, maar te halen doelen.
 date: 2015-05-18T05:40:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /stel-goede-maar-te-halen-doelen/
@@ -14,7 +14,7 @@ permalink: /stel-goede-maar-te-halen-doelen/
 
 
 
-img: https://40enfit.resultants-e.nl/2015/05/3752937440_4641fa806d_b.jpg
+image: https://40enfit.resultants-e.nl/2015/05/3752937440_4641fa806d_b.jpg
 categories:
   - Training
 tags:

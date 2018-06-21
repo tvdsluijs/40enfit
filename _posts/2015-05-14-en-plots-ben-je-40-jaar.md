@@ -2,7 +2,7 @@
 id: 22
 title: En plots ben je 40 jaar!
 date: 2015-05-14T09:52:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /en-plots-ben-je-40-jaar/
@@ -16,7 +16,7 @@ permalink: /en-plots-ben-je-40-jaar/
 
 dsq_thread_id:
   - "5608626639"
-img: https://40enfit.resultants-e.nl/2015/05/rollator.jpg
+image: https://40enfit.resultants-e.nl/2015/05/rollator.jpg
 categories:
   - Lifestyle
 tags:

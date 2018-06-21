@@ -2,7 +2,7 @@
 id: 769
 title: Insecten eten is de toekomst
 date: 2015-09-26T23:08:53+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /insecten-eten-is-de-toekomst/
@@ -15,7 +15,7 @@ vw_post_format_video_oembed:
   - https://youtu.be/qJwUntEoS-Q
 dsq_thread_id:
   - "5628862961"
-img: https://40enfit.resultants-e.nl/2015/09/IMG_1426.jpg
+image: https://40enfit.resultants-e.nl/2015/09/IMG_1426.jpg
 categories:
   - Food
   - Lifestyle

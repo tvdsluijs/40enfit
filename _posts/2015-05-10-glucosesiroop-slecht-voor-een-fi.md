@@ -2,7 +2,7 @@
 id: 25
 title: 'Glucosesiroop: slecht voor een fit lichaam'
 date: 2015-05-10T19:27:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /glucosesiroop-slecht-voor-een-fi/
@@ -15,7 +15,7 @@ permalink: /glucosesiroop-slecht-voor-een-fi/
 
 dsq_thread_id:
   - "5866011668"
-img: https://40enfit.resultants-e.nl/2015/05/15997903257_8f2e6ce9e0_c.jpg
+image: https://40enfit.resultants-e.nl/2015/05/15997903257_8f2e6ce9e0_c.jpg
 categories:
   - Food
 tags:

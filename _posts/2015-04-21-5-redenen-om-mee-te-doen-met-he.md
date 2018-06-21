@@ -2,7 +2,7 @@
 id: 34
 title: 5 redenen om mee te doen met het buikspier kwartier
 date: 2015-04-21T19:21:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /5-redenen-om-mee-te-doen-met-he/
@@ -16,7 +16,7 @@ permalink: /5-redenen-om-mee-te-doen-met-he/
 
 dsq_thread_id:
   - "5657290569"
-img: https://40enfit.resultants-e.nl/2015/04/8724915525_9f9e355f3e_c.jpg
+image: https://40enfit.resultants-e.nl/2015/04/8724915525_9f9e355f3e_c.jpg
 categories:
   - Training
 tags:

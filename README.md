@@ -1,31 +1,84 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Jekyll Template - Mediumish by WowThemes.net
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip)
 
-## Demo
+![mediumish](assets/images/mediumish-jekyll-template.png)
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+### Features
 
-The main page would look like this:
+- Built for Jekyll
+- Compatible with Github pages
+- Featured Posts
+- Index Pagination
+- Post Share
+- Post Categories
+- Prev/Next Link
+- Category Archives (this is not yet compatible with github pages though)
+- Jumbotron Categories
+- Integrations:
+    - Disqus Comments
+    - Google Analaytics
+    - Mailchimp Integration
+- Design Features:
+    - Bootstrap v4.x
+    - Font Awesome
+    - Masonry
+- Layouts:
+    - Default
+    - Post
+    - Page
+    - Archive
+    
+### Using Mediumish
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+- Open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
+- Mediumish requires 2 plugins: 
+    - <code>$ gem install jekyll-paginate</code>
+    - <code>$ gem install jekyll-archives</code>.
+- Edit the menu and footer copyrights in <code>default.html</code>
+- Start by adding your .md files in <code>_posts</code>. Mediumish already has a few as an example. 
+- YAML front matter
+    - featured post - <code>featured:true</code>
+    - exclude featured post from "All stories" loop to avoid duplicated posts - <code>hidden:true</code>
+    - post image - <code>image: assets/images/mypic.jpg</code>
+    - page comments - <code>comments:true</code>
+    - meta description (optional) - <code>description: "this is my meta description"</code>
+    
+YAML Post Example:
+<pre>
+---
+layout: post
+title:  "We all wait for summer"
+author: john
+categories: [ Jekyll, tutorial ]
+image: assets/images/5.jpg
+featured: true
+---
+</pre>
 
-The post page would look like this:
+YAML Page Example
+<pre>
+---
+layout: page
+title: Mediumish Template for Jekyll
+comments: true
+---
+</pre>
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+### Copyright
 
-## Features
+Copyright (C) 2018 WowThemes.net.
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
 
-## Installation:
+<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+### Contribute
 
-### License
+- [Clone the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
+- Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+- Open a pull request on GitHub and describe the feature or fix.
 
-GNU General Public License v3.0
+-----------------
+
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip)

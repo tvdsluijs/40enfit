@@ -2,7 +2,7 @@
 id: 26
 title: 'Magere drink yoghurt 0% vet maar wel met Sucralose, echt vermijden!'
 date: 2015-05-10T19:01:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /magere-drink-yoghurt-0-vet-maar-wel-me/
@@ -15,7 +15,7 @@ permalink: /magere-drink-yoghurt-0-vet-maar-wel-me/
 
 dsq_thread_id:
   - "5712616507"
-img: https://40enfit.resultants-e.nl/2015/05/1504806749_814ab7dc63_b.jpg
+image: https://40enfit.resultants-e.nl/2015/05/1504806749_814ab7dc63_b.jpg
 categories:
   - Food
 tags:

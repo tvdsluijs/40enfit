@@ -2,7 +2,7 @@
 id: 40
 title: 10 redenen waarom je een Polar M400 moet kopen
 date: 2015-04-15T07:48:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /10-redenen-waarom-je-een-polar-m400/
@@ -16,7 +16,7 @@ permalink: /10-redenen-waarom-je-een-polar-m400/
 
 dsq_thread_id:
   - "5607361016"
-img: https://40enfit.resultants-e.nl/2015/04/17055750192_6335a33fba_c.jpg
+image: https://40enfit.resultants-e.nl/2015/04/17055750192_6335a33fba_c.jpg
 categories:
   - Reviews
 tags:

@@ -2,7 +2,7 @@
 id: 31
 title: 'Afspelen training video&#8217;s'
 date: 2015-04-25T18:21:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /afspelen-training-videos/
@@ -16,7 +16,7 @@ permalink: /afspelen-training-videos/
 
 dsq_thread_id:
   - "6084788472"
-img: https://40enfit.resultants-e.nl/2015/04/51471-chromecast.jpg
+image: https://40enfit.resultants-e.nl/2015/04/51471-chromecast.jpg
 categories:
   - Gear
 tags:

@@ -2,7 +2,7 @@
 id: 20
 title: Last van blaren, gebruik de extra gaatjes in je schoenen.
 date: 2015-05-15T04:00:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /last-van-blaren-gebruik-de-extra/
@@ -19,7 +19,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5669638326"
-img: https://40enfit.resultants-e.nl/2015/05/5768577139_b52c96c259_b.jpg
+image: https://40enfit.resultants-e.nl/2015/05/5768577139_b52c96c259_b.jpg
 categories:
   - 'Tips &amp; Tricks'
 tags:

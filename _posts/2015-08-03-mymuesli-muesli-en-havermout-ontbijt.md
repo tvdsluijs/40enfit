@@ -2,7 +2,7 @@
 id: 426
 title: MyMuesli muesli en havermout ontbijt
 date: 2015-08-03T19:42:12+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /mymuesli-muesli-en-havermout-ontbijt/
@@ -13,7 +13,7 @@ vw_enable_review:
   - "0"
 dsq_thread_id:
   - "5647150489"
-img: https://40enfit.resultants-e.nl/2015/08/IMG_0058.jpg
+image: https://40enfit.resultants-e.nl/2015/08/IMG_0058.jpg
 categories:
   - Food
 tags:

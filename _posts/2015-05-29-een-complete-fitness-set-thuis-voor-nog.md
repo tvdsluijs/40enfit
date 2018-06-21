@@ -2,7 +2,7 @@
 id: 7
 title: Een complete fitness set thuis voor nog geen 30 euro!
 date: 2015-05-29T17:55:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /een-complete-fitness-set-thuis-voor-nog/
@@ -16,7 +16,7 @@ permalink: /een-complete-fitness-set-thuis-voor-nog/
 
 dsq_thread_id:
   - "5612800149"
-img: https://40enfit.resultants-e.nl/2015/05/Progym-extreme_inner.jpg
+image: https://40enfit.resultants-e.nl/2015/05/Progym-extreme_inner.jpg
 categories:
   - Gear
 tags:

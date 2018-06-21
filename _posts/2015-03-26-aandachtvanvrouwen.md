@@ -2,7 +2,7 @@
 id: 54
 title: Aandacht van vrouwen
 date: 2015-03-26T21:14:00+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /aandachtvanvrouwen/
@@ -16,7 +16,7 @@ permalink: /aandachtvanvrouwen/
 
 dsq_thread_id:
   - "5647206726"
-img: https://40enfit.resultants-e.nl/2015/03/Women_in_sports_bras.jpg
+image: https://40enfit.resultants-e.nl/2015/03/Women_in_sports_bras.jpg
 categories:
   - Lifestyle
 tags:

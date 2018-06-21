@@ -2,7 +2,7 @@
 id: 306
 title: Freeletics is mijn nieuwe coach!
 date: 2015-06-23T07:24:45+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /freeletics-is-mijn-nieuwe-coach/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5603204545"
-img: https://40enfit.resultants-e.nl/2015/06/10955082_1027149623965538_5712663435688962450_o.jpg
+image: https://40enfit.resultants-e.nl/2015/06/10955082_1027149623965538_5712663435688962450_o.jpg
 categories:
   - Training
 tags:

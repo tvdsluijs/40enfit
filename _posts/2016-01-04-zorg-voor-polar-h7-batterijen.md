@@ -2,7 +2,7 @@
 id: 1056
 title: Zorg voor genoeg Polar H7 batterijen
 date: 2016-01-04T06:41:30+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /zorg-voor-polar-h7-batterijen/
@@ -15,7 +15,7 @@ factory_shortcodes_assets:
 
 dsq_thread_id:
   - "5604836365"
-img: https://40enfit.resultants-e.nl/2016/01/polar-h7-sensor.jpg
+image: https://40enfit.resultants-e.nl/2016/01/polar-h7-sensor.jpg
 categories:
   - Gear
   - Training

@@ -2,7 +2,7 @@
 id: 382
 title: 'Ken je die mop van de Men&#8217;s Health Survival of the Fittest?'
 date: 2015-07-22T20:00:24+00:00
-author: Theo van der Sluijs
+author: tvds
 layout: post
 
 permalink: /ken-je-die-mop-van-de-mens-health-survival-of-the-fittest/
@@ -13,7 +13,7 @@ vw_enable_review:
 
 dsq_thread_id:
   - "5707140869"
-img: https://40enfit.resultants-e.nl/2015/07/mens_health_survival_of_the_fittest.jpg
+image: https://40enfit.resultants-e.nl/2015/07/mens_health_survival_of_the_fittest.jpg
 categories:
   - Events
   - Lifestyle
