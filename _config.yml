@@ -4,7 +4,7 @@ description: "Plots was ik 40 jaar en was ik half zo fit als ik wilde zijn. Dat 
 meta_description: "Training , Livestyle, Food, Gear, Reviews en Events"
 logo: 'assets/images/40_en_fit_logo_rechthoek_500x165.png'
 favicon: 'assets/images/favicon/favicon-16x16.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /
 google_analytics: 'UA-1497722-30'
 disqus: '40enfit'
 mailchimp-list: #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
