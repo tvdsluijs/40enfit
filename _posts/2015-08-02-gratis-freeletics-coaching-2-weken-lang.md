@@ -22,7 +22,7 @@ tags:
   - gratis
 format: video
 ---
-Ja hoor! Ik mag gratis en voor niks 2 weken [Gratis freeletics](https://www.freeletics.com/r/theov-SywtcT) coaching weggeven!
+Ja hoor! Ik mag gratis en voor niks 2 weken [Gratis freeletics](https://www.freeletics.com/r/6595686) coaching weggeven!
 
 Nou dat is niet helemaal waar&#8230; iedereen mag 2 weken gratis freeletics weg geven als je een abonnement hebt. Maar ik dacht ik waag er eens een blog post aan.
 
@@ -36,6 +36,6 @@ Heb je 2&#215;2 meter in huis&#8230;. freeletics is mogelijk. De coach verteld j
 
 En ja, het is zwaar! Heel zwaar! Je lichaam gaat pijn doen, je wilt stoppen&#8230; maar dat mag niet van me! Ga door! Wordt fitter! Wordt slanker! Wordt beter!
 
-Ga je meedoen met mijn twee weken [gratis freeletics](https://www.freeletics.com/r/theov-SywtcT)? Laat het hier onder in de comments weten!
+Ga je meedoen met mijn twee weken [gratis freeletics](https://www.freeletics.com/r/6595686)? Laat het hier onder in de comments weten!
 
 Dus doe mee met mijn gratis freeletics sessies!

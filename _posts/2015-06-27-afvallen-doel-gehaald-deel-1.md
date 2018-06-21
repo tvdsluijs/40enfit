@@ -30,9 +30,9 @@ Jazeker&#8230; en die beloning wordt een nog zwaardere training morgen! Heerlijk
 
 En nu nog meer spiermassa er bij kweken en op naar mijn volgend Doel! [Maatje 29](https://40enfit.nl/een-nieuwe-dag-een-nieuw-fit-doel/)!
 
-Het mooie is dat ik dus afgevallen ben puur en bijna alleen door workouts te doen van HiiT, Insanity, [Freeletics](https://www.freeletics.com/r/theov-SywtcT) en Fitnessblender.
+Het mooie is dat ik dus afgevallen ben puur en bijna alleen door workouts te doen van HiiT, Insanity, [Freeletics](https://www.freeletics.com/r/6595686) en Fitnessblender.
 
-Mocht je wat motivatie nodig hebben, kijk dan even naar de  [Freeletics](https://www.freeletics.com/r/theov-SywtcT) video of de online afval/spieropbouw filmpjes van mensen die aan [Freeletics](https://www.freeletics.com/r/theov-SywtcT) doen.
+Mocht je wat motivatie nodig hebben, kijk dan even naar de  [Freeletics](https://www.freeletics.com/r/6595686) video of de online afval/spieropbouw filmpjes van mensen die aan [Freeletics](https://www.freeletics.com/r/6595686) doen.
 
 Have Fun! Don&#8217;t give up! No Excuse! ClapClap
 

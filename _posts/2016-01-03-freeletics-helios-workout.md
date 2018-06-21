@@ -51,6 +51,6 @@ Over goede voornemens gesproken!
 
 Volgens mij kan je maar 1 goed voornemen hebben in 2016 en dat is gezonder gaan leven. Of het nu stoppen met roken, stoppen met drinken of meer gaan sporten is&#8230;. ga gezonder leven.
 
-En om je te helpen bij dat goede voornemen geef ik je nu 3 weken gratis Coach bij <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">Freeletics</a>!
+En om je te helpen bij dat goede voornemen geef ik je nu 3 weken gratis Coach bij <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a>!
 
 En begin vandaag nog! Dan heb je het maar alvast gehad 🙂

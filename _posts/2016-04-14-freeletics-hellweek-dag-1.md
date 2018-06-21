@@ -60,7 +60,7 @@ Hellweek valt wel mee! Toch?
 
 ## Freeletics hellweek, sporten tot je instort
 
-Okay&#8230; <a href="https://40enfit.nl/run/freeletics-aanmelden/" target="_blank">Freeletics</a> waarmee ga je me vandaag pijn doen.
+Okay&#8230; <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a> waarmee ga je me vandaag pijn doen.
 
 Dik 1 uur en 32 minuten was ik bezig. Ik verbrande &#8220;even&#8221; 872 kcal!! En ik lag er na voor dood op de mat. Ik moest de workouts Hermes en Kentauros doen. Op 2&#215;2 vlak (oftewel binnen) had ook buiten gekunt.
 

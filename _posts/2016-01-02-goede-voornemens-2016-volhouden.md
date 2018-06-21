@@ -44,7 +44,7 @@ Zoals je weet ben ik met een groep collega&#8217;s aan het trainen voor de Mud R
 
 Ja ja ja Morgen&#8230;. waarom niet vandaag? Het is een slechte smoes om nooit echt te beginnen.
 
-Begin dus gewoon vandaag! Het maakt niet uit wat je doet. Of je nu een eind gaat wandelen, rennen een <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">Freeletics</a> workout doet. BEGIN! En stel het niet uit tot morgen.
+Begin dus gewoon vandaag! Het maakt niet uit wat je doet. Of je nu een eind gaat wandelen, rennen een <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a> workout doet. BEGIN! En stel het niet uit tot morgen.
 
 ## Volhouden goede voornemens
 
@@ -60,7 +60,7 @@ Als het antwoord is &#8220;Ik wil langer leven!&#8221; Dan ben je op de goede we
 
 Begin dus niet morgen! Maar begin vandaag!
 
-Wil je net zoals ik thuis kunnen trainen, begin dan met <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">Freeletics</a>. Als je nu inschrijft krijg je 2 weken coaching van me gratis! Voor 39 euro per 3 maanden is het stukken goedkoper dan de sportschool.
+Wil je net zoals ik thuis kunnen trainen, begin dan met <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a>. Als je nu inschrijft krijg je 2 weken coaching van me gratis! Voor 39 euro per 3 maanden is het stukken goedkoper dan de sportschool.
 
 En laat me hieronder even weten hoe het gaat! En mocht je persoonlijke coaching nodig hebben mail me gewoon. Dan stuur ik je wel wat persoonlijke tips!
 

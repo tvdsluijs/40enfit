@@ -25,7 +25,7 @@ Zwaar was het&#8230; loodzwaar! Zelfs burpees, waar ik er zo maar 30 achter elka
 
 ## Moeilijk Freeletics weekje
 
-[Freeletics](https://www.freeletics.com/r/theov-SywtcT) ik ben er zwaar fan van. Je kan op een veldje van 2 bij 2 meter (dus ja ook in je huiskamer) de oefeningen doen.
+[Freeletics](https://www.freeletics.com/r/6595686) ik ben er zwaar fan van. Je kan op een veldje van 2 bij 2 meter (dus ja ook in je huiskamer) de oefeningen doen.
 
 Het bouwt redelijk snel op. En je voelt je conditie van week tot week groeien. Althans, tot deze week dan. Want deze week leek het wel of ik helemaal geen conditie had.
 
@@ -166,5 +166,5 @@ Deze week bestond uit:
               </p>
               
               <p>
-                Ook een keer <a href="https://www.freeletics.com/r/theov-SywtcT">Freeletics</a> proberen? Volg dan deze <a href="https://www.freeletics.com/r/theov-SywtcT">link</a> en krijg twee weken extra gratis coaching bij je eerste coaching maand!
+                Ook een keer <a href="https://www.freeletics.com/r/6595686">Freeletics</a> proberen? Volg dan deze <a href="https://www.freeletics.com/r/6595686">link</a> en krijg twee weken extra gratis coaching bij je eerste coaching maand!
               </p>

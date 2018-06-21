@@ -21,7 +21,7 @@ tags:
   - rust
   - sport
 ---
-Toen ik 13 augustus op vakantie ging was mijn lichaam op. Ik merkte het al tijdens een paar [Freeletics](https://www.freeletics.com/r/theov-SywtcT) trainingen voor de vakantie. Ik was toch fit? Waarom kon ik plots geen 50 tot 100 burpees meer? De trainingen er voor ging dat zonder problemen en zonder te veel rustpauzes.<!--more-->
+Toen ik 13 augustus op vakantie ging was mijn lichaam op. Ik merkte het al tijdens een paar [Freeletics](https://www.freeletics.com/r/6595686) trainingen voor de vakantie. Ik was toch fit? Waarom kon ik plots geen 50 tot 100 burpees meer? De trainingen er voor ging dat zonder problemen en zonder te veel rustpauzes.<!--more-->
 
 Wat is er aan de hand met mijn lichaam? En plots ging het lampje branden! Misschien een beetje overtraind? De afgelopen 5 maanden had ik af en aan 4 tot 5 dagen per week getraind! De kilo’s vlogen er af! Mijn lichaam werd fitter en fitter! Dit gaf een goed gevoel! Ik wil meer meer meer!!!! Het werkt echt verslavend. Nee nee geen rust, trainen trainen trainen!
 
@@ -31,7 +31,7 @@ En toen, kon ik het niet meer! 100 pushups, 80 pushups, 50 pushups! Het werd eer
 
 Na de vakantie had ik geen zin in veel sporten. Ik deed nog wel mee met de wekelijkse bootcamp en natuurlijk de obstacle runs, maar trainen tussendoor was even voorbij. 1 week na vakantie, werden er 2. 2 weken werden er 4, 1 maand werden er 2 en nu is het bijna november. Dus 3 maanden bijna niets gedaan.
 
-Gisteren zei mijn zoontje tegen me: “Pap, wanneer ga je weer eens sporten?”. Sporten, Ja! Daar heb ik eigenlijk wel weer eens zin in! Dus net de [freeletics](https://www.freeletics.com/r/theov-SywtcT) ARTEMIS workout gedaan. Kapot was ik. Maar ik ging door tot ik de
+Gisteren zei mijn zoontje tegen me: “Pap, wanneer ga je weer eens sporten?”. Sporten, Ja! Daar heb ik eigenlijk wel weer eens zin in! Dus net de [freeletics](https://www.freeletics.com/r/6595686) ARTEMIS workout gedaan. Kapot was ik. Maar ik ging door tot ik de
 
   * 50 BURPEES
   * 50 PULLUPS

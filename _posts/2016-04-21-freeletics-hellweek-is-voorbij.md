@@ -542,7 +542,7 @@ Hebben deze 7 dagen van Freeletics mijn leven veranderd. Nou&#8230;. mijn leven 
 
 Ga ik het weer doen? Ja, Freeletics hé. Hoort er gewoon bij!
 
-Jij wil toch ook fit worden? Ga er voor en doe ook mee met [Freeletics](https://40enfit.nl/run/freeletics-aanmelden/)! En vergeet me niet te volgen!
+Jij wil toch ook fit worden? Ga er voor en doe ook mee met [Freeletics](https://www.freeletics.com/r/6595686)! En vergeet me niet te volgen!
 
 ## Voorgaande Freeletics hellweek artikelen
 

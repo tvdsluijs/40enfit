@@ -27,7 +27,7 @@ Nu ik met mijn collega&#8217;s 5 maart ga meedoen met de Mud Master Haarlemmerme
 
 We gaan 12km doen en daar moet je wel even een beetje voor trainen.
 
-Ik heb ze het <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">freeletics</a> programma voorgesteld. En ik heb ze de Ares Workout laten zien.<!--more-->
+Ik heb ze het <a href="https://www.freeletics.com/r/6595686" target="_blank">freeletics</a> programma voorgesteld. En ik heb ze de Ares Workout laten zien.<!--more-->
 
 > <span style="line-height: 1.5;">Net een freeletics 2x Ares gedaan</span>
 > 
@@ -53,6 +53,6 @@ Ja je leest het goed binnen 18 minuten 315Kcal verbranden! Het kan echt. Okay, j
 
 > Knallen Pa, dan neem ik het op!
 
-De reacties van mijn collega&#8217;s waren verschillend maar wel positief. Een paar hebben zich zelfs al aangemeld voor het <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">freeletics</a> programma!
+De reacties van mijn collega&#8217;s waren verschillend maar wel positief. Een paar hebben zich zelfs al aangemeld voor het <a href="https://www.freeletics.com/r/6595686" target="_blank">freeletics</a> programma!
 
 En? Wanneer begin jij?

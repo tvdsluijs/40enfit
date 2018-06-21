@@ -34,7 +34,7 @@ Maar bij pullups en situps vind ik dat niet handig omdat ik de pullups in mijn s
 
 Maar 20 High Jumps…. dat is killing. De eerste 3 ronden gaan, maar daarna wordt het moeilijker en moeilijker…. en op een gegeven moment begin je te zwalken bij het springen en heb je het gevoel dat je iedere Jump plat op je bek zal gaan.
 
-Ach ja hoort er bij zullen we maar zeggen. [Freeletics](https://40enfit.nl/run/freeletics-aanmelden/) Ares, das dus totaal 10 ronden met:
+Ach ja hoort er bij zullen we maar zeggen. [Freeletics](https://www.freeletics.com/r/6595686) Ares, das dus totaal 10 ronden met:
 
 <table>
   <tr>

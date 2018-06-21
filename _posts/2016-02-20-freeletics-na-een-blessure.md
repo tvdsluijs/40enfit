@@ -24,13 +24,13 @@ tags:
 ---
 40 dagen zonder sport. 40 dagen zonder Freeletics. Één bootcamp sessie gooide roet in het eten. Een kleine botsing, met mijn knie hard op het asfalt.
 
-Het was pijnlijk, maar ik dacht : &#8220;Kom op, doorgaan!&#8221;. Dat had ik misschien niet moeten doen. 2 weken kreupel gelopen, daarna ging het langzaam weer beter. En nu was het weer tijd om <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">Freeletics</a> te gaan oppakken.<!--more-->
+Het was pijnlijk, maar ik dacht : &#8220;Kom op, doorgaan!&#8221;. Dat had ik misschien niet moeten doen. 2 weken kreupel gelopen, daarna ging het langzaam weer beter. En nu was het weer tijd om <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a> te gaan oppakken.<!--more-->
 
 Een blessure is nooit leuk. Maar aan je knie is helemaal rot! Ik kon de trap net op en af komen. Burpee? Forget it! Squads? Ha ha ha ha Ain&#8217;t gonna happen.
 
 Nee ik lag er echt uit! En 5 maart is mijn volgende mud masters run en ik moet mee doen. Dus wat doe je dan? Juist&#8230;. je zit de blessure uit! Je wacht tot de klachten over zijn. Niks geen sport&#8230; gewoon laten helen.
 
-Maar vandaag was het <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">Freeletics</a> tijd! Eindelijk, na 40 dagen weer! Maar het leek me niet handig om in week 12 te starten met Freeletics na mijn periode van rust.
+Maar vandaag was het <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a> tijd! Eindelijk, na 40 dagen weer! Maar het leek me niet handig om in week 12 te starten met Freeletics na mijn periode van rust.
 
 ## Herstarten/Reset Coach Freeletics
 
@@ -54,7 +54,7 @@ Je coach heb je nu een reset gegeven en hij denkt dat je op nieuw moet beginnen.
 
 ## Zet door met Freeletics!
 
-Ik zit weer helemaal in <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">Freeletics</a> ! Heerlijk om een training te doen! En jij? Ga jij doorzetten?
+Ik zit weer helemaal in <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a> ! Heerlijk om een training te doen! En jij? Ga jij doorzetten?
 
 > Can I ask you a question?
   

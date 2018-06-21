@@ -54,7 +54,7 @@ Wacht even&#8230;. ik ben 41 dan zou ik slechts 14 pushups, 21 situps en 2100 me
 
 Hoe kan dit? Waarom is het leger niet fit? Krijgen ze te weinig tijd om te sporten? Nemen ze te weinig tijd om te sporten?
 
-Ik bedoel, met [Freeletics](https://40enfit.nl/run/freeletics-aanmelden/) kan je fit worden in minder dan 1 uur per dag! Super Fit zelfs!
+Ik bedoel, met [Freeletics](https://www.freeletics.com/r/6595686) kan je fit worden in minder dan 1 uur per dag! Super Fit zelfs!
 
 ## Politie is niet fit
 
@@ -92,6 +92,6 @@ Smoesjes smoesjes smoesjes! Iedereen in het Leger of bij de Politie moet gewoon 
 
 Dus waarom is dit niet gewoon verplicht in het leger en bij de politie. Dus dat iedere militair en iedere agent 15% van zijn werkdag fitter moet worden! En dan heb ik het dus niet over een abbo-tje voor de fitness, waar ze waarschijnlijk toch niet heen gaan, of alleen maar aan het socializen zijn. Nee gewoon 40 minuten knallen tot je tong op je schoenen ligt.
 
-Ik weet zeker dat wanneer er een groeps-coach zou zijn die iedereen iedere dag [Freeletics](https://40enfit.nl/run/freeletics-aanmelden/) verplicht mee zou laten doen dat we niet alleen veel fittere militairen en agenten hebben maar dat we ook nog eens veel minder zieke en overspannen militairen en agenten zouden hebben.
+Ik weet zeker dat wanneer er een groeps-coach zou zijn die iedereen iedere dag [Freeletics](https://www.freeletics.com/r/6595686) verplicht mee zou laten doen dat we niet alleen veel fittere militairen en agenten hebben maar dat we ook nog eens veel minder zieke en overspannen militairen en agenten zouden hebben.
 
 En ja! Gelukkig zijn er wel militairen die fit zijn! Heb ze zelf gezien tijdens diverse mud en obstacle runs. Maar ja, die horen bij de fitte 50%.

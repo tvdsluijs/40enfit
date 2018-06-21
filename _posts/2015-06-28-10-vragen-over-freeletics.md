@@ -18,21 +18,21 @@ categories:
   - Lifestyle
   - Training
 ---
-[Freeletics](https://www.freeletics.com/r/theov-SywtcT), ik post er over op [instagram](https://instagram.com/theovdsluijs/), ik vertel mijn vrienden er over en sinds kort ben ik er dus druk mee bezig.
+[Freeletics](https://www.freeletics.com/r/6595686), ik post er over op [instagram](https://instagram.com/theovdsluijs/), ik vertel mijn vrienden er over en sinds kort ben ik er dus druk mee bezig.
 
 Als je de video&#8217;s hebt gezien van anderen (en dan vooral hun 15 weken sessie&#8217;s) dan ga je twijfelen of dit wel mogelijk is. Ook voor jou?!?
 
-Ik krijg redelijk veel vragen over [Freeletics](https://www.freeletics.com/r/theov-SywtcT), dus ik dacht&#8230; ik schrijf de meest gestelde vragen op en maak er een blog-postje van.
+Ik krijg redelijk veel vragen over [Freeletics](https://www.freeletics.com/r/6595686), dus ik dacht&#8230; ik schrijf de meest gestelde vragen op en maak er een blog-postje van.
 
 Hierbij dus de 10 vragen over Freeletics, en de antwoorden natuurlijk.<!--more-->
 
 ## Wat kost Freeletics?
 
-Freeletics is helemaal gratis! Dat wil zeggen, je hoeft geen abonnementsgeld te betalen! Het enige wat je moet doen is je aanmelden bij [Freeletics](https://www.freeletics.com/r/theov-SywtcT) en de app downloaden en je kan beginnen!
+Freeletics is helemaal gratis! Dat wil zeggen, je hoeft geen abonnementsgeld te betalen! Het enige wat je moet doen is je aanmelden bij [Freeletics](https://www.freeletics.com/r/6595686) en de app downloaden en je kan beginnen!
 
 Let wel! Als je een coach wilt (en die heb ik), dan betaal je 34 euro per 3 maanden. Dat komt uit op 40 cent per dag of 2,60 per week. Bij een doorsnee fitness betaal je 34 euro per maand, of 15 euro maar dan heb je ook geen coach. Met coach krijg je van dag tot dag te horen wat je moet doen. En krijg je ook toegang tot meer workouts.
 
-En als je via deze [Freeletics](https://www.freeletics.com/r/theov-SywtcT) link aanmeld krijg je twee weken gratis coach van me!
+En als je via deze [Freeletics](https://www.freeletics.com/r/6595686) link aanmeld krijg je twee weken gratis coach van me!
 
 ## Ik ben erg dik, kan ik dan freeletics doen?
 
@@ -88,7 +88,7 @@ Ja! Met Freeletics bouw je niet alleen spiermassa op, maar je verbetert ook je u
 
 ## Okay, ik wil beginnen met Freeletics! Waar start ik?
 
-Ga naar de site van [Freeletics](https://www.freeletics.com/r/theov-SywtcT), meld je aan en doe de test! En klaar ben je!
+Ga naar de site van [Freeletics](https://www.freeletics.com/r/6595686), meld je aan en doe de test! En klaar ben je!
 
 Heel veel succes!
 
@@ -96,4 +96,4 @@ Mocht je nog vragen hebben, vraag ze dan hier onder! En laat even weten wat je v
 
 ## Gratis 2 weken Freeletics Coaching!
 
-Vergeet je niet aan te melden via deze  [Freeletics](https://www.freeletics.com/r/theov-SywtcT) link want dan krijg je twee weken gratis coach van me!
+Vergeet je niet aan te melden via deze  [Freeletics](https://www.freeletics.com/r/6595686) link want dan krijg je twee weken gratis coach van me!

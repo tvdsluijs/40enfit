@@ -141,7 +141,7 @@ Eat this dead Guy! Moeten ze bij Freeletics gedacht hebben!!
 
 <img class="alignleft wp-image-1248" src="https://40enfit.resultants-e.nl/2016/04/20160414_202221-300x225.jpg" alt="Freeletics eten" width="150" height="112" srcset="https://40enfit.resultants-e.nl/2016/04/20160414_202221-300x225.jpg 300w, https://40enfit.resultants-e.nl/2016/04/20160414_202221-1024x768.jpg 1024w, https://40enfit.resultants-e.nl/2016/04/20160414_202221.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" />
   
-Dag 5 van de [Hellweek](https://40enfit.nl/run/freeletics-aanmelden/) zit er op. Maar ik had het zwaar. Lood zwaar. Ik moet nog 2 dagen maar mijn lichaam begint het nu wel een beetje op te geven.
+Dag 5 van de [Hellweek](https://www.freeletics.com/r/6595686) zit er op. Maar ik had het zwaar. Lood zwaar. Ik moet nog 2 dagen maar mijn lichaam begint het nu wel een beetje op te geven.
 
 Maar ik moet het hoe dan ook halen.
 

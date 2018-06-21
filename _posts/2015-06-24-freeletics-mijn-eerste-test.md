@@ -22,9 +22,9 @@ tags:
 ---
 Stond ik kokhalzend op mijn sp<img class="alignleft wp-image-309 size-thumbnail" src="https://40enfit.resultants-e.nl/2015/06/11043192_1612083052358952_6589216528253545437_n-150x150.png" alt="freeletics" width="150" height="150" srcset="https://40enfit.resultants-e.nl/2015/06/11043192_1612083052358952_6589216528253545437_n-150x150.png 150w, https://40enfit.resultants-e.nl/2015/06/11043192_1612083052358952_6589216528253545437_n-80x80.png 80w, https://40enfit.resultants-e.nl/2015/06/11043192_1612083052358952_6589216528253545437_n-360x360.png 360w" sizes="(max-width: 150px) 100vw, 150px" />ort-zolder na mijn eerste workout&#8230; moest ik gewoon nog een test doen om te kunnen beginnen met mijn coach!
 
-Alhoewel ik redelijk snel hersteld was van mijn 1e [Freeletics](https://www.freeletics.com/r/theov-SywtcT) workouts waar ik dus bijna van moest brokken, was ik dus nog niet klaar!<!--more-->
+Alhoewel ik redelijk snel hersteld was van mijn 1e [Freeletics](https://www.freeletics.com/r/6595686) workouts waar ik dus bijna van moest brokken, was ik dus nog niet klaar!<!--more-->
 
-Eindelijk mijn eigen coach en wel bij [Freeletics](https://www.freeletics.com/r/theov-SywtcT)! Ik was benieuwd naar mijn eerste workout&#8230; die zou dan overmorgen zijn (want morgen ga ik bootcampen) maar niks was minder waar&#8230; want mijn coach wilde dat ik nu nog even mijn test zou doen.
+Eindelijk mijn eigen coach en wel bij [Freeletics](https://www.freeletics.com/r/6595686)! Ik was benieuwd naar mijn eerste workout&#8230; die zou dan overmorgen zijn (want morgen ga ik bootcampen) maar niks was minder waar&#8230; want mijn coach wilde dat ik nu nog even mijn test zou doen.
 
 ## De Freeletics test
 
@@ -40,7 +40,7 @@ Na de METIS training was ik toch wel bang dat ik mijn test niet zo heel goed zo
 
 ## Eerste Freeletics workout
 
-Mijn eerste [Freeletics](https://www.freeletics.com/r/theov-SywtcT) workout is dus pas donderdag&#8230; en wat zegt freeletics zelf over de workout?
+Mijn eerste [Freeletics](https://www.freeletics.com/r/6595686) workout is dus pas donderdag&#8230; en wat zegt freeletics zelf over de workout?
 
 > Your first training will be very tough.
 

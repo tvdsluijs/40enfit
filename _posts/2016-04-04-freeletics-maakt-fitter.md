@@ -26,7 +26,7 @@ Toen ik een jaar geleden begon aan freeletics was ik al wat meer fitter dan 3 ma
 
 En niet zo&#8217;n beetje ook! Ik kan langer hardlopen (terwijl ik dus nooit hardlopen train) ik kan hoger springen (zie mijn high jump hier boven) , heb veel meer uithoudingsvermogen en ik ben stukken leniger dan ik ooit ben geweest.
 
-En dat allemaal door door [deze sport](https://40enfit.nl/run/freeletics-aanmelden/).
+En dat allemaal door door [deze sport](https://www.freeletics.com/r/6595686).
 
 ## Wat is Freeletics
 

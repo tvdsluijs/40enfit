@@ -32,7 +32,7 @@ Maar de Freeletics hell week begint een beetje zijn tol te eisen.
 
 ## Freeletics Hell week dag 3
 
-**Atlas** is die kerel met de aarde op zijn schouders, er was iemand boos op hem geworden en dat was zijn straf (dragen van het hemelgewelf)…. nou is er ook iemand boos op mij? Ja <a href="https://40enfit.nl/run/freeletics-aanmelden/" target="_blank">Freeletics</a>.
+**Atlas** is die kerel met de aarde op zijn schouders, er was iemand boos op hem geworden en dat was zijn straf (dragen van het hemelgewelf)…. nou is er ook iemand boos op mij? Ja <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a>.
 
 Of ik een rondje Altas 2&#215;2 wil doen met daarin &#8230;
 

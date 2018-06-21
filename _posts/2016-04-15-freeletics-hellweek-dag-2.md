@@ -43,7 +43,7 @@ Zo zal je zien dat je meer gefocust werkt en dat je ook af krijgt wat je af wild
 
 De Workouts van vandaag zijn relatief simpel! Het is namelijk maar 1 workout met 1 ronde!
 
-De [Freeletics](https://40enfit.nl/run/freeletics-aanmelden/) workout die ik moet doen heet Altas en ik doe de 2&#215;2 versie, komt omdat ik de workout op een plek van 2x2mtr doe en dus niet ren.
+De [Freeletics](https://www.freeletics.com/r/6595686) workout die ik moet doen heet Altas en ik doe de 2&#215;2 versie, komt omdat ik de workout op een plek van 2x2mtr doe en dus niet ren.
 
 Atlas 2&#215;2 is dus 1 ronde met
 

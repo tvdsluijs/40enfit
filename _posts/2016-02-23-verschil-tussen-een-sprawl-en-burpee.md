@@ -28,7 +28,7 @@ Eigenlijk is het heel simpel. Een Sprawl is een Burpee maar dan zonder een pushu
 
 Vaak wordt een Sprawl ook wel de &#8220;Simpele Burpee&#8221; of de &#8220;Mietjes Burpee&#8221; genoemd. Het opdrukken of de pushup maakt de Burpee namelijk nog zwaarder.
 
-In <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">Freeletics</a> doen ze zo en dan ook een Sprawl in plaats van een Burpee.
+In <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a> doen ze zo en dan ook een Sprawl in plaats van een Burpee.
 
 ## Hoe doe je een Sprawl
 
@@ -66,4 +66,4 @@ Het enige verschil qua uitvoering is dus dat je de pushup bij een Sprawl niet do
 
 Echter is de Brupee een echte full body workout en zal je meer spiergroepen trainen.
 
-Er gelijk zin in gekregen? Ga dan nu naar <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">Freeletics</a> en start vandaag nog!
+Er gelijk zin in gekregen? Ga dan nu naar <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a> en start vandaag nog!

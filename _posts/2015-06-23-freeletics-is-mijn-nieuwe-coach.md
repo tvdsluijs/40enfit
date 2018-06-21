@@ -37,7 +37,7 @@ Eigenlijk wilde ik ook een soort van coach hebben om mee te trainen. Een persona
 
 Ik wilde eigenlijk iets meer. Een systeem dat tests bij me afnam, mijn workout plan daarop maakte en mijn coach is tijdens de training. Mens, Computer of robot maakt me niet uit.
 
-En toen ontdekte ik Freeletics. [Freeletics](https://www.freeletics.com/r/theov-SywtcT) bestaat uit korte en hoog intensieve intensiteits-oefeningen die bijna overal maar altijd kunnen worden uitgeoefend.
+En toen ontdekte ik Freeletics. [Freeletics](https://www.freeletics.com/r/6595686) bestaat uit korte en hoog intensieve intensiteits-oefeningen die bijna overal maar altijd kunnen worden uitgeoefend.
 
 En het mooie is&#8230;. je krijgt een coach! Geen mens, althans dat denk ik maar tegenwoordig is deep learning software al bijna zo slim als een mens dus ik ga er van uit dat dit pakket beter kan uitrekenen wat voor workouts ik moet doen.
 
@@ -53,7 +53,7 @@ De oefeningen zijn dus allemaal gebaseerd op je eigen kracht en lichaamsgewicht.
 
 ## Community
 
-Daarnaast heeft [Freeletics](https://www.freeletics.com/r/theov-SywtcT) een hele grote community. Er zijn zo&#8217;n 5 miljoen freeletics aangesloten. Iedereen helpt iedereen en met een beetje geluk zit er een team van freeletics bij jou in de buurt.
+Daarnaast heeft [Freeletics](https://www.freeletics.com/r/6595686) een hele grote community. Er zijn zo&#8217;n 5 miljoen freeletics aangesloten. Iedereen helpt iedereen en met een beetje geluk zit er een team van freeletics bij jou in de buurt.
 
 Het mooie van de community is dat je een los individu bent in de groep. Niemand neemt het je kwalijk als je even moet rusten, want je traint voor jezelf. Je houdt niemand op, je bent niemand tot last, want je traint alleen! Ook al spreek je met elkaar af om te gaan trainen. Het is jou training!
 
@@ -61,7 +61,7 @@ Voor veel mensen werkt dat twee kanten op. Je voelt toch wel druk om te prestere
 
 ## De trainingen: 2&#215;2
 
-De[Freeletics](https://www.freeletics.com/r/theov-SywtcT) trainingen zijn eenvoudig maar zwaar. Het is als HiiT of Insanity  maar dan zonder Shaun T. Je coach (als je die er bij neemt) moedigt je aan.
+De[Freeletics](https://www.freeletics.com/r/6595686) trainingen zijn eenvoudig maar zwaar. Het is als HiiT of Insanity  maar dan zonder Shaun T. Je coach (als je die er bij neemt) moedigt je aan.
 
 Verder heb je bijna geen ruimte of  uitrusting nodig. Een matje, een paar sporthandschoenen, waterfles, een muur, ruimte om te rennen (bij voorkeur buiten) en iets om je aan op te trekken (monkey bars)
 
@@ -77,6 +77,6 @@ De workouts doe je vanaf je telefoon. Bij iedere workout zit een filmpje met goe
 
 ## Kosten freeletics
 
-[Freeletics](https://www.freeletics.com/r/theov-SywtcT) is niet duur! Je kan het zelfs helemaal gratis doen!! Als je een coach wil moet je betalen, dan krijg je wel extra workouts. En dat alles kost slechts 39 euro voor 3 maanden! Wil je langer dan wordt het per maand nog goedkoper.
+[Freeletics](https://www.freeletics.com/r/6595686) is niet duur! Je kan het zelfs helemaal gratis doen!! Als je een coach wil moet je betalen, dan krijg je wel extra workouts. En dat alles kost slechts 39 euro voor 3 maanden! Wil je langer dan wordt het per maand nog goedkoper.
 
-Ik ga vanavond starten met [Freeletics](https://www.freeletics.com/r/theov-SywtcT) en mijn coach! Wanneer start jij?
+Ik ga vanavond starten met [Freeletics](https://www.freeletics.com/r/6595686) en mijn coach! Wanneer start jij?

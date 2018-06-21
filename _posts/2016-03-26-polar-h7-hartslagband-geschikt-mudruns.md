@@ -32,7 +32,7 @@ Maar ik moet helaas concluderen dat de H7 totaal ongeschikt is voor Mud en Obsta
 
 ## Polar H7 doet pijn
 
-Nee natuurlijk doet de Polar H7 geen pijn. Je draagt hem heel comfortabel onder je shirt. Bij het rennen of <a href="https://www.freeletics.com/r/theov-SywtcT" target="_blank">Freeletics</a> voel je er niets van. Nou dat is niet helemaal waar. Als je pushups moet doen waarbij je handen los moeten zodra je borst de grond raakt voel je hem wel. Maar pijn nee, bij normaal gebruik niet.
+Nee natuurlijk doet de Polar H7 geen pijn. Je draagt hem heel comfortabel onder je shirt. Bij het rennen of <a href="https://www.freeletics.com/r/6595686" target="_blank">Freeletics</a> voel je er niets van. Nou dat is niet helemaal waar. Als je pushups moet doen waarbij je handen los moeten zodra je borst de grond raakt voel je hem wel. Maar pijn nee, bij normaal gebruik niet.
 
 Maar&#8230; voor obstacle runs is hij niet geschikt en gaat hij wel pijn doen en zit hij echt in de weg. Toen ik 1,5 jaar geleden ben begonnen om fitter te worden. Was ik niet snel, en ik ging &#8220;voorzichtig&#8221; over obstakels heen.
 
