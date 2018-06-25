@@ -27,6 +27,10 @@ authors:
 plugins: 
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
 
 encoding: utf-8
 
