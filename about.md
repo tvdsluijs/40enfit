@@ -4,7 +4,7 @@ title: Over 40enfit en Theo van der Sluijs
 comments: false
 ---
 
-<img style="float:left; margin-right:10px" src="https://40enfit.nl/wp-content/uploads/2016/04/Theo-van-der-Sluijs-freeletics-bw-300x200.jpg" alt="Theo van der Sluijs freeletics helweek" width="300" height="200" />Aangezien ik nu al over de 150 blogposts heen ben, leek het me hoog tijd om nog wat meer over mezelf te vertellen! Wie is Theo a.k.a. 40enFit?
+<img style="float:left; margin-right:10px" src="https://40enfit.resultants-e.nl/2016/04/Theo-van-der-Sluijs-freeletics-bw-300x200.jpg" alt="Theo van der Sluijs freeletics helweek" width="300" height="200" />Aangezien ik nu al over de 150 blogposts heen ben, leek het me hoog tijd om nog wat meer over mezelf te vertellen! Wie is Theo a.k.a. 40enFit?
 
 Mijn volledige naam is Theodorus van der Sluijs, maar zeg gerust Theo. Ik ben ondertussen geen 40 maar maar nog wel elke dag bezig met het fit worden en fit blijven. Ik ben geboren op 14 mei, wat mij het sterrenbeeld Stier meegeeft. Ik woon samen met mijn vrouw en twee kinderen in een klein dorpje in de Provincie Zeeland.
 
