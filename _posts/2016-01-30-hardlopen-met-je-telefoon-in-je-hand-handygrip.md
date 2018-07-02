@@ -114,19 +114,19 @@ Gebruik vouchercode _**2pack**_, _**3pack**_ of _**6pack**_, dan krijg je gelijk
 <div id='gallery-10' class='gallery galleryid-1100 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1248/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1248-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1248-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1248-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1248-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1248-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1248/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1248-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1248-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1248-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1248-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1248-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1247/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1247-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1247-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1247-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1247-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1247-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1247/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1247-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1247-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1247-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1247-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1247-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1246/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1246-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1246-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1246-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1246-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1246-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1246/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1246-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1246-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1246-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1246-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1246-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
@@ -134,13 +134,13 @@ Gebruik vouchercode _**2pack**_, _**3pack**_ of _**6pack**_, dan krijg je gelijk
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1245/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1245-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1245-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1245-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1245-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1245-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1245/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1245-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1245-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1245-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1245-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1245-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1243/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1243-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1243-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1243-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1243-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1243-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/hardlopen-met-je-telefoon-in-je-hand-handygrip/dscn1243/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2016/01/DSCN1243-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2016/01/DSCN1243-150x150.jpg 150w, https://40enfit.resultants-e.nl/2016/01/DSCN1243-80x80.jpg 80w, https://40enfit.resultants-e.nl/2016/01/DSCN1243-360x360.jpg 360w, https://40enfit.resultants-e.nl/2016/01/DSCN1243-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   

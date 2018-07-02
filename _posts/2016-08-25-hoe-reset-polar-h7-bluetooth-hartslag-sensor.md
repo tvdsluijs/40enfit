@@ -70,7 +70,7 @@ Lees ook deze eens, want wellicht is het koppel probleem simpeler op te lossen d
 
 <blockquote data-secret="7DPGPhOFDG" class="wp-embedded-content">
   <p>
-    <a href="https://40enfit.nl/oplossing-koppel-probleem-polar-m400-v800-en-h7/">Oplossing koppel probleem Polar M400 V800 en H7</a>
+    <a href="https://www.40enfit.nl/oplossing-koppel-probleem-polar-m400-v800-en-h7/">Oplossing koppel probleem Polar M400 V800 en H7</a>
   </p>
 </blockquote>
 

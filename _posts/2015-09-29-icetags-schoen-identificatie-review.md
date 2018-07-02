@@ -64,13 +64,13 @@ Je kan ze kopen via [ICETag](http://www.icetags.nl/) en voor €14,95 is hij 
 <div id='gallery-6' class='gallery galleryid-780 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/icetags-schoen-identificatie-review/shoe-idtag-blauw/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/icetags-schoen-identificatie-review/shoe-idtag-blauw/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/icetags-schoen-identificatie-review/shoe-idtag-blauw-zijken/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-zijken-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-zijken-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-zijken-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-zijken-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/icetags-schoen-identificatie-review/shoe-idtag-blauw-zijken/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-zijken-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-zijken-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-zijken-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shoe-idtag-blauw-zijken-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   

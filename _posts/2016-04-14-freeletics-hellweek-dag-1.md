@@ -92,4 +92,4 @@ Pffffffff ha ha ha ha ha ha !!!!
 
 ## Voorgaande Freeletics hellweek artikelen
 
-[Freeletics hell week, 7 dagen die je leven veranderen](https://40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)
+[Freeletics hell week, 7 dagen die je leven veranderen](https://www.40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)

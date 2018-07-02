@@ -90,39 +90,19 @@ Als je de kans hebt om een keer mee te doen aan de survival of the fittest in lo
 <div id='gallery-9' class='gallery galleryid-958 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/survival-of-the-fittest-london/travelator_left_2433/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/survival-of-the-fittest-london/travelator_left_2433/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2433-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/survival-of-the-fittest-london/travelator_left_2434/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/survival-of-the-fittest-london/travelator_left_2434/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2434-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/survival-of-the-fittest-london/travelator_left_2435/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/survival-of-the-fittest-london/img_3734/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/IMG_3734-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/IMG_3734-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/IMG_3734-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/IMG_3734-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/IMG_3734-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/survival-of-the-fittest-london/joe_right_0559/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/survival-of-the-fittest-london/joe_right_0560/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/survival-of-the-fittest-london/travelator_left_2435/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/TRAVELATOR_LEFT_2435-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
@@ -130,7 +110,27 @@ Als je de kans hebt om een keer mee te doen aan de survival of the fittest in lo
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/survival-of-the-fittest-london/12095129_1114079051943106_3558719517379397777_o/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/survival-of-the-fittest-london/img_3734/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/IMG_3734-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/IMG_3734-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/IMG_3734-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/IMG_3734-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/IMG_3734-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='https://www.40enfit.nl/survival-of-the-fittest-london/joe_right_0559/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0559-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='https://www.40enfit.nl/survival-of-the-fittest-london/joe_right_0560/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/11/JOE_RIGHT_0560-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='https://www.40enfit.nl/survival-of-the-fittest-london/12095129_1114079051943106_3558719517379397777_o/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/11/12095129_1114079051943106_3558719517379397777_o-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   

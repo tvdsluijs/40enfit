@@ -72,6 +72,6 @@ Man! Ik dacht dat ik niet goed werd van de high jumps aan het einde. Maar ik per
 
 ## Voorgaande Freeletics hellweek artikelen
 
-[Freeletics hellweek dag 1](https://40enfit.nl/freeletics-hellweek-dag-1/)
+[Freeletics hellweek dag 1](https://www.40enfit.nl/freeletics-hellweek-dag-1/)
   
-[Freeletics hell week, 7 dagen die je leven veranderen](https://40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)
+[Freeletics hell week, 7 dagen die je leven veranderen](https://www.40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)

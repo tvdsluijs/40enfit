@@ -87,11 +87,11 @@ Okay, ze zijn niet goedkoop maar als je niet weet hoe je met een Kettlebell moet
   </p> 
   
   <p>
-    Je kan de <a class="thirstylink" style="line-height: 1.5;" title="1111" href="https://40enfit.nl/run/strakkebuikspieren-kettlebell-workout-mannen-kettlebell/" target="_blank" rel="nofollow">Strakkebuikspieren Kettlebell Workout met gratis Kettlebell</a> kopen of
+    Je kan de <a class="thirstylink" style="line-height: 1.5;" title="1111" href="https://www.40enfit.nl/run/strakkebuikspieren-kettlebell-workout-mannen-kettlebell/" target="_blank" rel="nofollow">Strakkebuikspieren Kettlebell Workout met gratis Kettlebell</a> kopen of
   </p>
   
   <p>
-    de <a class="thirstylink" title="222" href="https://40enfit.nl/run/afvallenin24uur-programma-kettlebell/" target="_blank" rel="nofollow">Afvallen in 24uur Programma met gratis Kettlebell</a>!
+    de <a class="thirstylink" title="222" href="https://www.40enfit.nl/run/afvallenin24uur-programma-kettlebell/" target="_blank" rel="nofollow">Afvallen in 24uur Programma met gratis Kettlebell</a>!
   </p>
   
   <p>

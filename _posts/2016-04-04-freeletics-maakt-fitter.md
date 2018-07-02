@@ -32,7 +32,7 @@ En dat allemaal door door [deze sport](https://www.freeletics.com/r/6595686).
 
 Freeletics is een fitness app voor op je telefoon of tablet, waarmee je kan afvallen, je lichaamsconditie kunt verbeteren en waarmee je je spieropbouw kunt verbeteren en dus sterker kunt worden. Je kan het gebruiken voor ondersteuning bij andere sporten, maar ik doe eigenlijk niets anders meer dan Freeletics.  Freeletics is zowel voor krachttraining als voor conditie verbetering te gebruiken.
 
-Het mooie is dat je eigenlijk niets nodig hebt. Je gebruikt puur en alleen je eigen lichaamsgewicht. Een [fitness mat](https://40enfit.nl/run/freeletics-mat/) is wel handig en als je verder wilt kan je eventueel een [pull-up stang](https://40enfit.nl/run/freeletics-optrekstang/) kopen.
+Het mooie is dat je eigenlijk niets nodig hebt. Je gebruikt puur en alleen je eigen lichaamsgewicht. Een [fitness mat](https://www.40enfit.nl/run/freeletics-mat/) is wel handig en als je verder wilt kan je eventueel een [pull-up stang](https://www.40enfit.nl/run/freeletics-optrekstang/) kopen.
 
 Je kan het overal doen! Als je een kamer van 2&#215;2 hebt dan kan je al beginnen. De coach van freeletics houdt in de gaten of je wel je best doet (je traint altijd tegen je zelf, dus je wilt sneller en sneller) en je mag past rusten als je coach het zegt.
 

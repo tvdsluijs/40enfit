@@ -36,14 +36,14 @@ Valt je iets op? De meeste van de oorzaken hebben te maken met je levensstijl!
 ## Oorzaken erectieproblemen
 
 <div id="attachment_2840" style="width: 300px" class="wp-caption alignleft">
-  <a href="https://40enfit.nl/run/oorzaken-van-impotentie/"><img class="wp-image-2840 size-medium" src="https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-300x225.png" alt="erectieprobleem oplossen" width="300" height="225" srcset="https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-300x225.png 300w, https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://www.40enfit.nl/run/oorzaken-van-impotentie/"><img class="wp-image-2840 size-medium" src="https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-300x225.png" alt="erectieprobleem oplossen" width="300" height="225" srcset="https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-300x225.png 300w, https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     BruceBlaus
   </p>
 </div>
 
-De <a href="https://40enfit.nl/run/oorzaken-van-impotentie/" rel="nofollow">oorzaken van erectieproblemen</a> zijn vaak terug te relateren naar hoe je leeft of hoe je heb geleefd in het verleden. Veel van de erectiestoornissen komen namelijk vanuit je gezondheid. Heb je in het verleden veel gerookt, veel gedronken of heb je drugs gebruikt (of rook, drink, gebruik je nog steeds veel) dan is de kans op een erectiestoornis groter dan wanneer je dit niet hebt gedaan.
+De <a href="https://www.40enfit.nl/run/oorzaken-van-impotentie/" rel="nofollow">oorzaken van erectieproblemen</a> zijn vaak terug te relateren naar hoe je leeft of hoe je heb geleefd in het verleden. Veel van de erectiestoornissen komen namelijk vanuit je gezondheid. Heb je in het verleden veel gerookt, veel gedronken of heb je drugs gebruikt (of rook, drink, gebruik je nog steeds veel) dan is de kans op een erectiestoornis groter dan wanneer je dit niet hebt gedaan.
 
 Ik heb het dan natuurlijk niet over dat ene glaasje wat je zo nu en dan drinkt of die ene peuk die je wel eens gerookt hebt. Het gaat natuurlijk over de mensen die veel roken of drinken.
 
@@ -55,9 +55,9 @@ Als je bloedvaten dus prima in orde zijn dan is de kans op een stoornis vele mal
 
 ## Erectieprobleem oplossen met sport
 
-[Erectie problemen oplossen](https://40enfit.nl/run/impotentie-oplossen/) kan op heel veel manieren. Er zijn zogenaamde erectieprobleem oplossingen in de vorm van pillen en poeders, maar ja.. als gezondheids-coach wil ik daar natuurlijk niets van weten. Dit moet toch anders op te lossen zijn. Goedkoper, veel goedkoper maar helaas niet makkelijker dan die pillen die bij uw huisarts of apotheek te krijgen zijn.
+[Erectie problemen oplossen](https://www.40enfit.nl/run/impotentie-oplossen/) kan op heel veel manieren. Er zijn zogenaamde erectieprobleem oplossingen in de vorm van pillen en poeders, maar ja.. als gezondheids-coach wil ik daar natuurlijk niets van weten. Dit moet toch anders op te lossen zijn. Goedkoper, veel goedkoper maar helaas niet makkelijker dan die pillen die bij uw huisarts of apotheek te krijgen zijn.
 
-<a href="https://40enfit.nl/run/oorzaken-van-impotentie/" rel="nofollow"><img class="alignright size-medium wp-image-2841" src="https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-2-300x276.jpg" alt="erectieprobleem oplossen 2" width="300" height="276" srcset="https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-2-300x276.jpg 300w, https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-2.jpg 781w" sizes="(max-width: 300px) 100vw, 300px" /></a>Nee, makkelijk is het niet&#8230;. maar het kan wel&#8230; en je wordt er nog gezonder van ook! Het wondermiddel heet&#8230; SPORTEN!
+<a href="https://www.40enfit.nl/run/oorzaken-van-impotentie/" rel="nofollow"><img class="alignright size-medium wp-image-2841" src="https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-2-300x276.jpg" alt="erectieprobleem oplossen 2" width="300" height="276" srcset="https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-2-300x276.jpg 300w, https://40enfit.resultants-e.nl/2016/05/erectieprobleem-oplossen-2.jpg 781w" sizes="(max-width: 300px) 100vw, 300px" /></a>Nee, makkelijk is het niet&#8230;. maar het kan wel&#8230; en je wordt er nog gezonder van ook! Het wondermiddel heet&#8230; SPORTEN!
 
 Ja ja ja ik weet het, van sporten ga je zweten, sporten kost tijd en je hebt geen zin in sporten! Maar sporten lost heel veel zaken voor je op! En je wil toch je erectieprobleem oplossen?
 
@@ -73,7 +73,7 @@ Als je minimaal 30 tot 60 minuten beweegt per dag ben je al een tijd op weg. En 
 
 ## Met gezond eten komt je erectie terug!
 
-Een <a href="https://40enfit.nl/run/impotentie-oplossen/" rel="nofollow">erectie probleem oplossen</a> doe je niet alleen door te gaan sporten maar ook door je eetpatroon aan te passen.
+Een <a href="https://www.40enfit.nl/run/impotentie-oplossen/" rel="nofollow">erectie probleem oplossen</a> doe je niet alleen door te gaan sporten maar ook door je eetpatroon aan te passen.
 
 Diabetes krijg je door te veel suikers (of nep suikers!) en te weinig sporten. Probleem bij suikers en nep suikers is dat je lichaam insuline gaan aanmaken om het af te breken. Je krijgt dan een zogenaamde insuline piek. Door die piek geeft je lichaam weer aan suiker nodig te gaan hebben, dus daar krijg je weer honger van. (Nep) Suikers naar binnen, en weer insuline&#8230; Honger en dit cirkeltje blijft zich herhalen totdat je lichaam de insuline niet meer kan aanmaken. En BAM dan heb je diabetes. Van nep suikers wordt je wellicht niet dit maar je lichaam gaat wel insuline aanmaken.
 
@@ -81,4 +81,4 @@ Dicht geslipte aderen krijg je door roken, te veel en te vet eten en te veel sui
 
 Eet gewoon eens gezond. Ik hoef je toch echt niet te vertellen wat gezond is hoop ik. Nee, een frikandel is geen vitamine staaf en patat staat niet gelijk aan een gekookte aardappel. Als je gezonder gaat eten, veel meer fruit en groenten komt dit ten goede aan je lichaam! Je valt af, je lichaam gaat meer testosteron aanmaken en je gaat je erectieprobleem oplossen!!
 
-Helpt er nou helemaal niets meer en heb je dus niets aan bovenstaande oplossingen? Dan heb je altijd nog die [supplementen](https://40enfit.nl/run/impotentie-oplossen/) waarmee je wel het erectieprobleem oplossen kan! Nogmaals, dit heeft niet mijn voorkeur, maar ik snap het wel!
+Helpt er nou helemaal niets meer en heb je dus niets aan bovenstaande oplossingen? Dan heb je altijd nog die [supplementen](https://www.40enfit.nl/run/impotentie-oplossen/) waarmee je wel het erectieprobleem oplossen kan! Nogmaals, dit heeft niet mijn voorkeur, maar ik snap het wel!

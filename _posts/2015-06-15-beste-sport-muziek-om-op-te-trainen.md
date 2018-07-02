@@ -29,11 +29,11 @@ Een goede hoofdtelefoon of oordopjes zijn niet goedkoop, maar dan heb je wel een
 
 Bijvoorbeeld één van deze:
 
-[Sport oordo<img class="alignleft size-thumbnail wp-image-272" src="https://40enfit.resultants-e.nl/2015/06/beats_dre_solo2_wireless_black_image03-150x150.jpg" alt="beats_dre_solo2_wireless_black_image03" width="150" height="150" srcset="https://40enfit.resultants-e.nl/2015/06/beats_dre_solo2_wireless_black_image03-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/06/beats_dre_solo2_wireless_black_image03-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/06/beats_dre_solo2_wireless_black_image03.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />pjes](https://40enfit.nl/run/sport-oordopjes/)
+[Sport oordo<img class="alignleft size-thumbnail wp-image-272" src="https://40enfit.resultants-e.nl/2015/06/beats_dre_solo2_wireless_black_image03-150x150.jpg" alt="beats_dre_solo2_wireless_black_image03" width="150" height="150" srcset="https://40enfit.resultants-e.nl/2015/06/beats_dre_solo2_wireless_black_image03-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/06/beats_dre_solo2_wireless_black_image03-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/06/beats_dre_solo2_wireless_black_image03.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />pjes](https://www.40enfit.nl/run/sport-oordopjes/)
   
-[Hardloop oordopjes](https://40enfit.nl/run/hardloop-oordopjes/)
+[Hardloop oordopjes](https://www.40enfit.nl/run/hardloop-oordopjes/)
 
-Diverse prijzen van 100 tot 250 euro. Zit jou sport-hoofdtelefoon er niet bij? Kijk dan eens op deze <a href="https://40enfit.nl/run/oordopjes/" target="_blank" rel="noopener">site</a>.
+Diverse prijzen van 100 tot 250 euro. Zit jou sport-hoofdtelefoon er niet bij? Kijk dan eens op deze <a href="https://www.40enfit.nl/run/oordopjes/" target="_blank" rel="noopener">site</a>.
 
 En dan de muziek, je hebt van alles nodig, van een warm-up tot een cooldown, wanneer je een rustige sessie wil of eens lekker keihard wil knallen!
 

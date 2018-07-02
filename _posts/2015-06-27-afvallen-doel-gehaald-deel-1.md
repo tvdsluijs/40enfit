@@ -28,7 +28,7 @@ Jazeker&#8230; en die beloning wordt een nog zwaardere training morgen! Heerlijk
 
 [<img class="alignleft wp-image-329 size-thumbnail" src="https://40enfit.resultants-e.nl/2015/06/IMG_5853-150x150.jpg" alt="IMG_5853" width="150" height="150" srcset="https://40enfit.resultants-e.nl/2015/06/IMG_5853-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/06/IMG_5853-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/06/IMG_5853-1024x1024.jpg 1024w, https://40enfit.resultants-e.nl/2015/06/IMG_5853-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/06/IMG_5853-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/06/IMG_5853-750x750.jpg 750w, https://40enfit.resultants-e.nl/2015/06/IMG_5853.jpg 1430w" sizes="(max-width: 150px) 100vw, 150px" />](https://40enfit.resultants-e.nl/2015/06/IMG_5853.jpg)Mooie bijkomst van het afvallen is dat ik toch nog wat spiermassa er bij heb gekregen!
 
-En nu nog meer spiermassa er bij kweken en op naar mijn volgend Doel! [Maatje 29](https://40enfit.nl/een-nieuwe-dag-een-nieuw-fit-doel/)!
+En nu nog meer spiermassa er bij kweken en op naar mijn volgend Doel! [Maatje 29](https://www.40enfit.nl/een-nieuwe-dag-een-nieuw-fit-doel/)!
 
 Het mooie is dat ik dus afgevallen ben puur en bijna alleen door workouts te doen van HiiT, Insanity, [Freeletics](https://www.freeletics.com/r/6595686) en Fitnessblender.
 

@@ -23,7 +23,7 @@ format: video
 ---
 Vorig jaar mee gedaan met 2 collega&#8217;s aan de Rotterdam Urban Bootcamp. Georganiseerd door Fit Mission.
 
-Ik had er al [over geschreven](https://40enfit.nl/urban-bootcamp-rotterda/), maar ik hoorde pas van de week dat er dus een video van is.
+Ik had er al [over geschreven](https://www.40enfit.nl/urban-bootcamp-rotterda/), maar ik hoorde pas van de week dat er dus een video van is.
 
 Het was heel erg leuk om eens een Bootcamp te doen in een grote stad. En in dit geval was dat Rotterdam.
 

@@ -166,16 +166,16 @@ Okay&#8230;. overmorgen ga ik beginnen met de volgende normale Freeletics week! 
 
 ## Voorgaande Freeletics hellweek artikelen
 
-[Freeletics hell week dag 6](https://40enfit.nl/freeletics-hell-week-dag-6/)
+[Freeletics hell week dag 6](https://www.40enfit.nl/freeletics-hell-week-dag-6/)
   
-[Freeletics hell week dag 5](https://40enfit.nl/freeletics-hell-week-dag-5/)
+[Freeletics hell week dag 5](https://www.40enfit.nl/freeletics-hell-week-dag-5/)
   
-[Freeletics hell week dag 4](https://40enfit.nl/freeletics-hell-week-dag-4/)
+[Freeletics hell week dag 4](https://www.40enfit.nl/freeletics-hell-week-dag-4/)
   
-[Freeletics hell week dag 3](https://40enfit.nl/freeletics-hell-week-dag-3/)
+[Freeletics hell week dag 3](https://www.40enfit.nl/freeletics-hell-week-dag-3/)
   
-[Freeletics hellweek dag 2](https://40enfit.nl/freeletics-hellweek-dag-2/)
+[Freeletics hellweek dag 2](https://www.40enfit.nl/freeletics-hellweek-dag-2/)
   
-[Freeletics hellweek dag 1](https://40enfit.nl/freeletics-hellweek-dag-1/)
+[Freeletics hellweek dag 1](https://www.40enfit.nl/freeletics-hellweek-dag-1/)
   
-[Freeletics hell week, 7 dagen die je leven veranderen](https://40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)
+[Freeletics hell week, 7 dagen die je leven veranderen](https://www.40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)

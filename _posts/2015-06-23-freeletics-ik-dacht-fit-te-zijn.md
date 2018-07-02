@@ -23,7 +23,7 @@ format: video
 ---
 <img class=" wp-image-309 size-thumbnail alignleft" src="https://40enfit.resultants-e.nl/2015/06/11043192_1612083052358952_6589216528253545437_n-150x150.png" alt="freeletics" width="150" height="150" srcset="https://40enfit.resultants-e.nl/2015/06/11043192_1612083052358952_6589216528253545437_n-150x150.png 150w, https://40enfit.resultants-e.nl/2015/06/11043192_1612083052358952_6589216528253545437_n-80x80.png 80w, https://40enfit.resultants-e.nl/2015/06/11043192_1612083052358952_6589216528253545437_n-360x360.png 360w" sizes="(max-width: 150px) 100vw, 150px" />Dus jij dacht dat je fit was? Ha ha ha ha think again!!!
 
-Vandaag ben ik begonnen met [Freeletics](https://www.freeletics.com/r/6595686). Zoals je in mijn vorige [artikel](https://40enfit.nl/freeletics-is-mijn-nieuwe-coach/) heb kunnen lezen wilde ik een handige tool om workouts te doen met een coach.
+Vandaag ben ik begonnen met [Freeletics](https://www.freeletics.com/r/6595686). Zoals je in mijn vorige [artikel](https://www.40enfit.nl/freeletics-is-mijn-nieuwe-coach/) heb kunnen lezen wilde ik een handige tool om workouts te doen met een coach.
 
 En dat vond ik in de Freeletics app met coach.
 

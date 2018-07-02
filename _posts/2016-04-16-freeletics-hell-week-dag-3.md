@@ -116,10 +116,10 @@ Die dag 3 was als “a kick in the butt”!! Pffffff nog maar 4 dagen te gaan ?
 
 ## Voorgaande Freeletics hellweek artikelen
 
-[Freeletics hell week dag 3](https://40enfit.nl/freeletics-hell-week-dag-3/)
+[Freeletics hell week dag 3](https://www.40enfit.nl/freeletics-hell-week-dag-3/)
   
-[Freeletics hellweek dag 2](https://40enfit.nl/freeletics-hellweek-dag-2/)
+[Freeletics hellweek dag 2](https://www.40enfit.nl/freeletics-hellweek-dag-2/)
   
-[Freeletics hellweek dag 1](https://40enfit.nl/freeletics-hellweek-dag-1/)
+[Freeletics hellweek dag 1](https://www.40enfit.nl/freeletics-hellweek-dag-1/)
   
-[Freeletics hell week, 7 dagen die je leven veranderen](https://40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)
+[Freeletics hell week, 7 dagen die je leven veranderen](https://www.40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)

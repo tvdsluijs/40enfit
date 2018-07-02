@@ -74,7 +74,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
 <div id='gallery-4' class='gallery galleryid-680 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/img_1161/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1161-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-683" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1161-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1161-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1161-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1161-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/img_1161/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1161-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-683" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1161-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1161-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1161-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1161-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-683'>
@@ -84,7 +84,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-2015-koos-33/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-33-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-689" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-33-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-33-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-33-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-2015-koos-33/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-33-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-689" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-33-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-33-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-33-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-689'>
@@ -94,7 +94,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/img_1167/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1167-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-685" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1167-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1167-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1167-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1167-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/img_1167/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1167-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-685" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1167-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1167-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1167-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1167-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-685'>
@@ -106,7 +106,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/screen-shot-2015-09-11-at-19-37-26/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Lekker rondje volgens mijn Polar v800" aria-describedby="gallery-4-692" srcset="https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-150x150.png 150w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-80x80.png 80w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-360x360.png 360w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-750x750.png 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/screen-shot-2015-09-11-at-19-37-26/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Lekker rondje volgens mijn Polar v800" aria-describedby="gallery-4-692" srcset="https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-150x150.png 150w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-80x80.png 80w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-360x360.png 360w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.37.26-750x750.png 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-692'>
@@ -116,7 +116,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-richard-246/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-246-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-687" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-246-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-246-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-246-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-richard-246/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-246-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-687" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-246-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-246-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-RICHARD-246-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-687'>
@@ -126,7 +126,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-2015-tom-96/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-TOM-96-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-691" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-TOM-96-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-TOM-96-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-TOM-96-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-2015-tom-96/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-TOM-96-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-691" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-TOM-96-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-TOM-96-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-TOM-96-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-691'>
@@ -138,7 +138,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/img_1162/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1162-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-684" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1162-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1162-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1162-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1162-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/img_1162/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1162-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-684" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1162-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1162-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1162-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1162-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-684'>
@@ -148,7 +148,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/img_1168/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1168-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-686" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1168-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1168-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1168-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1168-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/img_1168/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1168-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-686" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1168-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1168-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1168-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1168-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-686'>
@@ -158,7 +158,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-2015-jans-41/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-688" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-2015-jans-41/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-688" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-JANS-41-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-688'>
@@ -170,7 +170,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/img_1135/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1135-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Auw auw beentje blauw" aria-describedby="gallery-4-682" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1135-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1135-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/IMG_1135-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1135-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1135-750x750.jpg 750w, https://40enfit.resultants-e.nl/2015/09/IMG_1135.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/img_1135/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/IMG_1135-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Auw auw beentje blauw" aria-describedby="gallery-4-682" srcset="https://40enfit.resultants-e.nl/2015/09/IMG_1135-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/IMG_1135-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/IMG_1135-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/IMG_1135-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/IMG_1135-750x750.jpg 750w, https://40enfit.resultants-e.nl/2015/09/IMG_1135.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-682'>
@@ -180,7 +180,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/screen-shot-2015-09-11-at-19-38-40/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Extreem gesport volgens mijn Polar v800" aria-describedby="gallery-4-693" srcset="https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40-150x150.png 150w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40-80x80.png 80w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40-360x360.png 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/screen-shot-2015-09-11-at-19-38-40/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Extreem gesport volgens mijn Polar v800" aria-describedby="gallery-4-693" srcset="https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40-150x150.png 150w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40-80x80.png 80w, https://40enfit.resultants-e.nl/2015/09/Screen-Shot-2015-09-11-at-19.38.40-360x360.png 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-693'>
@@ -190,7 +190,7 @@ Tja… foto’s zijn er heel veel gemaakt! Hieronder een selectie.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-2015-koos-36/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-36-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-690" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-36-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-36-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-36-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/polar-v800-en-obstacle-run/obstacle-run-2015-koos-36/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-36-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-4-690" srcset="https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-36-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-36-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/Obstacle-Run-2015-KOOS-36-360x360.jpg 360w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-4-690'>

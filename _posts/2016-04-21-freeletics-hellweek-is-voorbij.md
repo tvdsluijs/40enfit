@@ -546,20 +546,20 @@ Jij wil toch ook fit worden? Ga er voor en doe ook mee met [Freeletics](https://
 
 ## Voorgaande Freeletics hellweek artikelen
 
-[Freeletics hellweek is voorbij](https://40enfit.nl/freeletics-hellweek-is-voorbij/)
+[Freeletics hellweek is voorbij](https://www.40enfit.nl/freeletics-hellweek-is-voorbij/)
   
-[Laatste freeletics hell week, dag 7](https://40enfit.nl/laatste-freeletics-hell-week-dag-7/)
+[Laatste freeletics hell week, dag 7](https://www.40enfit.nl/laatste-freeletics-hell-week-dag-7/)
   
-[Freeletics hell week dag 6](https://40enfit.nl/freeletics-hell-week-dag-6/)
+[Freeletics hell week dag 6](https://www.40enfit.nl/freeletics-hell-week-dag-6/)
   
-[Freeletics hell week dag 5](https://40enfit.nl/freeletics-hell-week-dag-5/)
+[Freeletics hell week dag 5](https://www.40enfit.nl/freeletics-hell-week-dag-5/)
   
-[Freeletics hell week dag 4](https://40enfit.nl/freeletics-hell-week-dag-4/)
+[Freeletics hell week dag 4](https://www.40enfit.nl/freeletics-hell-week-dag-4/)
   
-[Freeletics hell week dag 3](https://40enfit.nl/freeletics-hell-week-dag-3/)
+[Freeletics hell week dag 3](https://www.40enfit.nl/freeletics-hell-week-dag-3/)
   
-[Freeletics hellweek dag 2](https://40enfit.nl/freeletics-hellweek-dag-2/)
+[Freeletics hellweek dag 2](https://www.40enfit.nl/freeletics-hellweek-dag-2/)
   
-[Freeletics hellweek dag 1](https://40enfit.nl/freeletics-hellweek-dag-1/)
+[Freeletics hellweek dag 1](https://www.40enfit.nl/freeletics-hellweek-dag-1/)
   
-[Freeletics hell week, 7 dagen die je leven veranderen](https://40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)
+[Freeletics hell week, 7 dagen die je leven veranderen](https://www.40enfit.nl/freeletics-hell-week-7-dagen-die-je-leven-veranderen/)

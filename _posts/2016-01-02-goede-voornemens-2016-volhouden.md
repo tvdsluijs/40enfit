@@ -87,5 +87,5 @@ En laat me hieronder even weten hoe het gaat! En mocht je persoonlijke coaching 
         </div>
         
         <div class="omsc-button-block">
-          <a href="https://40enfit.nl/run/thuisfitness-pakket/">Start met afvallen</a>
+          <a href="https://www.40enfit.nl/run/thuisfitness-pakket/">Start met afvallen</a>
         </div></div></div>

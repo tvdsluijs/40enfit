@@ -46,6 +46,9 @@ post_class: post-template
 
 			<!-- Post Content -->
 			<div class="article-post">
+                {% if page.vw_review_score_1_label %}
+                    {% include review.html %}
+                {% endif %}
 				{{content}}
 			</div>
 
@@ -91,8 +94,6 @@ post_class: post-template
 </div>
 <!-- End Article
 ================================================== -->
-
-  
 
 <!-- Begin Comments
 ================================================== -->

@@ -49,19 +49,19 @@ Hieronder wat foto&#8217;s van diverse kleding stukken.
 <div id='gallery-5' class='gallery galleryid-728 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/kledinglijn-40enfit-live/shirt_1/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shirt_1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shirt_1-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shirt_1-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/shirt_1-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shirt_1-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/shirt_1.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/kledinglijn-40enfit-live/shirt_1/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shirt_1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shirt_1-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shirt_1-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/shirt_1-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shirt_1-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/shirt_1.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/kledinglijn-40enfit-live/broek_3/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/broek_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/broek_3-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/broek_3-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/broek_3-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/broek_3-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/broek_3.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/kledinglijn-40enfit-live/broek_3/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/broek_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/broek_3-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/broek_3-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/broek_3-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/broek_3-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/broek_3.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/kledinglijn-40enfit-live/broek_2/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/broek_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/broek_2-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/broek_2-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/broek_2-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/broek_2-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/broek_2.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/kledinglijn-40enfit-live/broek_2/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/broek_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/broek_2-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/broek_2-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/broek_2-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/broek_2-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/broek_2.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
@@ -69,19 +69,19 @@ Hieronder wat foto&#8217;s van diverse kleding stukken.
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/kledinglijn-40enfit-live/shirt_3/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shirt_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shirt_3-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shirt_3-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/shirt_3-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shirt_3-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/shirt_3.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/kledinglijn-40enfit-live/shirt_3/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shirt_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shirt_3-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shirt_3-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/shirt_3-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shirt_3-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/shirt_3.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/kledinglijn-40enfit-live/shirt_2/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shirt_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shirt_2-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shirt_2-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/shirt_2-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shirt_2-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/shirt_2.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/kledinglijn-40enfit-live/shirt_2/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/shirt_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/shirt_2-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/shirt_2-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/shirt_2-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/shirt_2-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/shirt_2.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/kledinglijn-40enfit-live/broek_1/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/broek_1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/broek_1-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/broek_1-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/broek_1-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/broek_1-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/broek_1.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/kledinglijn-40enfit-live/broek_1/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/09/broek_1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/09/broek_1-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/09/broek_1-300x300.jpg 300w, https://40enfit.resultants-e.nl/2015/09/broek_1-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/09/broek_1-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/09/broek_1.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   

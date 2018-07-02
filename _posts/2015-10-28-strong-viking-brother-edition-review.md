@@ -79,19 +79,19 @@ Let wel even op dat je voldoende geld mee neemt, pinnen kan eigenlijk niet en je
 <div id='gallery-7' class='gallery galleryid-846 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/strong-viking-brother-edition-review/img_1675/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/10/IMG_1675-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/10/IMG_1675-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/10/IMG_1675-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/10/IMG_1675-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/10/IMG_1675-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/strong-viking-brother-edition-review/img_1675/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/10/IMG_1675-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/10/IMG_1675-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/10/IMG_1675-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/10/IMG_1675-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/10/IMG_1675-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/strong-viking-brother-edition-review/img_1674/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/10/IMG_1674-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/10/IMG_1674-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/10/IMG_1674-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/10/IMG_1674-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/10/IMG_1674-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/strong-viking-brother-edition-review/img_1674/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/10/IMG_1674-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/10/IMG_1674-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/10/IMG_1674-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/10/IMG_1674-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/10/IMG_1674-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='https://40enfit.nl/strong-viking-brother-edition-review/img_1672/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/10/IMG_1672-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/10/IMG_1672-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/10/IMG_1672-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/10/IMG_1672-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/10/IMG_1672-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <a href='https://www.40enfit.nl/strong-viking-brother-edition-review/img_1672/'><img width="150" height="150" src="https://40enfit.resultants-e.nl/2015/10/IMG_1672-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://40enfit.resultants-e.nl/2015/10/IMG_1672-150x150.jpg 150w, https://40enfit.resultants-e.nl/2015/10/IMG_1672-80x80.jpg 80w, https://40enfit.resultants-e.nl/2015/10/IMG_1672-360x360.jpg 360w, https://40enfit.resultants-e.nl/2015/10/IMG_1672-750x750.jpg 750w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     </dt>
   </dl>
   

@@ -63,7 +63,7 @@ Veel mensen denken dat ze uitgedroogd zijn na zo&#8217;n 6 tot 12 km lopen, maar
 
 Je mag overigens best wat drinken, maar zie het meer als nat maker voor de mond. Veel meer moet het niet zijn.
 
-Eten kan, maar neem een <a href="https://40enfit.nl/run/energie-gels/" target="_blank">Energie gel</a> of <a href="https://40enfit.nl/run/energierepen/" target="_blank">reepje</a> , meer niet. Gels, zijn het meest handige en kosten het minste energie om te verteren. Als je meer dan 12km loopt (dus 15 tot 19) zorg dan wel voor die gel of energie bar.
+Eten kan, maar neem een <a href="https://www.40enfit.nl/run/energie-gels/" target="_blank">Energie gel</a> of <a href="https://www.40enfit.nl/run/energierepen/" target="_blank">reepje</a> , meer niet. Gels, zijn het meest handige en kosten het minste energie om te verteren. Als je meer dan 12km loopt (dus 15 tot 19) zorg dan wel voor die gel of energie bar.
 
 ## Eten en drinken na de Run
 

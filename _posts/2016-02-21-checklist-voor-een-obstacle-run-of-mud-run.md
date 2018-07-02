@@ -42,9 +42,9 @@ Hier onder de verschillende checklists voor de verschillende onderdelen bij een 
 
 ## Checklist voor tijdens de Mud of Obstacle Run
 
-<i class="omsc-icon fa fa-square-o" style=""></i> Geschikte (onder) kleding (geen katoen) ([heren](https://40enfit.nl/run/onderkleding-heren/) / dames)
+<i class="omsc-icon fa fa-square-o" style=""></i> Geschikte (onder) kleding (geen katoen) ([heren](https://www.40enfit.nl/run/onderkleding-heren/) / dames)
   
-<i class="omsc-icon fa fa-square-o" style=""></i> Goede (Mud/Trail) <a href="https://40enfit.nl/run/trailrunning-schoenen/" target="_blank">Schoenen</a>
+<i class="omsc-icon fa fa-square-o" style=""></i> Goede (Mud/Trail) <a href="https://www.40enfit.nl/run/trailrunning-schoenen/" target="_blank">Schoenen</a>
   
 <i class="omsc-icon fa fa-square-o" style=""></i> Bij Kou, <a href="https://www.athleteshop.nl/sportkleding/handschoenen" target="_blank">handschoenen</a>
   
@@ -52,7 +52,7 @@ Hier onder de verschillende checklists voor de verschillende onderdelen bij een 
   
 <i class="omsc-icon fa fa-square-o" style=""></i> Een GoPro, GPS-klok of andere (waterdichte) gadgets
   
-<i class="omsc-icon fa fa-square-o" style=""></i> <a href="https://40enfit.nl/run/energie-gels/" target="_blank">Energie gel</a> of <a href="https://40enfit.nl/run/energierepen/" target="_blank">reepjes</a> (voor langere afstanden, ongeveer vanaf 19km)
+<i class="omsc-icon fa fa-square-o" style=""></i> <a href="https://www.40enfit.nl/run/energie-gels/" target="_blank">Energie gel</a> of <a href="https://www.40enfit.nl/run/energierepen/" target="_blank">reepjes</a> (voor langere afstanden, ongeveer vanaf 19km)
 
 ## Checklist voor na de Mud of Obstacle Run
 

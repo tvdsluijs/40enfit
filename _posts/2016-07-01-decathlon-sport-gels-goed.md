@@ -20,9 +20,9 @@ tags:
   - hardlopen
   - lifestyle
 ---
-Sport Gels, de een zweert erbij de ander vind ze vooral goor en neemt ze niet tijdens het sporten. Ik zelf vind Sport Gels prima te doen en ze geven me dan ook een boost wanneer ik het nodig heb. Deze week heb ik de Decathlon Sport Gels getest. [Decathlon](https://40enfit.nl/run/deca-gels-2/) heeft een zogenaamd Passion merk genaamd Aptonia waarbij ze onder die naam ook hun eigen Sport Gels hebben.<!--more-->
+Sport Gels, de een zweert erbij de ander vind ze vooral goor en neemt ze niet tijdens het sporten. Ik zelf vind Sport Gels prima te doen en ze geven me dan ook een boost wanneer ik het nodig heb. Deze week heb ik de Decathlon Sport Gels getest. [Decathlon](https://www.40enfit.nl/run/deca-gels-2/) heeft een zogenaamd Passion merk genaamd Aptonia waarbij ze onder die naam ook hun eigen Sport Gels hebben.<!--more-->
 
-Energie gels, die vallen onder de categorie <a href="https://40enfit.nl/run/sportvoeding-2/" target="_blank">Sportvoeding</a>, worden in het algemeen gebruikt om snel energie te krijgen tijdens het sporten. Je kan heel snel het tekort aan koolhydraten aanvullen tijdens een training of wedstrijd. Doordat energie gels vloeibaar zijn worden ze heel snel snel opgenomen in het lichaam.
+Energie gels, die vallen onder de categorie <a href="https://www.40enfit.nl/run/sportvoeding-2/" target="_blank">Sportvoeding</a>, worden in het algemeen gebruikt om snel energie te krijgen tijdens het sporten. Je kan heel snel het tekort aan koolhydraten aanvullen tijdens een training of wedstrijd. Doordat energie gels vloeibaar zijn worden ze heel snel snel opgenomen in het lichaam.
 
 ## Sport Gels Hypertone of Isotone
 
@@ -36,7 +36,7 @@ De ene gel is dus dikker dan de andere en heeft als groot verschil de energie af
 
 ## Aptonia Sport Gels
 
-[<img class="alignleft wp-image-2899 size-medium" title="Decathlon Sport Gels" src="https://40enfit.resultants-e.nl/2016/06/sport-gels-1-225x300.jpg" alt="Decathlon Sport Gels" width="225" height="300" srcset="https://40enfit.resultants-e.nl/2016/06/sport-gels-1-225x300.jpg 225w, https://40enfit.resultants-e.nl/2016/06/sport-gels-1-768x1024.jpg 768w, https://40enfit.resultants-e.nl/2016/06/sport-gels-1.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />](https://40enfit.nl/run/sportvoeding-2/)Van Decathlon heb ik een grote zak met gels van het passie merk Aptonia ontvangen om te testen. Aptonia is een eigen merk en per merk brengen ze hun eigen soort producten uit. Zo brengt Aptonia alles uit met betrekking tot producten met Eiwitten, Hydratatie, voeding en zorg (in de sport).
+[<img class="alignleft wp-image-2899 size-medium" title="Decathlon Sport Gels" src="https://40enfit.resultants-e.nl/2016/06/sport-gels-1-225x300.jpg" alt="Decathlon Sport Gels" width="225" height="300" srcset="https://40enfit.resultants-e.nl/2016/06/sport-gels-1-225x300.jpg 225w, https://40enfit.resultants-e.nl/2016/06/sport-gels-1-768x1024.jpg 768w, https://40enfit.resultants-e.nl/2016/06/sport-gels-1.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />](https://www.40enfit.nl/run/sportvoeding-2/)Van Decathlon heb ik een grote zak met gels van het passie merk Aptonia ontvangen om te testen. Aptonia is een eigen merk en per merk brengen ze hun eigen soort producten uit. Zo brengt Aptonia alles uit met betrekking tot producten met Eiwitten, Hydratatie, voeding en zorg (in de sport).
 
 Eigenlijk heb ik te veel Gels gehad om ze op korte termijn allemaal te testen. En ik wil ze wel gebruiken bij de sport niet tijdens het tv kijken op de bank. Dus het duurde iets langer dan anders dat ik de review compleet had. Dat wil zeggen, ik heb er al een aantal getest maar nog niet allemaal. Puur omdat ik de gels alleen bij mijn Mud / Obstacle runs gebruik en ik niet iedere week op run ben.
 
@@ -72,6 +72,6 @@ De dikke gel vind ik geen probleem om te gebruiken en ik merk ook geen nadelen t
 
 De prijs van de Aptonia gels zijn ook meer dan goed! Je hebt ze tussen de 0,75 en 1,25 euro per stuk daarvoor kan je niet zonder zitten.
 
-<a class="omsc-button omsc-custom-hover omsc-size-medium omsc-with-icon omsc-style-flat omsc-text-bright" href="https://40enfit.nl/run/sportvoeding-2/" target="_blank" style="background-color:#dd3333;border-color:#dd3333;color:#ffffff" data-hover-bg-color="#000000" data-hover-text-color="#ffffff" data-hover-border-color="#000000"><i class="fa fa-thumbs-o-up"></i>Klik hier voor Sport Gels</a> 
+<a class="omsc-button omsc-custom-hover omsc-size-medium omsc-with-icon omsc-style-flat omsc-text-bright" href="https://www.40enfit.nl/run/sportvoeding-2/" target="_blank" style="background-color:#dd3333;border-color:#dd3333;color:#ffffff" data-hover-bg-color="#000000" data-hover-text-color="#ffffff" data-hover-border-color="#000000"><i class="fa fa-thumbs-o-up"></i>Klik hier voor Sport Gels</a> 
 
 &nbsp;

@@ -37,7 +37,7 @@ Dat bleken er niet zo maar een paar! Maar liefst 9 collega&#8217;s willen er mee
 
 ## Trainen voor de Mud Masters Obstacle Run
 
-Nu heb ik al een soort van handleiding geschreven voor welke kleding ze aan moeten in <a href="https://40enfit.nl/wat-trek-je-aan-voor-een-winter-obstacle-run/" target="_blank">dit artikel</a>. En heb ik ze ook al wat tips gegeven via wat youtube filmpjes om aan oefeningen te doen&#8230;. maar ik wil eigenlijk net zoals &#8220;Peter La Fleur&#8221; in Dodgeball &#8220;winnen&#8221; of wel heel  graag binnen een redelijke tijd met zijn allen over de finish komen.
+Nu heb ik al een soort van handleiding geschreven voor welke kleding ze aan moeten in <a href="https://www.40enfit.nl/wat-trek-je-aan-voor-een-winter-obstacle-run/" target="_blank">dit artikel</a>. En heb ik ze ook al wat tips gegeven via wat youtube filmpjes om aan oefeningen te doen&#8230;. maar ik wil eigenlijk net zoals &#8220;Peter La Fleur&#8221; in Dodgeball &#8220;winnen&#8221; of wel heel  graag binnen een redelijke tijd met zijn allen over de finish komen.
 
 Nou wil ik niet zeggen dat ik op dit moment in topvorm ben&#8230;. maar er zijn wat collega&#8217;s waarvan ik denk&#8230;. zodra dat gezicht van pure uitputting de modder raakt na zo&#8217;n 5km moeten we er nog 7&#8230;..
 

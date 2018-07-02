@@ -35,7 +35,6 @@ dsq_thread_id:
 image: https://40enfit.resultants-e.nl/2015/07/IMG_6067.jpg
 categories:
   - Food
-  - Reviews
 tags:
   - toversap
 ---

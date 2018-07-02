@@ -73,7 +73,7 @@ Heb je een algeheel bluetooth probleem met je Polar M400 of V800 ga dan naar ..
 
 <blockquote data-secret="sgLZ5RS7XP" class="wp-embedded-content">
   <p>
-    <a href="https://40enfit.nl/oplossing-polar-v800-bluetooth-connectie-probleem/">Oplossing Polar v800 bluetooth connectie probleem</a>
+    <a href="https://www.40enfit.nl/oplossing-polar-v800-bluetooth-connectie-probleem/">Oplossing Polar v800 bluetooth connectie probleem</a>
   </p>
 </blockquote>
 

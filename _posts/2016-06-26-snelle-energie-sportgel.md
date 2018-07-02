@@ -21,7 +21,7 @@ tags:
   - lifestyle
   - obstacle run
 ---
-Bij drogisterijen, supermarkten en tientallen online winkels zijn ze te koop: sportgels. Deze gels moeten snel energie leveren tijdens het sporten, maar ook het herstel na de training bevorderen.  Net zoals bij sportdranken zijn er verschillende soorten [sportgels](https://40enfit.nl/run/sportvoeding-1/) met verschillende functies.<!--more-->
+Bij drogisterijen, supermarkten en tientallen online winkels zijn ze te koop: sportgels. Deze gels moeten snel energie leveren tijdens het sporten, maar ook het herstel na de training bevorderen.  Net zoals bij sportdranken zijn er verschillende soorten [sportgels](https://www.40enfit.nl/run/sportvoeding-1/) met verschillende functies.<!--more-->
 
 ## ‘Handig, mobiel en voorverpakt’
 
@@ -37,7 +37,7 @@ Deze soort sportgel, ook wel de hypertone energiegel genoemd, is erg geconcentre
 
 ## Isotone gel
 
-Doordat het voor niet alle sporters makkelijk is tijdens het sporten water te drinken om de traditionele gel goed op te laten nemen ontwikkelde men de isotone gel. De isotone gel wordt ook wel ‘gel drink’ genoemd, omdat er niet bij gedronken hoeft te worden. Deze soort gel is namelijk minder geconcentreerd dan de traditionele gel, maar het gevolg hiervan is dat de isotone gel minder energie levert. Voor [sporters](https://40enfit.nl/run/deca-gels-1/) die regelmatig problemen met de darmen of spijsvertering hebben is deze gel, in tegenstelling tot de traditionele, geschikt.
+Doordat het voor niet alle sporters makkelijk is tijdens het sporten water te drinken om de traditionele gel goed op te laten nemen ontwikkelde men de isotone gel. De isotone gel wordt ook wel ‘gel drink’ genoemd, omdat er niet bij gedronken hoeft te worden. Deze soort gel is namelijk minder geconcentreerd dan de traditionele gel, maar het gevolg hiervan is dat de isotone gel minder energie levert. Voor [sporters](https://www.40enfit.nl/run/deca-gels-1/) die regelmatig problemen met de darmen of spijsvertering hebben is deze gel, in tegenstelling tot de traditionele, geschikt.
 
 ## Wanneer en waarom sportgel gebruiken?
 
@@ -45,7 +45,7 @@ Genoeg koolhydraten binnenkrijgen is erg belangrijk voor duur-sporters. Deze koo
 
 Een gemiddeld lichaam bevat genoeg energie om 60 minuten hard te lopen. Na dit uur neemt de energie in het lichaam af en is het belangrijk dat er koolhydraten bijkomen. Dit aanvullen van de koolhydraten kan natuurlijk via een banaan of muesli-reep, maar tijdens het sporten is het vaak lastig om te eten. Daarom is zo’n gel handig: het zit in een klein knijpzakje en is een soort vloeibaar krachtvoer. Voor het sporten kan er een klein beetje gel genomen worden, maar veel sportgel zal niet het optimale effect geven. Beter is het om tijdens de inspanning sportgel te nemen, zodat het lichaam niet zonder energie komt te zitten.
 
-Sportdrank en sportgel lijken qua effect erg op elkaar want beide geven snel energie en kunnen helpen met herstellen. De gels zijn alleen een stuk geconcentreerder dan [sportdranken](https://40enfit.nl/run/sportvoeding-1/), waardoor een klein zakje sportgel genoeg is om een zware inspanning te kunnen leveren en er geen fles sportdrank meegenomen hoeft te worden tijdens het sporten. De zakjes sportgel zijn zo klein dat ze makkelijk in de zak van een broek kunnen. Ook is het mogelijk om de zakjes aan je lichaam vast te tapen, ze wegen namelijk niet.
+Sportdrank en sportgel lijken qua effect erg op elkaar want beide geven snel energie en kunnen helpen met herstellen. De gels zijn alleen een stuk geconcentreerder dan [sportdranken](https://www.40enfit.nl/run/sportvoeding-1/), waardoor een klein zakje sportgel genoeg is om een zware inspanning te kunnen leveren en er geen fles sportdrank meegenomen hoeft te worden tijdens het sporten. De zakjes sportgel zijn zo klein dat ze makkelijk in de zak van een broek kunnen. Ook is het mogelijk om de zakjes aan je lichaam vast te tapen, ze wegen namelijk niet.
 
 ## Soorten en smaken
 
@@ -55,7 +55,7 @@ Van cafeïne is dit dus wel bewezen. Het zorgt er namelijk voor dat je langer sc
 
 &nbsp;
 
-<a class="omsc-button omsc-custom-hover omsc-size-medium omsc-with-icon omsc-style-flat omsc-text-bright" href="https://40enfit.nl/run/sportvoeding-1/" target="_blank" style="background-color:#dd3333;border-color:#dd3333;color:#ffffff" data-hover-bg-color="#000000" data-hover-text-color="#ffffff" data-hover-border-color="#000000"><i class="fa fa-thumbs-o-up"></i>Klik hier voor Sport Gels</a> 
+<a class="omsc-button omsc-custom-hover omsc-size-medium omsc-with-icon omsc-style-flat omsc-text-bright" href="https://www.40enfit.nl/run/sportvoeding-1/" target="_blank" style="background-color:#dd3333;border-color:#dd3333;color:#ffffff" data-hover-bg-color="#000000" data-hover-text-color="#ffffff" data-hover-border-color="#000000"><i class="fa fa-thumbs-o-up"></i>Klik hier voor Sport Gels</a> 
 
 &nbsp;
 
