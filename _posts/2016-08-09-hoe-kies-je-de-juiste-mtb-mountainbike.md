@@ -4,7 +4,7 @@ title: Hoe kies je de juiste MTB, Mountainbike
 date: 2016-08-09T14:36:41+00:00
 author: tvds
 layout: post
-featured: true
+featured: false
 permalink: /hoe-kies-je-de-juiste-mtb-mountainbike/
 
 
