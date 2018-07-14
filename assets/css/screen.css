@@ -651,6 +651,8 @@ License: https://www.wowthemes.net/freebies-license/
     width:100%;
 }
 
+
+
 /*Review*/
 .review-box {
     width: 250px;
@@ -707,4 +709,9 @@ img.alignright {
 img.attachment-thumbnail {
     float: left;
     margin: 5px 5px 0px 0px;
+}
+
+/*Navigatie*/
+.mr-2, .mx-2 {
+    text-decoration: underline;
 }

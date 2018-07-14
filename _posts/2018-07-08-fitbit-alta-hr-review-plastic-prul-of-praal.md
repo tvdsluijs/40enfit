@@ -9,7 +9,7 @@ image: /assets/images/fitbit-alta-hr-review.jpg
 thumbnail: 
 featured: true
 categories: 
- - gear
+ - Gear
 tags: 
  - Fitbit
  - Tracker
