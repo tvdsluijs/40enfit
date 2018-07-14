@@ -2,7 +2,6 @@
 layout: post
 title: "Fitbit Alta HR Review: Plastic Prul of Praal"
 author: tvds
-slug: /2018/07/fitbit-alta-hr-review-plastic-prul-of-praal/
 permalink: /2018/07/fitbit-alta-hr-review-plastic-prul-of-praal/
 date: 2018-07-08
 publish_date: 2018-07-08
