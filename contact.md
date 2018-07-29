@@ -6,7 +6,6 @@ comments: false
 ---
 
 
-
 <form id="formulier">
   <div class="form-group">
         <label for="contact-name">Vertel maar, hoe heet je?</label>
