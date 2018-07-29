@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /over
 title: Over 40enfit en Theo van der Sluijs
 comments: false
 ---
