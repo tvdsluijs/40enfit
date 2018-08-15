@@ -104,13 +104,7 @@ jQuery(document).ready(function($){
                 $('.nav-up, .nav-down').css('top', '0px');             
             }
         }
-
         lastScrollTop = st;
     }
-    
-    
     $('.site-content').css('margin-top', $('header').outerHeight() + 'px');
-
-
-
 });
