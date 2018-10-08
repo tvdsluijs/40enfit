@@ -22,7 +22,7 @@ tags:
   - mtb
   - wielrenner
 ---
-Er is een zogenaamd handboek voor de fietser, of je nu wielrenner, mountainbiker of fietser bent je hebt je blijkbaar te houden aan regels. Met wielrenners is het helemaal erg dat handboek is zo strikt dat ik er wurgneigingen van krijg. Erger nog als ik alle regels lees over soigneren dan krijg ik een verstikkingsgevoel waar bij ik denk dat de professionelen de regels maken waar jij je maar aan te houden hebt.
+Er is een zogenaamd handboek voor de fietser. Of je nu wielrenner, mountainbiker of fietser bent, je hebt je er blijkbaar aan deze regels te houden. Met wielrenners is het zo erg dat  handboek is zo strikt dat ik er wurgneigingen van krijg. Erger nog als ik alle regels lees over soigneren dan krijg ik een verstikkingsgevoel waar bij ik denk dat de professionelen de regels maken waar jij je maar aan te houden hebt.
 
 En dan heb ik het niet over, netjes voorrang verlenen, wat de meeste wielrenners niet doen, of het niet drie dik naast elkaar fietsen, wat de meeste wielrenners niet doen, of het voorzichtig langs andere dieren fietsen zoals paarden of honden, wat de meeste wielrenners dus ook niet doen.
 
@@ -41,7 +41,7 @@ Natuurlijk ben ik het met bovenstaande eens. Ik vind dat iedereen er goed uit mo
 
 Maar de wielrenners hebben er een handboek van gemaakt waarbij je alles, maar dan ook alles opgelegd wordt! Het is meer een handboek wat geschikt is voor een Chinese dictatuur dan voor een hobby sporter.
 
-Het zogenaamde wielerhandboek heet &#8220;Soigneren kun je leren&#8221;,  de [Soigneergids](https://issuu.com/rings-goirle/docs/soigneergids_compleet).
+Het zogenaamde wielerhandboek heet &#8220;Soigneren kun je leren&#8221;,  de [Soigneergids](https://issuu.com/rings-goirle/docs/soigneergids_compleet).
 
 > Het handboek voor iedere zichzelf respecterende Wielrenner
 
@@ -49,7 +49,7 @@ In de Soigneer gids staan zogenaamde regels waar je je aan moet houden! Om goed 
 
 ## Regels van het Soigneren
 
-### **Regel 1: Scheer je benen.**
+### **Regel 1: Scheer je benen.**
 
 Nou ik weet niet hoe het met jou is. Maar dat bepaal ik lekker zelf! Kom op zeg… mijn benen scheren? Gaat een sport dat voor me bepalen? Maar een baardje van 2 dagen mag wel!
 
@@ -59,7 +59,7 @@ Je mag bruin worden, maar je moet de hele zomer de zelfde outfit aan, want er mo
 
 ### **Regel 3: Kledingregels**
 
-Kleding moet aansluiten, dus een slobbershirt mag niet. Kom op! Een shirt heeft een doorlopende rits en is in effen kleuren. Dus een regenboog hardrock shirt is uit den boze!! 😃 Teamkleding, rabokleding, kampioenskleding is NOT DONE als je die niet hebt verdient… pfffff dus alleen de echte wieler-snobs mogen die aan. Ha ha ha alsof ik in zo’n achterlijk rabo outfit zou gaan rijden. Maar ook shirts met veel sponsoruitingen, alsof je professioneel rijder bent, wanneer je dit niet bent mag niet. Kom op! Ik trek aan wat ik wil, al wil ik in mijn string wil gaan rijden dan wil ik dat zelf uitmaken. Arm en beenstukken mogen nooit voorzien zijn van reclame….. echt…. de schoolknaap kleding uit 1856 is er niks bij!
+Kleding moet aansluiten, dus een slobbershirt mag niet. Kom op! Een shirt heeft een doorlopende rits en is in effen kleuren. Dus een regenboog hardrock shirt is uit den boze!! 😃 Teamkleding, rabokleding, kampioenskleding is NOT DONE als je die niet hebt verdient… pfffff dus alleen de echte wieler-snobs mogen die aan. Ha ha ha alsof ik in zo’n achterlijk rabo outfit zou gaan rijden. Maar ook shirts met veel sponsoruitingen, alsof je professioneel rijder bent, wanneer je dit niet bent mag niet. Kom op! Ik trek aan wat ik wil, al wil ik in mijn string wil gaan rijden dan wil ik dat zelf uitmaken. Arm en beenstukken mogen nooit voorzien zijn van reclame….. echt…. de schoolknaap kleding uit 1856 is er niks bij!
 
 ### **Regel 4: Verbaasd je vast niks…. sokken**
 
@@ -104,3 +104,6 @@ Op mijn sport Gazelle Bahia kan ik redelijk hard fietsen (heb 38km geklokt) en t
 ### Ik ben een Crosstrailer
 
 Gelukkig ben ik geen wielrenner maar een Crosstrail-er (zit tussen wielrenners en moutainbikers in) dus ik word waarschijnlijk door zowel wielrenners als door mountnainbikers uitgelachen om mijn fiets, maar ik ben blij dat ik geen wielrenner ben want de regels die ze er op na houden zijn ronduit belachelijk!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMjU1OTA2NDldfQ==
+-->
