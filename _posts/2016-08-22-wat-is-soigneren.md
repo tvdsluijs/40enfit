@@ -37,7 +37,7 @@ Ik soigneer, wij soigneren een term uit de fietswereld en dan met name uit het w
 >   1. zorg besteden aan het uiterlijk
 >   2. de lichamelijke conditie van sportlieden verzorgen
 
-Natuurlijk ben ik het met bovenstaande eens. Ik vind dat iedereen er goed uit moet zien (mits dat mogelijk is met hoe je er uit ziet 🙂 en dat hij dus zorg mag besteden aan zichzelf en aan de lichamelijke conditie. Anders was ik ook nooit deze site begonnen. Ik wilde er verzorgder en lichamelijker beter uit zien.
+Natuurlijk ben ik het met bovenstaande eens. Ik vind dat iedereen er goed uit moet zien (mits dat mogelijk is met hoe je er uit ziet 🙂) en dat hij of zij dus zorg mag besteden aan zichzelf en aan de lichamelijke conditie. Anders was ik ook nooit deze site begonnen. Ik wilde er verzorgder en lichamelijker beter uit zien.
 
 Maar de wielrenners hebben er een handboek van gemaakt waarbij je alles, maar dan ook alles opgelegd wordt! Het is meer een handboek wat geschikt is voor een Chinese dictatuur dan voor een hobby sporter.
 
@@ -51,7 +51,7 @@ In de Soigneer gids staan zogenaamde regels waar je je aan moet houden! Om goed 
 
 ### **Regel 1: Scheer je benen.**
 
-Nou ik weet niet hoe het met jou is. Maar dat bepaal ik lekker zelf! Kom op zeg… mijn benen scheren? Gaat een sport dat voor me bepalen? Maar een baardje van 2 dagen mag wel!
+Nou ik weet niet hoe het met jou is. Maar dat bepaal ik lekker zelf! Kom op zeg… mijn benen scheren? Gaat een sport dat voor me bepalen? Maar volgens de regels van Soigneren moet het! Overigens mag baardje van 2 dagen laten staan wel!
 
 ### **Regel 2: Gebruinde lijnen!**
 
@@ -105,5 +105,5 @@ Op mijn sport Gazelle Bahia kan ik redelijk hard fietsen (heb 38km geklokt) en t
 
 Gelukkig ben ik geen wielrenner maar een Crosstrail-er (zit tussen wielrenners en moutainbikers in) dus ik word waarschijnlijk door zowel wielrenners als door mountnainbikers uitgelachen om mijn fiets, maar ik ben blij dat ik geen wielrenner ben want de regels die ze er op na houden zijn ronduit belachelijk!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMyMjU1MjNdfQ==
+eyJoaXN0b3J5IjpbNzU1MjczMDBdfQ==
 -->
