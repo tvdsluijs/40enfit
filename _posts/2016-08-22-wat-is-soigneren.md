@@ -55,7 +55,7 @@ Nou ik weet niet hoe het met jou is. Maar dat bepaal ik lekker zelf! Kom op zegâ
 
 ### **Regel 2: Gebruinde lijnen!**
 
-Je mag bruin worden, maar je moet de hele zomer de zelfde outfit aan, want er moet goed onderscheid zijn tussen je gebruinde kuiten en je melk witte bovenbenen. Er moet dus een echte bruin wit lijn lopen tussen boven en onderbeen. Er mag geen overloop van van bruin naar wit, nee een echte streep! Vergeten meneren de fiets gids schrijver dat we een multiculturele samenleving hebben en er dus ook mensen in Nederland (of er buiten) wonen die altijd bruin zijn en ook fietsen.
+Je mag bruin worden, maar je moet de hele zomer de zelfde outfit aan, want er moet goed onderscheid zijn tussen je gebruinde kuiten en je melk witte bovenbenen. Er moet dus een echte bruine wit lijn lopen tussen boven en onderbeen. Er mag geen overloop van van bruin naar wit, nee een echte streep! Vergeet Meneer de fiets gids schrijver mooi wel even dat we een multiculturele samenleving hebben en er dus ook mensen in Nederland (of er buiten) wonen die altijd bruin zijn en ook fietsen.
 
 ### **Regel 3: Kledingregels**
 
@@ -105,5 +105,5 @@ Op mijn sport Gazelle Bahia kan ik redelijk hard fietsen (heb 38km geklokt) en t
 
 Gelukkig ben ik geen wielrenner maar een Crosstrail-er (zit tussen wielrenners en moutainbikers in) dus ik word waarschijnlijk door zowel wielrenners als door mountnainbikers uitgelachen om mijn fiets, maar ik ben blij dat ik geen wielrenner ben want de regels die ze er op na houden zijn ronduit belachelijk!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1MjczMDBdfQ==
+eyJoaXN0b3J5IjpbNDg3MTM2NTA5XX0=
 -->
