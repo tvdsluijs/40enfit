@@ -22,11 +22,11 @@ tags:
   - mtb
   - wielrenner
 ---
-Er is een zogenaamd handboek voor de fietser. Of je nu wielrenner, mountainbiker of fietser bent, je hebt je er blijkbaar aan deze regels te houden. Met wielrenners is het zo erg dat  handboek is zo strikt dat ik er wurgneigingen van krijg. Erger nog als ik alle regels lees over soigneren dan krijg ik een verstikkingsgevoel waar bij ik denk dat de professionelen de regels maken waar jij je maar aan te houden hebt.
+Er is een zogenaamd handboek voor de fietser. Of je nu wielrenner, mountainbiker of fietser bent, je hebt je er blijkbaar aan deze regels te houden. Met wielrenners is het zo erg dat hun handboek zo is strikt dat ik er wurgneigingen van krijg. Erger nog, als ik alle regels lees over soigneren dan krijg ik een verstikkingsgevoel waar bij ik denk dat "de professionelen" de regels maken waar jij je maar aan te houden hebt.
 
 En dan heb ik het niet over, netjes voorrang verlenen, wat de meeste wielrenners niet doen, of het niet drie dik naast elkaar fietsen, wat de meeste wielrenners niet doen, of het voorzichtig langs andere dieren fietsen zoals paarden of honden, wat de meeste wielrenners dus ook niet doen.
 
-_Let op: Dit artikel is puur ter vermaak, ik wil niemand kwetsen of op zijn of haar nummer zetten. Voel je je aangesproken, misschien moet je dan eens denken…misschien moet ik me eens niet zo arrogant opstellen als ik op mijn fiets zit._
+_Let op: Dit artikel is puur ter vermaak, ik wil niemand kwetsen of op zijn of haar nummer zetten. Voel je je toch aangesproken, misschien moet je je dan eens niet zo arrogant opstellen als je op je fiets zit._
   
 <!--more-->
   
@@ -105,5 +105,5 @@ Op mijn sport Gazelle Bahia kan ik redelijk hard fietsen (heb 38km geklokt) en t
 
 Gelukkig ben ik geen wielrenner maar een Crosstrail-er (zit tussen wielrenners en moutainbikers in) dus ik word waarschijnlijk door zowel wielrenners als door mountnainbikers uitgelachen om mijn fiets, maar ik ben blij dat ik geen wielrenner ben want de regels die ze er op na houden zijn ronduit belachelijk!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU1OTA2NDldfQ==
+eyJoaXN0b3J5IjpbLTE1OTMyMjU1MjNdfQ==
 -->
