@@ -4,7 +4,7 @@ title: Wat is Soigneren en waarom ik een gedragsboek mis
 date: 2016-08-22T09:06:34+00:00
 author: tvds
 layout: post
-featured: true
+featured: false
 permalink: /wat-is-soigneren/
 
 
@@ -105,5 +105,5 @@ Op mijn sport Gazelle Bahia kan ik redelijk hard fietsen (heb 38km geklokt) en t
 
 Gelukkig ben ik geen wielrenner maar een Crosstrail-er (zit tussen wielrenners en moutainbikers in) dus ik word waarschijnlijk door zowel wielrenners als door mountnainbikers uitgelachen om mijn fiets, maar ik ben blij dat ik geen wielrenner ben want de regels die ze er op na houden zijn ronduit belachelijk!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MTM2NTA5XX0=
+eyJoaXN0b3J5IjpbLTg3OTk5NzA4OCw0ODcxMzY1MDldfQ==
 -->
